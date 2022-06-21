@@ -5,19 +5,17 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <strong>Smart Contract Developer (Freelance), London, UK - (September 2021 – present)</strong>
+                    <strong>Smart Contract Developer, Upwork, Guildford, Surrey, UK - (September 2021 – present)</strong>
                     <ul>
-                        <li>Developed gas optimised and secure smart contracts for personal projects and for various clients in my free time.
-</li>
-                        <li> Used Truffle and Ganache to test the functions before deploying them on the Rinkeby Test Network and then on Loom
-and Ethereum mainnet.</li>
+                        <li>Developed gas optimised and secure smart contracts for personal projects and for various clients in my free time.</li>
+                        <li> Used Truffle and Ganache to test the functions before deploying them on the Rinkeby Test Network and then on Loom and Ethereum mainnet.</li>
+                        <li>Developed full-stack blockchain applications which are live on Web3.</li>
                     </ul>
                 </li>
                 <li>
-                    <strong>Master of Science, FinTech and Policy, University of Surrey - (Sept 2021 – Sept 2022)</strong>
+                    <strong>Master of Science, FinTech and Policy, University of Surrey - (September 2021 – September 2022)</strong>
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Studied DApp development, assisted Research &amp; Development on Web3 Products.</li>
                         <li>Researched areas including blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
                         <li>Presented a research paper on ethics and regulation of AI, including bias, risk and interpretability of AI algorithms.</li>
                         <li>Analysed the applicability of different jurisdictional rules related to cyber law concerning AI.</li>
