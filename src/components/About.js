@@ -13,6 +13,7 @@ myself to become a developer.<br></br>
 <p>
 Recognised as a pressure-coping racing driver with a calm demeanour who spends his free time as a musician
             </p>
+            <p>“Loyalty is a two-way street. If I’m asking for it from you, then you’re getting it from me.”</p>
         </section>
     );
 }
