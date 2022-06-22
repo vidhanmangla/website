@@ -1,6 +1,4 @@
 // Import Assets
-import profile from '../assets/profile.png';
-
 const About = () => {
     return (
         <section className='about'>
@@ -10,7 +8,8 @@ const About = () => {
 optimisation and security. I keep myself updated on everything related to blockchain technology and Web3, and taught myself to become a 
 developer.<br></br>
 </p>
-<p>
+
+<p><br></br>
 Recognised as a pressure-coping racing driver with a calm demeanour who spends his free time as a musician.
             </p><br></br>
             <p>“Loyalty is a two-way street. If I’m asking for it from you, then you’re getting it from me.”</p>
