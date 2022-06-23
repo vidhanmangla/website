@@ -14,8 +14,8 @@ const Projects = () => {
                     <p>A full-stack blockchain application. An instant cryptocurrency exchange powered by the Ethereum blockchain. It allows users to buy and sell JIZZY tokens at a fixed price against ether.
                     </p>
 
-                    <a href="https://euphonious-axolotl-704b66.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/Cryptocurrency-Swap-Exchange" target="_blank" className="button">Code</a>
+                    <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/vidhanmangla/jizzyb_ether_swap_exchange" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -24,8 +24,8 @@ const Projects = () => {
                     <p>A full-stack blockchain application. An instant cryptocurrency exchange powered by the Ethereum blockchain. It allows users to buy and sell JIZZY tokens at a fixed price against ether.
                     </p>
 
-                    <a href="https://euphonious-axolotl-704b66.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/Cryptocurrency-Swap-Exchange" target="_blank" className="button">Code</a>
+                    <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/vidhanmangla/jizzyb_ether_swap_exchange" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -34,8 +34,8 @@ const Projects = () => {
                     <p>A full-stack blockchain application. An instant cryptocurrency exchange powered by the Ethereum blockchain. It allows users to buy and sell JIZZY tokens at a fixed price against ether.
                     </p>
 
-                    <a href="https://euphonious-axolotl-704b66.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/Cryptocurrency-Swap-Exchange" target="_blank" className="button">Code</a>
+                    <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/vidhanmangla/jizzyb_ether_swap_exchange" target="_blank" className="button">Code</a>
                 </div>
                 
             </div>
