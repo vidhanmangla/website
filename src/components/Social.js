@@ -7,6 +7,7 @@ const Social = () => {
             <a href="https://twitter.com/vidhanmangla" className="button">Twitter</a>
             <a href="https://www.linkedin.com/in/vidhanmangla" className="button">LinkedIn</a>
             <a href="https://github.com/vidhanmangla" className="button">GitHub</a>
+            <a href="https://www.instagram.com/fireside.on.an.island/" className="button">Instagram</a>
         </div>
     );
 }
