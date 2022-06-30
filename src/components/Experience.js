@@ -25,26 +25,21 @@ const Experience = () => {
                     <strong>Assistant Manager, Kotak Mahindra Bank, New Delhi, India - (March 2020 – August 2020)</strong>
                     <ul>
                         <li>Generated business revenue by selling insurance to customers through proper planning and strategic execution.</li>
-                        <li>Determined skill gaps and optimised workplace competencies, increasing employee morale and productivity whilst
-supporting the company in conducting in-house training programmes.</li>
-                        <li>Ensured fulfilling applicable banking and national financial regulations and policies, enforcing standards throughout the
-branch to achieve desired objectives.</li>
+                        <li>Determined skill gaps and optimised workplace competencies, increasing employee morale and productivity whilst supporting the company in conducting in-house training programmes.</li>
+                        <li>Ensured fulfilling applicable banking and national financial regulations and policies, enforcing standards throughout the branch to achieve desired objectives.</li>
                     </ul>
                 </li>
                 <li>
                     <strong>Bachelor of Technology, Information Technology, GGSIP University, India - (August 2015 – July 2019)</strong>
                     <ul>
-                        <li>Obtained detailed knowledge of business informatics, ethical IT practices, information security, end-user computing,
-network administration and multifaceted IT operations and activities.</li>
-                        <li>Attained leading industry skills, including data structures, object-oriented programming, database management
-systems, and algorithms design and analysis.</li>
+                        <li>Obtained detailed knowledge of business informatics, ethical IT practices, information security, end-user computing, network administration and multifaceted IT operations and activities.</li>
+                        <li>Attained leading industry skills, including data structures, object-oriented programming, database management systems, and algorithms design and analysis.</li>
                     </ul>
                 </li>
                 <li>
                     <strong>Cloud Computing Intern, ESDS Software Solutions, New Delhi, India - (July 2018 – August 2018)</strong>
                     <ul>
-                        <li>Researched various cloud platforms available in the market and the technology used in data centres.
-</li>
+                        <li>Researched various cloud platforms available in the market and the technology used in data centres.</li>
                         <li>Worked with the sales and marketing team and accompanied my senior officers on various official visits.</li>
                     </ul>
                 </li>
