@@ -12,7 +12,7 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Cryptocurrency Swap Exchange</h3>
-                    <img src={jizzyswap} alt="Uniswap Swap Page" />
+                    <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>A full-stack blockchain application. An instant cryptocurrency exchange powered by the Ethereum blockchain. It allows users to buy and sell JIZZY tokens at a fixed price against ether.
                     </p>
                     <p>
@@ -25,7 +25,7 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Decentralised Lottery (Raffle)</h3>
-                    <img src={raffle} alt="Uniswap Swap Page" />
+                    <img src={raffle} alt="Raffle Page" />
                     <p>Upcoming...<br></br>(Within this month.)
                     </p>
 
@@ -35,7 +35,7 @@ const Projects = () => {
 
                 <div className="projects__card">
                     <h3>Non-fungible Token (NFT) Marketplace</h3>
-                    <img src={nft_marketplace} alt="Uniswap Swap Page" />
+                    <img src={nft_marketplace} alt="NFT Page" />
                     <p>Upcoming...<br></br>(Within this month.)
                     </p>
 
