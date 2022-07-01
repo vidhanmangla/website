@@ -30,7 +30,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Decentralised Lottery (Raffle)</h3>
                     <img src={raffle} alt="Raffle Page" />
-                    <p>Upcoming...<br></br>(Within this month)
+                    <p>Upcoming...<p></p>(Back End complete. Working on the Front End.)<br></br>Expect to be live on the Rinkeby Testnet within this week.
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
