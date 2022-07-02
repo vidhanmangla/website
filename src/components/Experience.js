@@ -5,9 +5,9 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <strong>Smart Contract Developer, Upwork, Guildford, Surrey, UK - (September 2021 – present)</strong>
+                    <strong>Smart Contract Developer, The Golden Egg, Guildford, United Kingdom - (June 2022 – present)</strong>
                     <ul>
-                        <li>Developed gas optimised and secure smart contracts for personal projects and for various clients in my free time.</li>
+                        <li>Developed gas optimised and secure smart contracts for my personal projects and for clients.</li>
                         <li> Used Truffle and Ganache to test the functions before deploying them on the Rinkeby Test Network and then on Loom and Ethereum mainnet.</li>
                         <li>Developed full-stack blockchain applications which are live on Web3.</li>
                     </ul>
