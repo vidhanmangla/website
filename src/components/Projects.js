@@ -1,7 +1,7 @@
 // Import Assets
 import jizzyswap from '../assets/jizzyswap.png';
 import nft_marketplace from '../assets/nft_marketplace.png';
-import raffle from '../assets/raffle.jpg';
+import raffle from '../assets/raffle.png';
 
 const Projects = () => {
     return (
@@ -30,10 +30,18 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Decentralised Lottery (Raffle)</h3>
                     <img src={raffle} alt="Raffle Page" />
-                    <p>Upcoming...<p></p>(Back End complete. Working on the Front End.)<br></br>Expect to be live on the Rinkeby Testnet within this week.
+                    <p>
+                        A full-stack blockchain application. A verifiably random, autonomous, decentralised lottery (raffle),
+                        powered by the Ethereum blockchain.
+                    </p>
+                    <p>
+                        It uses Chainlink's Oracle to pick a random winner. 
+                    </p>
+                    <p>
+                        Live on the Rinkeby testnet.<br></br>Will deploy it on the Ethereum-mainnet soon.
                     </p>
 
-                    <a href="" target="_blank" className="button">Site</a>
+                    <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/vidhanmangla/lottery_raffle" target="_blank" className="button">Code</a>
                 </div>
 
