@@ -34,12 +34,12 @@ const Projects = () => {
                     <img src={raffle} alt="Raffle Page" />
                     <p>
                         A full-stack blockchain application.
-                    <br></br>
-                        A fair, verifiably random, autonomous, decentralised lottery powered by
-                        the Ethereum blockchain.
+                        <br></br>
+                        A fair, verifiably random, autonomous, decentralised lottery, powered by
+                        the Ethereum blockchain and Chainlink's Oracle.
                     </p>
                     <p>
-                        It uses Chainlink's Oracle to pick a random winner. 
+                        It uses Chainlink VRF and Chainlink Keepers to pick a random winner. 
                     </p>
                     <p>
                         Live on the Rinkeby testnet.
