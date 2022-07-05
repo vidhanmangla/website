@@ -26,7 +26,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla?tab=repositories" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/vidhanmangla/jizzyb_ether_swap_exchange" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -46,7 +46,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla?tab=repositories" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/vidhanmangla/lottery_raffle" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -56,7 +56,7 @@ const Projects = () => {
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla?tab=repositories" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/vidhanmangla/nft_marketplace" target="_blank" className="button">Code</a>
                 </div>
                 
             </div>
