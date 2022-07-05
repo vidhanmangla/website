@@ -4,11 +4,11 @@ const Skills = () => {
         <section className='skills'>
             <h2>Technical Skills</h2>
             <p>
-                <li><strong>Languages:</strong> SQL, HTML5, CSS, JavaScript (React.js, Next.js, Web3.js), Solidity.</li>
+                <li><strong>Languages:</strong> SQL, HTML5, CSS, JavaScript (React.js, Next.js, Web3.js), JSON , Solidity.</li>
                 <br></br>
                 <li><strong>Development Environments:</strong> Remix - Ethereum IDE, Truffle Framework, Ganache, Hardhat, Brownie.</li>
                 <br></br>
-                <li>Deep conceptual and technological understanding of Ethereum.</li>
+                <li>Deep conceptual and technological understanding of Ethereum including Blockchain Oracle.</li>
                 <br></br>
                 <li>Working knowledge of zkSync and zk-SNARK.</li>
                 <br></br>
