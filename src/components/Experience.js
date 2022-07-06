@@ -8,7 +8,7 @@ const Experience = () => {
                     <strong>Smart Contract Developer, The Golden Egg, Guildford, United Kingdom - (June 2022 – present)</strong>
                     <ul>
                         <li>Developed gas optimised and secure smart contracts for my personal projects and for clients.</li>
-                        <li> Used Truffle and Ganache to test the functions before deploying them on the Rinkeby Test Network and then on Loom and Ethereum mainnet.</li>
+                        <li>Used Truffle and Ganache and Rinkeby Test Network to test the functions before deploying them on Loom and Ethereum mainnet using Infura.</li>
                         <li>Developed full-stack blockchain applications which are live on Web3.</li>
                     </ul>
                 </li>
@@ -18,7 +18,6 @@ const Experience = () => {
                         <li>Studied DApp development, assisted Research &amp; Development on Web3 Products.</li>
                         <li>Researched areas including blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
                         <li>Presented a research paper on ethics and regulation of AI, including bias, risk and interpretability of AI algorithms.</li>
-                        <li>Analysed the applicability of different jurisdictional rules related to cyber law concerning AI.</li>
                     </ul>
                 </li>
                 <li>
@@ -26,14 +25,14 @@ const Experience = () => {
                     <ul>
                         <li>Generated business revenue by selling insurance to customers through proper planning and strategic execution.</li>
                         <li>Determined skill gaps and optimised workplace competencies, increasing employee morale and productivity whilst supporting the company in conducting in-house training programmes.</li>
-                        <li>Ensured fulfilling applicable banking and national financial regulations and policies, enforcing standards throughout the branch to achieve desired objectives.</li>
+                        <li>Ensured fulfilling applicable banking and national financial regulations and policies.</li>
                     </ul>
                 </li>
                 <li>
                     <strong>Bachelor of Technology, Information Technology, GGSIP University, India - (August 2015 – July 2019)</strong>
                     <ul>
-                        <li>Obtained detailed knowledge of business informatics, ethical IT practices, information security, end-user computing, network administration and multifaceted IT operations and activities.</li>
-                        <li>Attained leading industry skills, including data structures, object-oriented programming, database management systems, and algorithms design and analysis.</li>
+                        <li>Obtained detailed knowledge of common algorithms, data structures, and their computational and memory complexities, as well as experience of implementing them from scratch.</li>
+                        <li>Attained leading industry skills, including object-oriented programming (OOP), database management systems, and algorithms design and analysis.</li>
                     </ul>
                 </li>
                 <li>

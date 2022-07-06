@@ -4,7 +4,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Smart Contract Developer with a track record of successfully accomplished projects, skilled at writing, testing,
+                Smart Contract & Blockchain Developer with a track record of successfully accomplished projects, skilled at writing, testing,
                 deploying, and administering smart contracts by taking care of gas optimisation and security. I keep myself updated
                 on everything related to distributed ledger technologies and taught myself to become a developer.
             </p>
