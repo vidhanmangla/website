@@ -30,7 +30,7 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Decentralised Smart Contract Lottery</h3>
+                    <h3>Decentralised Smart Contract Lottery (Flagship Project)</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
                         A full-stack blockchain application.
@@ -56,7 +56,7 @@ const Projects = () => {
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/nft_marketplace" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Code</a>
                 </div>
                 
             </div>
