@@ -7,6 +7,7 @@
 }
 
 body {
+  background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iMjY3LWV5ZS0wMS5qcGc.jpg");
   margin: 0;
   font-family: "Work Sans", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -124,7 +125,7 @@ code {
 
   padding: 20px;
 
-  border: 1px solid #0088BB;
+  border: 1px solid #000000;
   border-radius: 8px;
 }
 
@@ -193,7 +194,7 @@ code {
 .button {
   display: inline-block;
 
-  background: #12BDF3;
+  background: #ffffff;
 
   padding: 15px 50px;
 
@@ -211,6 +212,6 @@ code {
 }
 
 .button:hover {
-  background: #0088BB;
+  background: #d0bd67;
   color: #FFFFFF;
 }
