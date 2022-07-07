@@ -39,7 +39,7 @@ const Projects = () => {
                         the Ethereum blockchain and Chainlink's Oracle.
                     </p>
                     <p>
-                        It uses Chainlink VRF and Chainlink Keepers to pick a random winner. 
+                        It uses Chainlink Verifiable Randomness Function (VRF) and Chainlink Keepers to select a random winner. 
                     </p>
                     <p>
                         Live on the Rinkeby testnet.
