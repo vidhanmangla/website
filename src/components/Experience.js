@@ -7,9 +7,8 @@ const Experience = () => {
                 <li>
                     <strong>Smart Contract Developer, The Golden Egg, Guildford, United Kingdom - (June 2022 – present)</strong>
                     <ul>
-                        <li>Developed gas optimised and secure smart contracts for my personal projects and for clients.</li>
-                        <li>Used Truffle and Ganache and Rinkeby Test Network to test the functions before deploying them on Loom and Ethereum mainnet using Infura.</li>
-                        <li>Developed full-stack blockchain applications which are live on Web3.</li>
+                        <li>Being the only developer in the team, helped the company launch its initial stage projects.</li>
+                        <li>Used Truffle, Hardhat, Ganache and Rinkeby Testnet to develop and test the smart contracts before deploying them as full-stack applications on the Ethereum mainnet.</li>
                     </ul>
                 </li>
                 <li>
@@ -17,7 +16,9 @@ const Experience = () => {
                     <ul>
                         <li>Studied DApp development, assisted Research &amp; Development on Web3 Products.</li>
                         <li>Researched areas including blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
+                        <li>Developed gas optimised and secure smart contracts and full-stack blockchain applications which are live on Web3.</li>
                         <li>Presented a research paper on ethics and regulation of AI, including bias, risk and interpretability of AI algorithms.</li>
+
                     </ul>
                 </li>
                 <li>
