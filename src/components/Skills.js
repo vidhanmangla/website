@@ -10,11 +10,11 @@ const Skills = () => {
                 <br></br>
                 <li>Deep conceptual and technological understanding of Ethereum (EVM), including Chainlink Oracle.</li>
                 <br></br>
+                <li>Comfortable with using OpenZeppelin’s library of smart contracts.</li>
+                <br></br>
                 <li>Infura and Alchemy (Blockchain API’s), working knowledge of zkSync and zk-SNARK.</li>
                 <br></br>
                 <li>Git and Moralis (version control and APIs), Mythril and Coverage (Security and Gas efficiency).</li>
-                <br></br>
-                <li>Comfortable with using OpenZeppelin’s library of smart contracts and knowledge about all top 100 cryptocurrencies.</li>
                 <br></br>
                 <li>Financial Softwares: Bloomberg Terminal, Capital IQ, Microsoft Suite.</li>
             </p>
