@@ -6,7 +6,7 @@ const About = () => {
             <p>
             Smart Contract & Blockchain Developer with 2+ years of track record of successfully accomplished projects, skilled at
             writing, testing, deploying, and administering smart contracts by taking care of gas optimisation and security. Ability
-            to quickly learn new technologies and strong passion for blockchain and cryptocurrencies.
+            to quickly learn new technologies and strong passion for Blockchain and Cryptocurrencies.
             </p>
                 <br></br>
             <p>
