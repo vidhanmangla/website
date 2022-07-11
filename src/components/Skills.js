@@ -12,7 +12,7 @@ const Skills = () => {
                 <br></br>
                 <li>Comfortable with using OpenZeppelin’s library of smart contracts including ERCs.</li>
                 <br></br>
-                <li>Infura and Alchemy (Blockchain API’s), working knowledge of zkSync and zk-SNARK.</li>
+                <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync and zk-SNARK.</li>
                 <br></br>
                 <li>Git and Moralis (version control and APIs), Mythril and Coverage (Security and Gas efficiency).</li>
                 <br></br>
