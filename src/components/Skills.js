@@ -5,7 +5,7 @@ const Skills = () => {
             <p>
                 <li><strong>Languages:</strong> HTML5, CSS, JavaScript (React.js, Next.js, Web3.js), JSON , Solidity (Tokens + NFTs + DAOs).</li>
                 <br></br>
-                <li>Deep conceptual and technological understanding of Ethereum (EVM), including Chainlink Oracle.</li>
+                <li>Deep conceptual and technological understanding of Ethereum (EVM), including Blockchain Oracle.</li>
                 <br></br>
                 <li><strong>Development Environments:</strong> Remix - Ethereum IDE, Truffle Framework, Ganache, Hardhat, Brownie.</li>
                 <br></br>
