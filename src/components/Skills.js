@@ -1,4 +1,3 @@
-// Import Assets
 const Skills = () => {
     return (
         <section className='skills'>

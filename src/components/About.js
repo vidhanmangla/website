@@ -1,4 +1,3 @@
-// Import Assets
 const About = () => {
     return (
         <section className='about'>

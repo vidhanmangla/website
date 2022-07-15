@@ -1,4 +1,3 @@
-// Import Assets
 import jizzyswap from '../assets/jizzyswap.png';
 import nft_marketplace from '../assets/nft_marketplace.png';
 import raffle from '../assets/raffle.png';

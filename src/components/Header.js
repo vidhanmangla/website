@@ -1,4 +1,3 @@
-// Import Assets
 import profile from '../assets/profile.png';
 
 const Header = () => {
@@ -12,7 +11,7 @@ const Header = () => {
                 Smart Contract & Blockchain Developer 
                 </p>
                 <br></br>
-                <a href='mailto:vidhanmangla@gmail.com' className='button'>Get in Touch!</a>
+                <a href='mailto:vidhanmangla@gmail.com' className='button'>Get in Touch!</a>                
             </div>
         </section>
     );
