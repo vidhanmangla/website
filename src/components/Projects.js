@@ -23,14 +23,15 @@ const Projects = () => {
                     <p>
                         Live on the Rinkeby testnet.
                     </p>
+                    
                     <p>
                     <strong>Add JIZZY Token to your wallet:</strong>
                     <br></br>
-                    <strong>Contract Address:</strong> 0xFd6d1e17098C49e37A1974dCd898F76<br></br>b7E19bcd2
+                    <strong>Network:</strong> Rinkeby Test Network
+                    <br></br>
+                    <strong>Contract Address:</strong> 0xFd6d1e17098C49e37A1974dCd898F76-<br></br>b7E19bcd2
                     <br></br>
                     <strong>Token Decimal:</strong> 18
-                    <br></br>
-                    <strong>Network:</strong> Rinkeby Test Network
                     </p>
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
