@@ -8,7 +8,7 @@ const About = () => {
             </p>
                 <br></br>
             <p>
-            Ability to quickly learn new technologies, and strong passion for Blockchain and Cryptocurrencies.
+            Ability to quickly learn new technologies, and strong passion for Distributed Ledger Technologies (DLT).
             </p>
                 <br></br>
             <p>
