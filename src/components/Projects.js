@@ -13,9 +13,9 @@ const Projects = () => {
                     <h3>Cryptocurrency Swap Exchange</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
-                        A full-stack blockchain application.
+                        A full-stack Blockchain application.
                     <br></br>
-                        An instant cryptocurrency exchange powered by the Ethereum blockchain.
+                        An instant cryptocurrency exchange powered by the Ethereum Blockchain.
                     </p>
                     <p>
                         It allows users to buy and sell JIZZY tokens at a fixed price against ether.
@@ -42,10 +42,10 @@ const Projects = () => {
                     <h3>Decentralised Smart Contract Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        A full-stack blockchain application.
+                        A full-stack Blockchain application.
                         <br></br>
                         A fair, verifiably random, autonomous, decentralised lottery, powered by
-                        the Ethereum blockchain and Chainlink's Oracle.
+                        the Ethereum Blockchain and Chainlink's Oracle.
                     </p>
                     <p>
                         It uses Chainlink Verifiable Randomness Function (VRF) and Chainlink Keepers to select a random winner. 

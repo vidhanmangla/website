@@ -15,8 +15,8 @@ const Experience = () => {
                     <strong>Master of Science, FinTech and Policy, University of Surrey - (September 2021 – September 2022)</strong>
                     <ul>
                         <li>Studied DApp development, assisted Research &amp; Development on Web3 Products.</li>
-                        <li>Researched areas including blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
-                        <li>Developed gas optimised and secure smart contracts and full-stack blockchain applications which are live on Web3.</li>
+                        <li>Researched areas including Blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
+                        <li>Developed gas optimised and secure smart contracts and full-stack Blockchain applications which are live on Web3.</li>
                         <li>Presented a research paper on ethics and regulation of AI, including bias, risk and interpretability of AI algorithms.</li>
 
                     </ul>
