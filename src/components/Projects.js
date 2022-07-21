@@ -21,15 +21,15 @@ const Projects = () => {
                         It allows users to buy and sell JIZZY tokens at a fixed price against ether.
                     </p>
                     <p>
-                        Live on the Rinkeby testnet.
+                        Live on the Goerli testnet.
                     </p>
                     
                     <p>
                     <strong>Add JIZZY Token to your wallet:</strong>
                     <br></br>
-                    <strong>Network:</strong> Rinkeby Test Network
+                    <strong>Network:</strong> Goerli Test Network
                     <br></br>
-                    <strong>Contract Address:</strong> 0xFd6d1e17098C49e37A1974dCd898F76-<br></br>b7E19bcd2
+                    <strong>Contract Address:</strong> 0xb35f194c79D55412f636f307AA78E<br></br>1327b340BAA
                     <br></br>
                     <strong>Token Decimal:</strong> 18
                     </p>
