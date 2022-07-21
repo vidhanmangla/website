@@ -18,7 +18,7 @@ const Projects = () => {
                         An instant cryptocurrency exchange powered by the Ethereum Blockchain.
                     </p>
                     <p>
-                        Users to buy and sell JIZZY tokens at a fixed price against ether.
+                        Users can buy and sell JIZZY tokens at a fixed price against ether.
                     </p>
                     <p>
                         Live on the Rinkeby and Goerli testnet.
@@ -65,7 +65,10 @@ const Projects = () => {
                     <h3>Non-fungible Token (NFT) Marketplace</h3>
                     <img src={nft_marketplace} alt="NFT Page" />
                     <p>
-                        An NFT Marketplace like OpenSea created using Blockchain development fundamentals. Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
+                        An NFT Marketplace like OpenSea created using Blockchain development fundamentals.
+                    </p>
+                    <p>
+                    Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
