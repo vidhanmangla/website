@@ -40,7 +40,7 @@ const Experience = () => {
                     <strong>Cloud Computing Intern, ESDS Software Solutions, New Delhi, India - (July 2018 – August 2018)</strong>
                     <ul>
                         <li>Researched various cloud platforms available in the market and the technology used in data centres.</li>
-                        <li>Worked with the sales and marketing team and accompanied my senior officers on various official visits.</li>
+                        <li>Worked with the sales and marketing team and accompanied senior officers on official visits.</li>
                     </ul>
                 </li>
             </ul>

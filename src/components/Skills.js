@@ -9,7 +9,7 @@ const Skills = () => {
                 <br></br>
                 <li><strong>Development Environments:</strong> Remix - Ethereum IDE, Truffle Framework, Ganache, Hardhat, Brownie.</li>
                 <br></br>
-                <li>Comfortable with using OpenZeppelin’s library of smart contracts including ERCs.</li>
+                <li>Comfortable with using OpenZeppelin’s library of smart contracts, including ERCs.</li>
                 <br></br>
                 <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync and zk-SNARK.</li>
                 <br></br>
