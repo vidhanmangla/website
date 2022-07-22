@@ -24,7 +24,7 @@ const Projects = () => {
                         Live on the Rinkeby and Goerli testnet.
                     </p>
                     <p>
-                    <strong>Add JIZZY Token to your wallet:</strong>
+                    <strong>Add JIZZY token to your wallet:</strong>
                     <br></br>
                     <br></br>
                     <strong>Network:</strong> Rinkeby Test Network
@@ -69,6 +69,12 @@ const Projects = () => {
                     </p>
                     <p>
                     Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
+                    </p>
+                    <p>
+                        Backend live on the Rinkeby testnet.
+                        <br></br>
+                        <br></br>
+                        Check on Etherscan - 0x0521A6394Ee1cd77eC585c151bF079<br></br>727290939D
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
