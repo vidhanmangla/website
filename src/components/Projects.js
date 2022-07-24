@@ -18,7 +18,7 @@ const Projects = () => {
                         An instant cryptocurrency exchange powered by the Ethereum Blockchain.
                     </p>
                     <p>
-                        Users can buy and sell JIZZY tokens at a fixed price against Ether.
+                        Users can buy and sell ERC-20 tokens at a fixed price against Ether.
                     </p>
                     <p>
                         Live on the Rinkeby and Goerli testnet.
