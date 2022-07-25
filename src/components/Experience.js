@@ -7,8 +7,8 @@ const Experience = () => {
                 <li>
                     <strong>Smart Contract Developer, The Golden Egg, Guildford, United Kingdom - (June 2022 – present)</strong>
                     <ul>
-                        <li>Being the only Smart Contract Developer in the team, helped the company launch its initial stage projects.</li>
-                        <li>Used Truffle, Hardhat, Ganache and Rinkeby Testnet to develop and test the smart contracts before deploying them as full stack applications on the Ethereum mainnet.</li>
+                        <li>Helped the company launch its initial stage projects.</li>
+                        <li>Developed and tested Smart Contracts before deploying them as full-stack decentralised applications on the Ethereum mainnet.</li>
                     </ul>
                 </li>
                 <li>
