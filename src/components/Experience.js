@@ -8,7 +8,7 @@ const Experience = () => {
                     <strong>Smart Contract Developer, The Golden Egg, Guildford, United Kingdom - (June 2022 – present)</strong>
                     <ul>
                         <li>Helped the company launch its initial stage projects.</li>
-                        <li>Developed and tested Smart Contracts before deploying them as full-stack decentralised applications on the Ethereum mainnet.</li>
+                        <li>Developed and tested gas optimised and secure Smart Contracts before deploying them as full-stack decentralised applications on the Ethereum mainnet.</li>
                     </ul>
                 </li>
                 <li>
@@ -16,7 +16,7 @@ const Experience = () => {
                     <ul>
                         <li>Studied DApp development, assisted Research &amp; Development on Web3 Products.</li>
                         <li>Researched areas including Blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
-                        <li>Developed gas optimised and secure smart contracts and full-stack Blockchain applications which are live on Web3.</li>
+                        <li>Inspected different jurisdictional rules associated with cyber laws in line with Artificial Intelligence.</li>
                         <li>Presented a research paper on ethics and regulation of AI, including bias, risk and interpretability of AI algorithms.</li>
 
                     </ul>
