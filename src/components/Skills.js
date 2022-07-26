@@ -3,7 +3,7 @@ const Skills = () => {
         <section className='skills'>
             <h2>Technical Skills</h2>
             <p>
-                <li>Deep conceptual and technological understanding of Ethereum (EVM), including Blockchain Oracle.</li>
+                <li>Deep conceptual and technological understanding of Ethereum (EVM), including the Blockchain Oracle.</li>
                 <br></br>
                 <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (React, Next.js, web3.js), JSON, HTML5, CSS.</li>
                 <br></br>

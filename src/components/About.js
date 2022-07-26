@@ -3,7 +3,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-            Smart Contract & Blockchain Developer with 2+ years of experience in successfully accomplished projects, skilled at writing, testing, deploying and auditing smart contracts by taking care of gas optimisation and security.
+            Smart Contract & Blockchain Developer with 2+ years of expertise, skilled at writing, testing, deploying and auditing Smart Contracts by taking care of gas optimisation and security.
             </p>
                 <br></br>
             <p>
