@@ -29,12 +29,12 @@ const Projects = () => {
                     <br></br>
                     <strong>Network:</strong> Rinkeby Test Network
                     <br></br>
-                    <strong>Contract Address:</strong> 0xFd6d1e17098C49e37A1974dCd898<br></br>F76b7E19bcd2
+                    <strong>Contract Address:</strong> 0x97a52d060dBba7747b0d8684F0482<br></br>d85AbFE059C
                     <br></br>
                     <br></br>
                     <strong>Network:</strong> Goerli Test Network
                     <br></br>
-                    <strong>Contract Address:</strong> 0xb35f194c79D55412f636f307AA78E<br></br>1327b340BAA
+                    <strong>Contract Address:</strong>  0x8146ED10760A0F67650171288F5C60<br></br>a238b7f24B
                     </p>
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
