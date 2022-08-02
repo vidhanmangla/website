@@ -13,7 +13,7 @@ const Skills = () => {
                 <br></br>
                 <li>Development of ERC-20, ERC-721, ERC-777, ERC-1155 and ERC-1400 contracts.</li>
                 <br></br>
-                <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync and zk-SNARK.</li>
+                <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync, zk-SNARK and zkEVM.</li>
                 <br></br>
                 <li>Git and Moralis (version control and APIs), Mythril and Coverage (Security and Gas efficiency).</li>
                 <br></br>
