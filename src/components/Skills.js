@@ -11,6 +11,8 @@ const Skills = () => {
                 <br></br>
                 <li>Comfortable with using OpenZeppelin’s library of smart contracts.</li>
                 <br></br>
+                <li>Working knowledge of Moralis, experience creating subgraphs on The Graph.</li>
+                <br></br>
                 <li>Development of ERC-20, ERC-721, ERC-777, ERC-1155 and ERC-1400 contracts.</li>
                 <br></br>
                 <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync, zk-SNARK and zkEVM.</li>
