@@ -71,10 +71,7 @@ const Projects = () => {
                     Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
                     <p>
-                        Backend live on the Rinkeby testnet. Working on frontend.
-                        <br></br>
-                        <br></br>
-                        Check on Etherscan - 0x0521A6394Ee1cd77eC585c151bF079<br></br>727290939D
+                        Working on it...
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
