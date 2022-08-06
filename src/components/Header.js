@@ -11,7 +11,12 @@ const Header = () => {
                 Smart Contract & Blockchain Developer 
                 </p>
                 <br></br>
-                <a href='mailto:vidhanmangla@gmail.com' className='button'>Get in Touch!</a>                
+                <a href='mailto:vidhanmangla@gmail.com' className='button'>Get in Touch!</a>
+                <br></br>
+                <br></br>
+                <a href ="https://link.storjshare.io/jurv5k4od74h7wr2dlf4vqonowfq/jobs-material%2FResume.pdf" attributes-list> Resume </a>
+                <br></br>
+                <a href ="https://link.storjshare.io/jvyvuek267yl5pyleas36citupda/jobs-material%2FCover%20Letter.pdf" attributes-list> Cover Letter </a>
             </div>
         </section>
     );
