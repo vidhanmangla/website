@@ -1,6 +1,7 @@
 import jizzyswap from '../assets/jizzyswap.png';
 import nft_marketplace from '../assets/nft_marketplace.png';
 import raffle from '../assets/raffle.png';
+import nfts from '../assets/nfts.png';
 
 const Projects = () => {
     return (
@@ -22,19 +23,6 @@ const Projects = () => {
                     </p>
                     <p>
                         Live on the Rinkeby and Goerli testnet.
-                    </p>
-                    <p>
-                    <strong>Add JIZZY token to your wallet:</strong>
-                    <br></br>
-                    <br></br>
-                    <strong>Network:</strong> Rinkeby Test Network
-                    <br></br>
-                    <strong>Contract Address:</strong> 0x97a52d060dBba7747b0d8684F0482<br></br>d85AbFE059C
-                    <br></br>
-                    <br></br>
-                    <strong>Network:</strong> Goerli Test Network
-                    <br></br>
-                    <strong>Contract Address:</strong>  0x8146ED10760A0F67650171288F5C60<br></br>a238b7f24B
                     </p>
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
@@ -59,6 +47,21 @@ const Projects = () => {
 
                     <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/vidhanmangla/lottery_raffle" target="_blank" className="button">Code</a>
+                </div>
+
+                <div className="projects__card">
+                    <h3>Non-fungible Tokens (NFTs)</h3>
+                    <img src={nfts} alt="NFTs" />
+                    <p>
+                        Three ERC-721 Non-fungible tokens (NFTs).
+                    </p>
+                    <p>
+                        Deployed on the Rinkeby testnet.
+                    </p>
+
+                    <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Check on Etherscan</a>
+                    <a href="https://github.com/vidhanmangla/jizzyB_nft" target="_blank" className="button">Code</a>
+                    <a href="https://testnets.opensea.io/collection/dogie-2vlbsf4gb1" target="_blank" className="button">Check on OpenSea</a>
                 </div>
 
                 <div className="projects__card">
