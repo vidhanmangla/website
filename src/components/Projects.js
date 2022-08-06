@@ -2,6 +2,8 @@ import jizzyswap from '../assets/jizzyswap.png';
 import nft_marketplace from '../assets/nft_marketplace.png';
 import raffle from '../assets/raffle.png';
 import nfts from '../assets/nfts.png';
+import dao from '../assets/dao.png';
+import DeFi_Bank from '../assets/DeFi_Bank.png';
 
 const Projects = () => {
     return (
@@ -14,8 +16,6 @@ const Projects = () => {
                     <h3>Cryptocurrency Swap Exchange</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
-                        A full-stack Blockchain application.
-                    <br></br>
                         An instant cryptocurrency exchange powered by the Ethereum Blockchain.
                     </p>
                     <p>
@@ -30,16 +30,27 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
+                    <h3>Decentralised Bank</h3>
+                    <img src={DeFi_Bank} alt="DeFi Bank" />
+                    <p>
+                        A decentralised bank where users can earn interest or staking rewards by depositing and staking their crypto tokens on a blockchain via smart contracts for a certain period of time.
+                    </p>
+                    <p>
+                        
+                    </p>
+                    <p>
+                        Working on it...
+                    </p>
+                </div>
+
+                <div className="projects__card">
                     <h3>Decentralised Smart Contract Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        A full-stack Blockchain application.
-                        <br></br>
-                        A fair, verifiably random, autonomous, decentralised lottery powered by
-                        the Ethereum Blockchain and Chainlink's Oracle.
+                        A fair, verifiably random, autonomous, decentralised lottery.
                     </p>
                     <p>
-                        It uses Chainlink Verifiable Randomness Function (VRF) and Chainlink Keepers to select a random winner. 
+                        It uses Chainlink's Oracle to select a random winner. 
                     </p>
                     <p>
                         Live on the Rinkeby testnet.
@@ -53,7 +64,7 @@ const Projects = () => {
                     <h3>Non-fungible Tokens (NFTs)</h3>
                     <img src={nfts} alt="NFTs" />
                     <p>
-                        Three ERC-721 Non-fungible tokens (NFTs).
+                        ERC-721 non-fungible tokens (NFTs).
                     </p>
                     <p>
                         Deployed on the Rinkeby testnet.
@@ -61,7 +72,7 @@ const Projects = () => {
 
                     <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Check on Etherscan</a>
                     <a href="https://github.com/vidhanmangla/jizzyB_nft" target="_blank" className="button">Code</a>
-                    <a href="https://testnets.opensea.io/collection/dogie-2vlbsf4gb1" target="_blank" className="button">Check on OpenSea</a>
+                    <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">Check on OpenSea</a>
                 </div>
 
                 <div className="projects__card">
@@ -76,9 +87,17 @@ const Projects = () => {
                     <p>
                         Working on it...
                     </p>
+                </div>
 
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Code</a>
+                <div className="projects__card">
+                    <h3>Decentralised Autonomous Organisation (DAO)</h3>
+                    <img src={dao} alt="DAO" />
+                    <p>
+                        A Decentralised Autonomous Organisation inspired by Compound which has 100% on-chain voting and governance. 
+                    </p>
+                    <p>
+                        Working on it...
+                    </p>
                 </div>
 
             </div>
