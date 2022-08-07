@@ -16,7 +16,7 @@ const Projects = () => {
                     <h3>Cryptocurrency Swap Exchange</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
-                        An instant cryptocurrency exchange powered by the Ethereum Blockchain.
+                        An instant <strong>cryptocurrency exchange</strong> powered by the Ethereum Blockchain.
                     </p>
                     <p>
                         Users can buy and sell ERC-20 tokens at a fixed price against Ether.
@@ -33,14 +33,17 @@ const Projects = () => {
                     <h3>Decentralised Bank</h3>
                     <img src={DeFi_Bank} alt="DeFi Bank" />
                     <p>
-                        A decentralised bank where users can earn interest or staking rewards by depositing and staking their crypto tokens on a blockchain via smart contracts for a certain period of time.
+                        A minimalistic <strong>yeild farming</strong> platform.
                     </p>
                     <p>
-                        
+                        Users can earn interest or staking rewards by depositing and staking their tokens for a certain period of time.
                     </p>
                     <p>
-                        Working on it...
+                        Live on the Goerli testnet.
                     </p>
+
+                    <a href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/vidhanmangla/decentralised-bank" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
