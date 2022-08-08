@@ -7,7 +7,7 @@ const Skills = () => {
                 <br></br>
                 <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (React, Next.js, web3.js), JSON, HTML5, CSS.</li>
                 <br></br>
-                <li><strong>Development Environments:</strong> Remix - Ethereum IDE, Truffle Framework, Ganache, Hardhat, Brownie.</li>
+                <li><strong>Development Environments:</strong> Hardhat, Remix - Ethereum IDE, Truffle Framework, Ganache, Brownie.</li>
                 <br></br>
                 <li>Comfortable with using OpenZeppelin’s library of smart contracts.</li>
                 <br></br>
