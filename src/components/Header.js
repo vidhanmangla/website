@@ -18,7 +18,7 @@ const Header = () => {
                         <small><a href ="https://link.storjshare.io/jxz5rogc7wkkffo4qthkbmrsetaq/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
                 <br></br>
                 <br></br>
-                        <small><a href ="https://link.storjshare.io/jxhazdjrpe7uk6ylvwqwawobykcq/jobs-material%2FCover%20Letter.pdf" attributes-list>Cover Letter</a></small>
+                        <small><a href ="https://link.storjshare.io/jx6g476ckgkd6epgnedfskoflzca/jobs-material%2FCover%20Letter.pdf" attributes-list>Cover Letter</a></small>
             </div>
         </section>
     );
