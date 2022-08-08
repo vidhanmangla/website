@@ -5,9 +5,9 @@ const Skills = () => {
             <p>
                 <li>Deep conceptual and technological understanding of Ethereum (EVM), including the Blockchain Oracle.</li>
                 <br></br>
-                <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (React, Next.js, web3.js), JSON, HTML5, CSS.</li>
+                <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (Node.js, React, Next.js), HTML and CSS.</li>
                 <br></br>
-                <li><strong>Development Environments:</strong> Hardhat, Remix - Ethereum IDE, Truffle Framework, Ganache, Brownie.</li>
+                <li><strong>Development Environments:</strong> Hardhat, Remix, Truffle Framework and Ganache.</li>
                 <br></br>
                 <li>Comfortable with using OpenZeppelin’s library of smart contracts.</li>
                 <br></br>

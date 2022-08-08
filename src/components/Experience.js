@@ -5,7 +5,7 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <strong>Smart Contract Developer, The Golden Egg, Guildford, England (June 2022 – present)</strong>
+                    <strong>Smart Contract Developer, The Golden Egg, Guildford, England (Part-time) (June 2022 – present)</strong>
                     <ul>
                         <li>Helped the company launch its initial stage projects.</li>
                         <li>Developed and tested gas optimised and secure Smart Contracts before deploying them as full-stack decentralised applications on the Ethereum mainnet.</li>
