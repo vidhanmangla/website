@@ -36,7 +36,7 @@ const Projects = () => {
                         A minimalistic <strong>yeild farming</strong> platform.
                     </p>
                     <p>
-                        Users can earn interest or staking rewards by depositing and staking their tokens for a certain period of time.
+                        Users can earn interest or staking rewards by depositing and staking their mDAI stablecoin tokens for a certain period of time.
                     </p>
                     <p>
                         Live on the Goerli testnet.
