@@ -17,7 +17,7 @@ const Skills = () => {
                 <br></br>
                 <li><u>ERC-1400</u>: Security Token Standard and <u>ERC-4626</u>: Tokenised Vault Standard contracts.</li>
                 <br></br>
-                <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync, zk-SNARK and zkEVM.</li>
+                <li>Infura and Alchemy (Blockchain nodes), knowledge of zkSync, zk-SNARK and zkEVM (Zero-Knowledge proofs).</li>
                 <br></br>
                 <li>Git and Moralis (version control and APIs), Mythril and Coverage (Security and Gas efficiency).</li>
                 <br></br>
