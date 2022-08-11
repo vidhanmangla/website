@@ -11,7 +11,7 @@ const About = () => {
             </p>
                 <br></br>
             <p>
-                Recognised as a pressure-coping racing driver with a calm demeanour who spends his free time as a musician.
+                Recognised as a pressure-coping racing driver with a calm demeanour who spends his free time as a musician. I am a passionate man, passion drives me. Everything I do in life, it's my passion!
             </p>
         </section>
     );

@@ -13,7 +13,9 @@ const Skills = () => {
                 <br></br>
                 <li>Working knowledge of Moralis, experience creating subgraphs on The Graph.</li>
                 <br></br>
-                <li>Development of ERC-20, ERC-721, ERC-777, ERC-1155 and ERC-1400 contracts.</li>
+                <li><u>ERC-20</u>: Fungible Tokens, <u>ERC-721</u>: Non-Fungible Tokens, <u>ERC-777</u>: Token standard, <u>ERC-1155</u>: Multi-token standard.</li>
+                <br></br>
+                <li><u>ERC-1400</u>: Security Token Standard and <u>ERC-4626</u>: Tokenised Vault Standard contracts.</li>
                 <br></br>
                 <li>Infura and Alchemy (Blockchain nodes), working knowledge of zkSync, zk-SNARK and zkEVM.</li>
                 <br></br>
