@@ -14,7 +14,7 @@ const Header = () => {
                         <a href='mailto:vidhanmangla@gmail.com' className='button'>Get in Touch!</a>
                 <br></br>
                 <br></br>
-                        <small><a href ="https://link.storjshare.io/jwe4wdvvkmzfy4cvqbaevx2vuoya/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
+                        <small><a href ="https://link.storjshare.io/juqfexayka3uojm562lbx7k26b3q/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
                 <br></br>
                 <br></br>
                         <small><a href ="https://link.storjshare.io/jvffj4ubmxxsanzynsgjb76zpx5q/jobs-material%2FCover%20Letter.pdf" attributes-list>Cover Letter</a></small>
