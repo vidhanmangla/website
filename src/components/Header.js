@@ -17,7 +17,7 @@ const Header = () => {
                         <small><a href ="https://link.storjshare.io/jwe4wdvvkmzfy4cvqbaevx2vuoya/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
                 <br></br>
                 <br></br>
-                        <small><a href ="https://link.storjshare.io/jx6g476ckgkd6epgnedfskoflzca/jobs-material%2FCover%20Letter.pdf" attributes-list>Cover Letter</a></small>
+                        <small><a href ="https://link.storjshare.io/jvffj4ubmxxsanzynsgjb76zpx5q/jobs-material%2FCover%20Letter.pdf" attributes-list>Cover Letter</a></small>
                 <br></br>
                 <br></br>
                         <small>This Web 3.0 portfolio website is proudly hosted on IPFS</small>
