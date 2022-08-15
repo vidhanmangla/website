@@ -87,9 +87,9 @@ const Projects = () => {
                     <p>
                     Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
-                    <p>
-                        Working on it...
-                    </p>
+                    
+                    <a href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Code</a>
+
                 </div>
 
                 <div className="projects__card">
@@ -98,9 +98,9 @@ const Projects = () => {
                     <p>
                         A Decentralised Autonomous Organisation inspired by Compound which has 100% on-chain voting and governance. 
                     </p>
-                    <p>
-                        Working on it...
-                    </p>
+                    
+                    <a href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
+
                 </div>
 
             </div>
