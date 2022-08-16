@@ -11,12 +11,13 @@ const Header = () => {
                 Smart Contract & Blockchain Developer 
                 </p>
                 <br></br>
-                        <a href='mailto:vidhanmangla@gmail.com' className='button'>Get in Touch!</a>
+                        <a href='mailto:vidhanmangla@gmail.com' className='button'>Email</a>
+                        <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' className='button'>Meeting</a>
                 <br></br>
                 <br></br>
                         <small><a href ="https://link.storjshare.io/juqfexayka3uojm562lbx7k26b3q/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
                 <br></br>
-                <br></br>
+                <br></br>        
                         <small><a href ="https://link.storjshare.io/jv5374pkekbizsizeq6mfbiuuz5q/jobs-material%2FCover%20Letter.pdf" attributes-list>Cover Letter</a></small>
                 <br></br>
                 <br></br>
