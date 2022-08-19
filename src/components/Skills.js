@@ -9,13 +9,13 @@ const Skills = () => {
                 <br></br>
                         <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (Node.js, React, Next.js), HTML and CSS.</li>
                 <br></br>
+                        <li>General understanding of cryptography in Blockchain.</li>
+                <br></br>
                         <li><strong>Development Environments:</strong> Hardhat, Remix, Truffle Framework and Ganache.</li>
                 <br></br>
                         <li>Comfortable with using OpenZeppelin’s library of smart contracts.</li>
                 <br></br>
                         <li>Working knowledge of Moralis, experience creating subgraphs on The Graph.</li>
-                <br></br>
-                        <li>General understanding of cryptography for Blockchain.</li>
                 <br></br>
                         <li>Infura and Alchemy (Blockchain nodes), knowledge of zkSync, zk-SNARK and zkEVM (Zero-Knowledge proofs).</li>
                 <br></br>
