@@ -5,7 +5,7 @@ const Skills = () => {
             <p>
                 <li>Deep conceptual and technological understanding of Ethereum (EVM), including the Blockchain Oracle.</li>
                 <br></br>
-                <li>Implement and deploy smart contracts to Ethereum mainnet and layer 2’s.</li>
+                <li>Implement and deploy smart contracts on Ethereum mainnet and layer 2’s.</li>
                 <br></br>
                 <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (Node.js, React, Next.js), HTML and CSS.</li>
                 <br></br>
