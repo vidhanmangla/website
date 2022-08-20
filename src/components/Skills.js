@@ -7,7 +7,7 @@ const Skills = () => {
                 <br></br>
                         <li>Understanding of cryptography in Blockchain, L2 Technologies, PoS/PoA sidechains.</li>
                 <br></br>
-                        <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (Node.js, React, Next.js), HTML and CSS.</li>
+                        <li><strong>Languages:</strong> Solidity (Tokens + NFTs + DAOs), JavaScript (Node.js, React, Next.js), TypeScript, HTML and CSS.</li>
                 <br></br>
                         <li><strong>Development Environments:</strong> Hardhat, Truffle, Ganache and Remix.</li>
                 <br></br>

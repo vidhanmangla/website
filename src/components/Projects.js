@@ -13,6 +13,7 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
+
                     <h3>Cryptocurrency Swap Exchange</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
@@ -27,9 +28,11 @@ const Projects = () => {
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/vidhanmangla/jizzyb_ether_swap_exchange" target="_blank" className="button">Code</a>
+             
                 </div>
 
                 <div className="projects__card">
+
                     <h3>Decentralised Bank</h3>
                     <img src={DeFi_Bank} alt="DeFi Bank" />
                     <p>
@@ -44,9 +47,11 @@ const Projects = () => {
 
                     <a href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/vidhanmangla/decentralised-bank" target="_blank" className="button">Code</a>
+              
                 </div>
 
                 <div className="projects__card">
+
                     <h3>Decentralised Smart Contract Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
@@ -61,9 +66,11 @@ const Projects = () => {
 
                     <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/vidhanmangla/lottery_raffle" target="_blank" className="button">Code</a>
+               
                 </div>
 
                 <div className="projects__card">
+
                     <h3>Non-fungible Tokens (NFTs)</h3>
                     <img src={nfts} alt="NFTs" />
                     <p>
@@ -76,9 +83,11 @@ const Projects = () => {
                     <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Check on Etherscan</a>
                     <a href="https://github.com/vidhanmangla/jizzyB_nft" target="_blank" className="button">Code</a>
                     <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">Check on OpenSea</a>
+                
                 </div>
 
                 <div className="projects__card">
+
                     <h3>Non-fungible Token (NFT) Marketplace</h3>
                     <img src={nft_marketplace} alt="NFT Page" />
                     <p>
@@ -89,10 +98,12 @@ const Projects = () => {
                     </p>
                     
                     <a href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/vidhanmangla/nft_marketplace_fullstack_graph" target="_blank" className="button">Subgraph</a>
 
                 </div>
 
                 <div className="projects__card">
+
                     <h3>Decentralised Autonomous Organisation (DAO)</h3>
                     <img src={dao} alt="DAO" />
                     <p>
