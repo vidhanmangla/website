@@ -15,10 +15,8 @@ const Experience = () => {
                 <li>
                     <strong>Master of Science, FinTech and Policy, University of Surrey, England (September 2021 – September 2022)</strong>
                     <ul>
-                        <li>Studied DApp development, assisted Research &amp; Development on Web3 Products.</li>
                         <li>Researched areas including Blockchain, De-Fi, alternative lending, InsurTech and RegTech in the UK and globally.</li>
-                        <li>Inspected different jurisdictional rules associated with cyber laws in line with Artificial Intelligence.</li>
-                        <li>Presented a research paper on ethics and regulation of AI, including bias, risk and interpretability of AI algorithms.</li>
+                        <li>Presented a research paper on ethics and regulation of Artificial Intelligence, did a case study on Binance.</li>
 
                     </ul>
                 </li>
