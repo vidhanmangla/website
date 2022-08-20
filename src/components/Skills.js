@@ -15,7 +15,7 @@ const Skills = () => {
                 <br></br>
                         <li>OpenZeppelin’s library of smart contracts.</li>
                 <br></br>
-                        <li>Creating subgraphs on The Graph, zkSync, zk-SNARK and zkEVM (Zero-Knowledge proofs).</li>
+                        <li>Creating subgraphs on The Graph. Knowledge of zkSync, zk-SNARK and zkEVM (Zero-Knowledge proofs).</li>
                 <br></br>
                         <li>Infura and Alchemy, Git and Moralis, Mythril and Coverage.</li>
                 <br></br>
