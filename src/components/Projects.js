@@ -8,6 +8,7 @@ import DeFi_Bank from '../assets/DeFi_Bank.png';
 const Projects = () => {
     return (
         <section className="projects">
+            
             <h2>My Projects</h2>
 
             <div className="projects__cards">
@@ -115,6 +116,7 @@ const Projects = () => {
                 </div>
 
             </div>
+
         </section>
     );
 }

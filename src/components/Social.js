@@ -1,6 +1,7 @@
 const Social = () => {
     return (
         <div className="social">
+
             <h2>Socials</h2>
 
             <a href="https://www.instagram.com/_jizzy_b_" className="button">Instagram (Racing)</a>
@@ -9,6 +10,7 @@ const Social = () => {
             <a href="https://twitter.com/vidhanmangla" className="button">Twitter</a>
             <a href="https://discord.gg/vRB3cXZN" className="button">Discord</a>
             <a href="https://www.instagram.com/fireside.on.an.island" className="button">Instagram (Music)</a>
+            
         </div>
     );
 }

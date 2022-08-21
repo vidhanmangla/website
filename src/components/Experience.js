@@ -1,6 +1,7 @@
 const Experience = () => {
     return (
         <div className="experience">
+
             <h2>Experience</h2>
 
             <ul>
@@ -30,6 +31,7 @@ const Experience = () => {
                     <strong>Cloud Computing Intern, ESDS Software Solutions, India (July 2018 – August 2018)</strong>
                 </li>
             </ul>
+            
         </div>
     );
 }

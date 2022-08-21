@@ -1,6 +1,7 @@
 const Skills = () => {
     return (
         <section className='skills'>
+
             <h2>Technical Skills</h2>
             <p>
                         <li>Deep conceptual and technological understanding of Ethereum (EVM), including the Blockchain Oracle.</li>
@@ -19,6 +20,7 @@ const Skills = () => {
                 <br></br>
                         <li>Creating subgraphs on The Graph. Knowledge of zkSync, zk-SNARK and zkEVM (Zero-Knowledge proofs).</li>
             </p>
+
         </section>
     );
 }
