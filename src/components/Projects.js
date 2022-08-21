@@ -81,9 +81,9 @@ const Projects = () => {
                         Deployed on the Rinkeby testnet.
                     </p>
 
-                    <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Check on Etherscan</a>
+                    <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Etherscan</a>
                     <a href="https://github.com/vidhanmangla/jizzyB_nft" target="_blank" className="button">Code</a>
-                    <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">Check on OpenSea</a>
+                    <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
                 
                 </div>
 
