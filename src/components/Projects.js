@@ -37,7 +37,7 @@ const Projects = () => {
                     <h3>Decentralised Bank</h3>
                     <img src={DeFi_Bank} alt="DeFi Bank" />
                     <p>
-                        A minimalistic <strong>yeild farming</strong> platform.
+                        A minimalistic <strong>liquidity/yeild farming</strong> platform.
                     </p>
                     <p>
                         Users can earn interest or staking rewards by depositing and staking their mDAI stablecoin tokens for a certain period of time.
