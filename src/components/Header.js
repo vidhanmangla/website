@@ -24,9 +24,6 @@ const Header = () => {
                     <br></br>
                     <br></br>
                             <small>📍 England, United Kingdom</small>
-                    <br></br>
-                    <br></br>
-                            <small>This Web 3.0 portfolio website is proudly hosted on IPFS</small>
                             
             </div>
 
