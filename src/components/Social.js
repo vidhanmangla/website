@@ -1,5 +1,6 @@
 const Social = () => {
     return (
+
         <div className="social">
 
             <h2>Socials</h2>
@@ -12,6 +13,7 @@ const Social = () => {
             <a href="https://www.instagram.com/fireside.on.an.island" className="button">Music</a>
             
         </div>
+        
     );
 }
 

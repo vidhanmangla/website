@@ -2,6 +2,7 @@ import profile from '../assets/profile.png';
 
 const Header = () => {
     return (
+
         <section className='header'>
 
             <img src={profile} alt="Vidhan Mangla" />
@@ -30,6 +31,7 @@ const Header = () => {
             </div>
 
         </section>
+        
     );
 }
 
