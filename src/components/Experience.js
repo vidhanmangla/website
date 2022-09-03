@@ -9,7 +9,7 @@ const Experience = () => {
                 
                 <li>
 
-                    <strong>Smart Contract Developer, The Golden Egg, Guildford, England (Part-time) (June 2022 – present)</strong>
+                    <strong>Smart Contract Developer, The Golden Egg, Guildford, England (Part-time) (June 2022 – August 2022)</strong>
                 
                 </li>
                 <li>
