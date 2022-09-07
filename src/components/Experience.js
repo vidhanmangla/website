@@ -9,12 +9,12 @@ const Experience = () => {
                 
                 <li>
 
-                    <strong>Smart Contract Developer, The Golden Egg, Guildford, England (Part-time) (June 2022 – August 2022)</strong>
+                    <strong>Smart Contract Developer, The Golden Egg, United Kingdom (Part-time) (June 2022 – August 2022)</strong>
                 
                 </li>
                 <li>
                 
-                    <strong>Master of Science, FinTech and Policy, University of Surrey, England (September 2021 – September 2022)</strong>
+                    <strong>Master of Science (FinTech and Policy), University of Surrey, United Kingdom (September 2021 – September 2022)</strong>
                 
                 </li>
                 <li>
