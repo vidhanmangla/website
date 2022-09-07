@@ -24,7 +24,7 @@ const Experience = () => {
                 </li>
                 <li>
                 
-                    <strong>Bachelor of Technology, Information Technology, GGSIP University, India (August 2015 – July 2019)</strong>
+                    <strong>Bachelor of Technology (Information Technology), GGSIP University, India (August 2015 – July 2019)</strong>
                 
                 </li>
                 <li>
