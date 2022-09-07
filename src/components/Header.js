@@ -18,9 +18,9 @@ const Header = () => {
                             <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' className='button'>Meeting</a>
                     <br></br>
                     <br></br>
-                            <small><a href ="https://link.storjshare.io/jv2rw4csivyxexsb76uultzioqha/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
+                            <small><a href ="https://link.storjshare.io/jxrbs6eyyr3jdhefjegznnndvtgq/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
                     <br></br>   
-                            <small><a href ="https://link.storjshare.io/ju6cy3hqvpnxr2tmtcfanlbkkttq/jobs-material%2FCover%20Letter.pdf" attributes-list>Covering Letter</a></small>
+                            <small><a href ="https://link.storjshare.io/jvqivboy7tbgr6xaoziunpr2vaka/jobs-material%2FCover%20Letter.pdf" attributes-list>Covering Letter</a></small>
                     <br></br>
                     <br></br>
                             <small>📍 London, England, United Kingdom</small>
