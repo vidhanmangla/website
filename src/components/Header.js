@@ -23,7 +23,7 @@ const Header = () => {
                             <small><a href ="https://link.storjshare.io/ju6cy3hqvpnxr2tmtcfanlbkkttq/jobs-material%2FCover%20Letter.pdf" attributes-list>Covering Letter</a></small>
                     <br></br>
                     <br></br>
-                            <small>📍 England, United Kingdom</small>
+                            <small>📍 London, England, United Kingdom</small>
                             
             </div>
 
