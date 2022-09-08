@@ -5,7 +5,7 @@ const Skills = () => {
 
             <h2>Technical Skills</h2>
             <p>
-                        <li>Deep conceptual and technological understanding of Ethereum (EVM), and off-chain protocols.</li>
+                        <li>Deep conceptual and technological understanding of Ethereum (EVM) and off-chain protocols.</li>
                 <br></br>
                         <li>Knowledge of cryptography in Blockchain, including the Blockchain Oracle.</li>
                 <br></br>
