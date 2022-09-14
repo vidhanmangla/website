@@ -9,7 +9,7 @@ const Experience = () => {
                 
                 <li>
 
-                <a href ="" attributes-list>FinTech and Policy Project</a>: Conducted independent research and completed a report on the cryptocurrency firm Abra.
+                <a href ="https://link.storjshare.io/jx5e7apad6kd5yvz3kns2rf27oza/jobs-material%2FFinTech%20Project%20.pdf" attributes-list>FinTech and Policy Project</a>: Conducted independent research and completed a report on the cryptocurrency firm Abra.
                 
                 </li>
 
