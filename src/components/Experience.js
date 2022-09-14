@@ -3,37 +3,37 @@ const Experience = () => {
 
         <div className="experience">
 
-            <h2>Experience</h2>
+            <h2>University Involvement</h2>
 
             <ul>
                 
                 <li>
 
-                    <strong>Smart Contract Developer, The Golden Egg, United Kingdom (Part-time) (June 2022 – August 2022)</strong>
+                <a href ="" attributes-list>FinTech and Policy Project</a>: Conducted independent research and completed a report on the cryptocurrency firm Abra.
                 
                 </li>
 
                 <li>
                 
-                    <strong>Master of Science (FinTech and Policy), University of Surrey, United Kingdom (September 2021 – September 2022)</strong>
+                <a href ="https://link.storjshare.io/jxhzwbtgs4rp5quqnwwmlu6nruya/jobs-material%2FCases%20in%20FinTech%20%26%20Policy.pdf" attributes-list>Cases in FinTech and Policy</a>: An individual Report that discusses the business model and prospects of Binance.
                 
                 </li>
 
                 <li>
                 
-                    <strong>Assistant Manager, Kotak Mahindra Bank, India (March 2020 – August 2020)</strong>
+                <a href ="https://link.storjshare.io/juwky6nhpzrbauofnsovxjxciaia/jobs-material%2FFinancial%20Regulation%20%26%20FinTech%20Policy.pdf" attributes-list>Financial regulations and FinTech policy</a>: Research done on financial regulations of digital assets.
                 
                 </li>
 
                 <li>
                 
-                    <strong>Bachelor of Technology (Information Technology), GGSIP University, India (August 2015 – July 2019)</strong>
+                <a href ="https://link.storjshare.io/jvhhim3jzdzfhnv3k27oppq4es7a/jobs-material%2FCyberlaw.pdf" attributes-list>Cyberlaw</a>: Whether Artificial Intelligence should be regulated in different ways in different jurisdictions.
                 
                 </li>
                 
                 <li>
                 
-                    <strong>Cloud Computing Intern, ESDS Software Solutions, India (July 2018 – August 2018)</strong>
+                <a href ="https://link.storjshare.io/jvslxi6jyn2trcwi6zbuvxkcxteq/jobs-material%2FEthics%20of%20Artificial%20Intelligence.pdf" attributes-list>Artificial Intelligence</a>: How developers and consumers can help reduce algorithmic bias and inherent unfairness in algorithms.
                 
                 </li>
             
