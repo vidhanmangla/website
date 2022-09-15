@@ -16,7 +16,7 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Cryptocurrency Swap Exchange</h3>
+                    <h3>Jizzy Crypto Swap</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
                         An instant <strong>cryptocurrency exchange</strong> powered by the Ethereum Blockchain.
@@ -35,13 +35,10 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Decentralised Bank</h3>
+                    <h3>Liquidity Farming</h3>
                     <img src={DeFi_Bank} alt="DeFi Bank" />
                     <p>
-                        A minimalistic <strong>liquidity/yeild farming</strong> platform.
-                    </p>
-                    <p>
-                        Users can earn interest or staking rewards by depositing and staking their mDAI stablecoin tokens for a certain period of time.
+                        Users can earn staking rewards by staking their mDAI stablecoin tokens for a certain period of time.
                     </p>
                     <p>
                         Live on the Goerli testnet.
@@ -54,14 +51,14 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Decentralised Smart Contract Lottery</h3>
+                    <h3>DeFi Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
                         A fair, verifiably random, autonomous, decentralised lottery.
+                        <br></br>
+                        It uses Chainlink's Oracle to select a random winner.
                     </p>
-                    <p>
-                        It uses Chainlink's Oracle to select a random winner. 
-                    </p>
+                         
                     <p>
                         Live on the Rinkeby testnet.
                     </p>
@@ -73,7 +70,7 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Non-fungible Tokens (NFTs)</h3>
+                    <h3>Non Fungible Tokens</h3>
                     <img src={nfts} alt="NFTs" />
                     <p>
                         ERC-721 non-fungible tokens (NFTs).
@@ -90,13 +87,13 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Non-fungible Token (NFT) Marketplace</h3>
+                    <h3>NFT Marketplace</h3>
                     <img src={nft_marketplace} alt="NFT Page" />
                     <p>
-                        An NFT Marketplace like OpenSea created using Blockchain development fundamentals.
+                        An NFT Marketplace like OpenSea.
                     </p>
                     <p>
-                    Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
+                        Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
                     
                     <a href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Code</a>
