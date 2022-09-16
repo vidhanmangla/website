@@ -20,6 +20,8 @@ const Skills = () => {
                         <li>Familiarity with DeFi protocols and implementation of OpenZeppelin’s library of smart contracts.</li>
                 <br></br>
                         <li>Good knowledge of most prominent ERC/EIP Ethereum standards, ERC-20 / 721 / 721A / 777 / 1155 and others.</li>
+                <br></br>
+                        <li>Bloomberg Certified (Bloomberg Market Concepts).</li>
             </p>
 
         </section>
