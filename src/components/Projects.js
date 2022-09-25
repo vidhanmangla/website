@@ -60,7 +60,7 @@ const Projects = () => {
                     </p>
                          
                     <p>
-                        Live on the Rinkeby testnet.
+                        Live on the Goerli testnet.
                     </p>
 
                     <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
