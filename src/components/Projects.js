@@ -119,10 +119,10 @@ const Projects = () => {
                     <h3>Jizzy Blockchain</h3>
                     <img src={blockchain} alt="Blockchain" />
                     <p>
-                        A minimalistic proof-of-work blockchain.
+                        Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain.
                     </p>
                     
-                    <a href="https://github.com/vidhanmangla" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
 
                 </div>
 
