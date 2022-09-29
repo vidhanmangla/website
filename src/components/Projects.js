@@ -4,6 +4,7 @@ import raffle from '../assets/raffle.png';
 import nfts from '../assets/nfts.png';
 import dao from '../assets/dao.png';
 import DeFi_Bank from '../assets/DeFi_Bank.png';
+import blockchain from '../assets/blockchain.png';
 
 const Projects = () => {
     return (
@@ -110,6 +111,18 @@ const Projects = () => {
                     </p>
                     
                     <a href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
+
+                </div>
+
+                <div className="projects__card">
+
+                    <h3>Jizzy Blockchain</h3>
+                    <img src={blockchain} alt="Blockchain" />
+                    <p>
+                        A minimalistic proof-of-work blockchain.
+                    </p>
+                    
+                    <a href="https://github.com/vidhanmangla" target="_blank" className="button">Code</a>
 
                 </div>
 
