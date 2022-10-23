@@ -17,7 +17,7 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Jizzy Crypto Swap</h3>
+                    <h3>CryptoSwap</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
                         An instant <strong>cryptocurrency exchange</strong> powered by the Ethereum Blockchain.
@@ -116,7 +116,7 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Jizzy Blockchain</h3>
+                    <h3>PoW Blockchain</h3>
                     <img src={blockchain} alt="Blockchain" />
                     <p>
                         Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
