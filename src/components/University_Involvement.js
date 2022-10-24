@@ -3,7 +3,7 @@ const Experience = () => {
 
         <div className="experience">
 
-            <h2>University Involvement</h2>
+            <h2>University Projects</h2>
 
             <ul>
                 
