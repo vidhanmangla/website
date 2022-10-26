@@ -28,7 +28,7 @@ code {
 
 .header,
 .about,
-.skills,
+.services,
 .projects,
 .experience,
 .social,
@@ -92,12 +92,12 @@ code {
   max-width: 80ch;
 }
 
-.skills h2 {
+.services h2 {
   font-size: 42px;
   margin: 25px auto;
 }
 
-.skills p {
+.services p {
   font-size: 18px;
   line-height: 130%;
   max-width: 95ch;

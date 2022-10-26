@@ -1,7 +1,7 @@
 // Import Components
 import Header from './components/Header';
 import About from './components/About';
-import Skills from './components/Skills';
+import Services from './components/Services';
 import Projects from './components/Projects';
 import Social from './components/Social';
 import University_Involvement from './components/University_Involvement';
@@ -13,7 +13,7 @@ function App() {
 			<Header />
 			<About />
 			<University_Involvement />
-			<Skills />
+			<Services />
 			<Projects />
 			<Social />
 			<Footer />
