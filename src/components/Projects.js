@@ -5,6 +5,8 @@ import nfts from '../assets/nfts.png';
 import dao from '../assets/dao.png';
 import DeFi_Bank from '../assets/DeFi_Bank.png';
 import blockchain from '../assets/blockchain.png';
+import learning from '../assets/learning.png';
+import building from '../assets/building.png';
 
 const Projects = () => {
     return (
@@ -123,6 +125,30 @@ const Projects = () => {
                     </p>
                     
                     <a href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
+
+                </div>
+
+                <div className="projects__card">
+
+                    <h3>Learning it..</h3>
+                    <img src={learning} alt="Learning" />
+                    <p>
+                        Learning it.. 
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Code</a>
+
+                </div>
+
+                <div className="projects__card">
+
+                    <h3>Building it..</h3>
+                    <img src={building} alt="Building" />
+                    <p>
+                        Building it.. 
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Code</a>
 
                 </div>
 

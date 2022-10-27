@@ -100,8 +100,9 @@ code {
 .services p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 95ch;
+  max-width: 98ch;
 }
+
 
 /* ------------------------------------------------------ */
 /* -- Projects -- */
