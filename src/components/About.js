@@ -13,7 +13,7 @@ const About = () => {
             </p>
                 <br></br>
             <p>
-                Recognised as a pressure-coping motor-racing driver with a calm demeanour who spends his free time as a musician. I am a passionate man, and passion drives me. Everything I do in life, it's my passion!
+                A pressure-coping motor-racing driver with a calm demeanour, spends his free time as a musician. I am a passionate man, and passion drives me. Everything I do in life, it's my passion!
             </p>
             
         </section>
