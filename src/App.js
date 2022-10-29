@@ -4,7 +4,7 @@ import About from './components/About';
 import Services from './components/Services';
 import Projects from './components/Projects';
 import Social from './components/Social';
-import University_Involvement from './components/University_Involvement';
+import University from './components/University';
 import Footer from './components/Footer';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
 		<div className="App">
 			<Header />
 			<About />
-			<University_Involvement />
+			<University />
 			<Services />
 			<Projects />
 			<Social />

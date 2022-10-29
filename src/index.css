@@ -30,7 +30,7 @@ code {
 .about,
 .services,
 .projects,
-.experience,
+.university,
 .social,
 .footer {
   padding: 50px 25px 25px;
@@ -77,7 +77,6 @@ code {
   margin: 0 15px;
 }
 
-
 /* ------------------------------------------------------ */
 /* -- About -- */
 
@@ -89,8 +88,29 @@ code {
 .about p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 97ch;
+  max-width: 98ch;
 }
+
+/* ------------------------------------------------------ */
+/* -- University -- */
+
+.university h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.university ul {
+  margin: 0 0 10px 17px;
+}
+
+.university li {
+  font-size: 18px;
+  line-height: 130%;
+  margin: 15px auto;
+}
+
+/* ------------------------------------------------------ */
+/* -- Services -- */
 
 .services h2 {
   font-size: 42px;
@@ -102,7 +122,6 @@ code {
   line-height: 130%;
   max-width: 98ch;
 }
-
 
 /* ------------------------------------------------------ */
 /* -- Projects -- */
@@ -156,24 +175,6 @@ code {
 
 .projects__card .button {
   margin: 10px 5px 0;
-}
-
-/* ------------------------------------------------------ */
-/* -- Education/Experience -- */
-
-.experience h2 {
-  font-size: 42px;
-  margin: 25px auto;
-}
-
-.experience ul {
-  margin: 0 0 10px 50px;
-}
-
-.experience li {
-  font-size: 18px;
-  line-height: 130%;
-  margin: 15px auto;
 }
 
 /* ------------------------------------------------------ */

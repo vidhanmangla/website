@@ -1,7 +1,7 @@
-const Experience = () => {
+const University = () => {
     return (
 
-        <div className="experience">
+        <div className="university">
 
             <h2>University Projects</h2>
 
@@ -33,7 +33,7 @@ const Experience = () => {
                 
                 <li>
                 
-                <a href ="https://link.storjshare.io/jvslxi6jyn2trcwi6zbuvxkcxteq/jobs-material%2FEthics%20of%20Artificial%20Intelligence.pdf" attributes-list>Artificial Intelligence</a>: How developers and consumers can help reduce algorithmic bias and unfairness in algorithms.
+                <a href ="https://link.storjshare.io/jvslxi6jyn2trcwi6zbuvxkcxteq/jobs-material%2FEthics%20of%20Artificial%20Intelligence.pdf" attributes-list>Artificial Intelligence</a>: How developers and consumers alike can help reduce algorithmic bias and unfairness in algorithms.
                 
                 </li>
             
@@ -44,4 +44,4 @@ const Experience = () => {
     );
 }
 
-export default Experience;
+export default University;

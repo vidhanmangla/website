@@ -13,7 +13,7 @@ const Projects = () => {
 
         <section className="projects">
             
-            <h2>My Projects</h2>
+            <h2>Personal Projects</h2>
 
             <div className="projects__cards">
 
