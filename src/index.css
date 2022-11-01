@@ -92,24 +92,6 @@ code {
 }
 
 /* ------------------------------------------------------ */
-/* -- University -- */
-
-.university h2 {
-  font-size: 42px;
-  margin: 25px auto;
-}
-
-.university ul {
-  margin: 0 0 10px 17px;
-}
-
-.university li {
-  font-size: 18px;
-  line-height: 130%;
-  margin: 15px auto;
-}
-
-/* ------------------------------------------------------ */
 /* -- Services -- */
 
 .services h2 {
@@ -175,6 +157,24 @@ code {
 
 .projects__card .button {
   margin: 10px 5px 0;
+}
+
+/* ------------------------------------------------------ */
+/* -- University -- */
+
+.university h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.university ul {
+  margin: 0 0 10px 17px;
+}
+
+.university li {
+  font-size: 18px;
+  line-height: 130%;
+  margin: 15px auto;
 }
 
 /* ------------------------------------------------------ */
