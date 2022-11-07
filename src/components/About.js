@@ -5,7 +5,7 @@ const About = () => {
 
             <h2>About Me</h2>
             <p>
-                A recent graduate in FinTech. Smart Contract & Blockchain Developer with 1+ year of expertise, skilled at writing, testing, deploying and auditing Smart Contracts by taking care of gas optimisation and security.
+                Smart Contract & Blockchain Developer with 1+ year of expertise, skilled at writing, testing, deploying and auditing Smart Contracts by taking care of gas optimisation and security.
             </p>
                 <br></br>
             <p>
