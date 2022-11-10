@@ -67,7 +67,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/lottery_raffle" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Code</a>
                
                 </div>
 
