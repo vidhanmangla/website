@@ -66,7 +66,7 @@ const Projects = () => {
                         Live on the Goerli testnet.
                     </p>
 
-                    <a href="https://brilliant-raindrop-fc5139.netlify.app/" target="_blank" className="button">Site</a>
+                    <a href="" target="_blank" className="button">Site</a>
                     <a href="" target="_blank" className="button">Code</a>
                
                 </div>
