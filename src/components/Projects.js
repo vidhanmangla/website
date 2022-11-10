@@ -57,13 +57,7 @@ const Projects = () => {
                     <h3>DeFi Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        A fair, verifiably random, autonomous, decentralised lottery.
-                        <br></br>
-                        It uses Chainlink's Oracle to select a random winner.
-                    </p>
-                         
-                    <p>
-                        Live on the Goerli testnet.
+                        I made this lottery for someone else who asked me to take it off of my website.
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
