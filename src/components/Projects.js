@@ -57,7 +57,7 @@ const Projects = () => {
                     <h3>DeFi Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        I made this lottery for my personal portfolio and for someone else as well who asked me to take it off of my website. It's an open source project but he thinks he owns it. LOL.
+                        I made this lottery for my personal portfolio and for someone else as well who asked me to take it off of my website.
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
