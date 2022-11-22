@@ -57,7 +57,7 @@ const Projects = () => {
                     <h3>DeFi Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        Will make a new one as the old project was in collaboration with someone and he did not like it posted on my website.
+                        Will make a new project as the old project was in collaboration with someone else.
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
