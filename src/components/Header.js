@@ -24,6 +24,9 @@ const Header = () => {
                     <br></br>
                     <br></br>
                             <small>📍 Guildford, England, United Kingdom</small>
+                    <br></br>
+                    <br></br>
+                            <small>Currently working as a Graduate Developer with MQube.</small>
                             
             </div>
 

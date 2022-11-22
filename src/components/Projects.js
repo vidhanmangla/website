@@ -32,7 +32,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/jizzyb_ether_swap_exchange" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Code</a>
              
                 </div>
 
@@ -48,7 +48,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/vidhanmangla/decentralised-bank" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Code</a>
               
                 </div>
 
@@ -57,7 +57,7 @@ const Projects = () => {
                     <h3>DeFi Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        I made this lottery for my personal portfolio and for someone else as well who asked me to take it off of my website.
+                        Will make a new one as the old project was in collaboration with someone and he did not like it posted on my website.
                     </p>
 
                     <a href="" target="_blank" className="button">Site</a>
@@ -77,7 +77,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Etherscan</a>
-                    <a href="https://github.com/vidhanmangla/jizzyB_nft" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Code</a>
                     <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
                 
                 </div>
@@ -93,8 +93,9 @@ const Projects = () => {
                         Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
                     
-                    <a href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Code</a>
-                    <a href="https://github.com/vidhanmangla/nft_marketplace_fullstack_graph" target="_blank" className="button">Subgraph</a>
+                    <a href="" target="_blank" className="button">Site</a>
+                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">SubGraph</a>
 
                 </div>
 
@@ -106,7 +107,8 @@ const Projects = () => {
                         A Decentralised Autonomous Organisation inspired by Compound which has 100% on-chain voting and governance. 
                     </p>
                     
-                    <a href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Site</a>
+                    <a href="" target="_blank" className="button">Code</a>
 
                 </div>
 
@@ -118,7 +120,8 @@ const Projects = () => {
                         Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
                     </p>
                     
-                    <a href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Site</a>
+                    <a href="" target="_blank" className="button">Code</a>
 
                 </div>
 
@@ -130,6 +133,7 @@ const Projects = () => {
                         Learning it.. 
                     </p>
                     
+                    <a href="" target="_blank" className="button">Site</a>
                     <a href="" target="_blank" className="button">Code</a>
 
                 </div>
@@ -142,6 +146,7 @@ const Projects = () => {
                         Building it.. 
                     </p>
                     
+                    <a href="" target="_blank" className="button">Site</a>
                     <a href="" target="_blank" className="button">Code</a>
 
                 </div>

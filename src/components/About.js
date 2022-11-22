@@ -9,11 +9,12 @@ const About = () => {
             </p>
                 <br></br>
             <p>
-                Ability to quickly learn new technologies and strong passion for Distributed Ledger Technologies (DLT).
+                A pressure-coping motor-racing driver with a calm demeanour, spends his free time as a musician.
             </p>
                 <br></br>
+                <br></br>
             <p>
-                A pressure-coping motor-racing driver with a calm demeanour, spends his free time as a musician. I am a passionate man, and passion drives me. Everything I do in life, it's my passion!
+                I am a passionate man, and passion drives me. Everything I do in life, it's my passion!
             </p>
             
         </section>
