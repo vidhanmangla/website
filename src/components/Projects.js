@@ -31,8 +31,7 @@ const Projects = () => {
                         Live on the Rinkeby and Goerli testnet.
                     </p>
 
-                    <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Go to website</a>
              
                 </div>
 
@@ -47,8 +46,7 @@ const Projects = () => {
                         Live on the Goerli testnet.
                     </p>
 
-                    <a href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Go to website</a>
               
                 </div>
 
@@ -57,11 +55,10 @@ const Projects = () => {
                     <h3>DeFi Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        Will make a new project as the old project was in collaboration with someone else.
+                        Will make a new project as the old project was in collaboration with someone else and I want to make my own personal project to stay away from confusing people.
                     </p>
 
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Website going live soon</a>
                
                 </div>
 
@@ -76,8 +73,7 @@ const Projects = () => {
                         Deployed on the Rinkeby testnet.
                     </p>
 
-                    <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Etherscan</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Block Explorer</a>
                     <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
                 
                 </div>
@@ -93,22 +89,19 @@ const Projects = () => {
                         Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
-                    <a href="" target="_blank" className="button">SubGraph</a>
+                    <a href="" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
                 <div className="projects__card">
 
-                    <h3>Decentralised Autonomous Organisation (DAO)</h3>
+                    <h3>DAO</h3>
                     <img src={dao} alt="DAO" />
                     <p>
                         A Decentralised Autonomous Organisation inspired by Compound which has 100% on-chain voting and governance. 
                     </p>
                     
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -120,8 +113,7 @@ const Projects = () => {
                         Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -133,8 +125,7 @@ const Projects = () => {
                         Learning it.. 
                     </p>
                     
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Secret project</a>
 
                 </div>
 
@@ -146,8 +137,7 @@ const Projects = () => {
                         Building it.. 
                     </p>
                     
-                    <a href="" target="_blank" className="button">Site</a>
-                    <a href="" target="_blank" className="button">Code</a>
+                    <a href="" target="_blank" className="button">Secret project</a>
 
                 </div>
 
