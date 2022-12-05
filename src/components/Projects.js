@@ -101,7 +101,7 @@ const Projects = () => {
                         A Decentralised Autonomous Organisation inspired by Compound which has 100% on-chain voting and governance. 
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a href="" target="_blank" className="button">Code is private</a>
 
                 </div>
 
@@ -113,7 +113,7 @@ const Projects = () => {
                         Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a href="" target="_blank" className="button">Code is private</a>
 
                 </div>
 
