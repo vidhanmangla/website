@@ -5,8 +5,8 @@ import nfts from '../assets/nfts.png';
 import dao from '../assets/dao.png';
 import DeFi_Bank from '../assets/DeFi_Bank.png';
 import blockchain from '../assets/blockchain.png';
-import learning from '../assets/learning.png';
 import learn_blockchain from '../assets/learn_blockchain.png';
+import keys from '../assets/keys.png';
 
 const Projects = () => {
     return (
@@ -46,7 +46,7 @@ const Projects = () => {
                         A very basic visual introduction to the concepts behind a blockchain using an interactive web demo.
                     </p>
 
-                    <a href="https://andersbrownworth.com/blockchain/" target="_blank" className="button">Learn Blockchain</a>
+                    <a href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn Blockchain</a>
 
                 </div>
 
@@ -110,6 +110,18 @@ const Projects = () => {
 
                 <div className="projects__card">
 
+                    <h3>PoW Blockchain</h3>
+                    <img src={blockchain} alt="Blockchain" />
+                    <p>
+                        Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
+                    </p>
+
+                    <a href="" target="_blank" className="button">Code is private</a>
+
+                </div>
+
+                <div className="projects__card">
+
                     <h3>DAO</h3>
                     <img src={dao} alt="DAO" />
                     <p>
@@ -122,25 +134,16 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>PoW Blockchain</h3>
-                    <img src={blockchain} alt="Blockchain" />
+                    <h3>Public / Private Keys</h3>
+                    <img src={keys} alt="Keys" />
                     <p>
-                        Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
+                        A web-based demonstration of public / private key pair concepts.
+                    </p>
+                    <p>
+                        A very basic visual introduction to the concepts behind a public / private key pair, signing and their use in a blockchain context.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Code is private</a>
-
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>Learning it..</h3>
-                    <img src={learning} alt="Learning" />
-                    <p>
-                        Learning it.. 
-                    </p>
-                    
-                    <a href="" target="_blank" className="button">Secret project</a>
+                    <a href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn</a>
 
                 </div>
 
