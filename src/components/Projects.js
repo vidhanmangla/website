@@ -22,7 +22,7 @@ const Projects = () => {
                     <h3>CryptoSwap</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
-                        An instant <strong>cryptocurrency exchange</strong> powered by the Ethereum Blockchain.
+                        An instant cryptocurrency exchange powered by the Ethereum Blockchain.
                     </p>
                     <p>
                         Users can buy and sell ERC-20 tokens at a fixed price against Ether.
