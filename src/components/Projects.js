@@ -6,7 +6,7 @@ import dao from '../assets/dao.png';
 import DeFi_Bank from '../assets/DeFi_Bank.png';
 import blockchain from '../assets/blockchain.png';
 import learning from '../assets/learning.png';
-import building from '../assets/building.png';
+import learn_blockchain from '../assets/learn_blockchain.png';
 
 const Projects = () => {
     return (
@@ -33,6 +33,21 @@ const Projects = () => {
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Go to website</a>
              
+                </div>
+
+                <div className="projects__card">
+
+                    <h3>Blockchain Demo</h3>
+                    <img src={learn_blockchain} alt="Learn_Blockchain" />
+                    <p>
+                        A web-based demo of blockchain concepts.
+                    </p>
+                    <p>
+                        A very basic visual introduction to the concepts behind a blockchain using an interactive web demo.
+                    </p>
+
+                    <a href="https://andersbrownworth.com/blockchain/" target="_blank" className="button">Learn Blockchain</a>
+
                 </div>
 
                 <div className="projects__card">
@@ -123,18 +138,6 @@ const Projects = () => {
                     <img src={learning} alt="Learning" />
                     <p>
                         Learning it.. 
-                    </p>
-                    
-                    <a href="" target="_blank" className="button">Secret project</a>
-
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>Building it..</h3>
-                    <img src={building} alt="Building" />
-                    <p>
-                        Building it.. 
                     </p>
                     
                     <a href="" target="_blank" className="button">Secret project</a>
