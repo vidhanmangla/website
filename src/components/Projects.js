@@ -17,9 +17,61 @@ const Projects = () => {
 
             <div className="projects__cards">
 
+
+
                 <div className="projects__card">
 
-                    <h3>CryptoSwap</h3>
+                    <h3>Blockchain Demo</h3>
+                    <img src={learn_blockchain} alt="Learn_Blockchain" />
+                    <p>
+                        A web-based demonstration of blockchain concepts.
+                    </p>
+                    <p>
+                        A basic visual introduction to the concepts behind a blockchain using an interactive web demo.
+                    </p>
+
+                    <a href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn PoW Blockchain</a>
+
+                </div>
+
+
+                <div className="projects__card">
+
+                    <h3>Public / Private Keys</h3>
+                    <img src={keys} alt="Keys" />
+                    <p>
+                        A web-based demonstration of public/private key pair concepts.
+                    </p>
+                    <p>
+                        A basic visual introduction to the concepts behind a public/private key pair,
+                        signing and their use.
+                    </p>
+
+                    <a href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn Crypto Signature</a>
+
+                </div>
+
+                
+                <div className="projects__card">
+
+                    <h3>PoW Blockchain</h3>
+                    <img src={blockchain} alt="Blockchain" />
+                    <p>
+                        A simple blockchain based on Bitcoin.
+                    </p>
+                    <p>
+                        A blockchain with proof-of-work consensus to verify it's integrity.
+                        Similar to Bitcoin, decrease mining speed by changing the difficulty.
+                    </p>
+
+                    <a href="" target="_blank" className="button">Code is private</a>
+
+                </div>
+
+
+                <div className="projects__card">
+
+                    <h3>Crypto Exchange</h3>
                     <img src={jizzyswap} alt="Jizzy Swap Page" />
                     <p>
                         An instant cryptocurrency exchange powered by the Ethereum Blockchain.
@@ -33,21 +85,6 @@ const Projects = () => {
 
                     <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Go to website</a>
              
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>Blockchain Demo</h3>
-                    <img src={learn_blockchain} alt="Learn_Blockchain" />
-                    <p>
-                        A web-based demo of blockchain concepts.
-                    </p>
-                    <p>
-                        A very basic visual introduction to the concepts behind a blockchain using an interactive web demo.
-                    </p>
-
-                    <a href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn Blockchain</a>
-
                 </div>
 
                 <div className="projects__card">
@@ -67,10 +104,13 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>DeFi Lottery</h3>
+                    <h3>Decentralised Lottery</h3>
                     <img src={raffle} alt="Raffle Page" />
                     <p>
-                        A decentralised lottery.
+                        A decentralised lottery powered by the Ethereum blockchain and Chainlink's oracle.
+                    </p>
+                    <p>
+                        Participate and win prizes.
                     </p>
 
                     <a href="" target="_blank" className="button">Website going live soon</a>
@@ -82,7 +122,7 @@ const Projects = () => {
                     <h3>Non Fungible Tokens</h3>
                     <img src={nfts} alt="NFTs" />
                     <p>
-                        ERC-721 non-fungible tokens (NFTs).
+                        A collection of ERC-721, 721A and 1155 non-fungible tokens (NFTs).
                     </p>
                     <p>
                         Deployed on the Rinkeby testnet.
@@ -108,46 +148,22 @@ const Projects = () => {
 
                 </div>
 
-                <div className="projects__card">
-
-                    <h3>PoW Blockchain</h3>
-                    <img src={blockchain} alt="Blockchain" />
-                    <p>
-                        Created a blockchain first and then added proof-of-work consensus to it to verify the integrity of the blockchain and edit how fast new blocks can be added to the blockchain by changing the difficulty.
-                    </p>
-
-                    <a href="" target="_blank" className="button">Code is private</a>
-
-                </div>
 
                 <div className="projects__card">
 
-                    <h3>DAO</h3>
+                    <h3>DAO Project</h3>
                     <img src={dao} alt="DAO" />
                     <p>
-                        A Decentralised Autonomous Organisation inspired by Compound which has 100% on-chain voting and governance. 
+                        A decentralised autonomous organisation inspired by Compound which has a 100% on-chain voting and governance. 
                     </p>
                     
                     <a href="" target="_blank" className="button">Code is private</a>
 
                 </div>
 
-                <div className="projects__card">
 
-                    <h3>Public / Private Keys</h3>
-                    <img src={keys} alt="Keys" />
-                    <p>
-                        A web-based demonstration of public / private key pair concepts.
-                    </p>
-                    <p>
-                        A very basic visual introduction to the concepts behind a public / private key pair, signing and their use in a blockchain context.
-                    </p>
-                    
-                    <a href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn</a>
 
-                </div>
-
-            </div>
+            </div>  
 
         </section>
         

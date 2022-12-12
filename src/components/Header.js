@@ -10,9 +10,11 @@ const Header = () => {
             <div className='header__content'>
 
                 <h1>Hi, I'm Vidhan</h1>
+
                 <p>
-                Smart Contract, Blockchain & Web3 Developer
+                    Smart Contract, Blockchain & Web3 Developer
                 </p>
+                
                     <br></br>
                             <a href='mailto:vidhanmangla@gmail.com' className='button'>Email</a>
                             <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' className='button'>Meeting</a>
