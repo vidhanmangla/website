@@ -7,6 +7,9 @@ import DeFi_Bank from '../assets/DeFi_Bank.png';
 import blockchain from '../assets/blockchain.png';
 import learn_blockchain from '../assets/learn_blockchain.png';
 import keys from '../assets/keys.png';
+import asset_tokenisation from '../assets/asset_tokenisation.png';
+import block_explorer from '../assets/block_explorer.png';
+import wallet from '../assets/wallet.png';
 
 const Projects = () => {
     return (
@@ -158,6 +161,54 @@ const Projects = () => {
                     </p>
                     
                     <a href="" target="_blank" className="button">Code is private</a>
+
+                </div>
+
+                
+                <div className="projects__card">
+
+                    <h3>Asset Tokenisation</h3>
+                    <img src={asset_tokenisation} alt="Asset Tokenisation" />
+                    <p>
+                        A platform enabling individuals and organisations to create a digital proof of ownership for real-world assets.
+                    </p>
+                    <p>
+                        Users can trade these asset-backed tokens.
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Website going live soon</a>
+
+                </div>
+
+
+                <div className="projects__card">
+
+                    <h3>Block Explorer</h3>
+                    <img src={block_explorer} alt="Block Explorer" />
+                    <p>
+                        A software based on Etherscan used for visualising blocks, transactions, and blockchain network metrics (e.g., average transaction fees, hashrates, block size, block difficulty).
+                    </p>
+                    <p>
+                        
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Website going live soon</a>
+
+                </div>
+
+
+                <div className="projects__card">
+
+                    <h3>Crypto Wallet</h3>
+                    <img src={wallet} alt="Crypto Wallet" />
+                    <p>
+                        A crypto wallet like MetaMask.
+                    </p>
+                    <p>
+                        This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
