@@ -11,6 +11,8 @@ import asset_tokenisation from '../assets/asset_tokenisation.png';
 import block_explorer from '../assets/block_explorer.png';
 import wallet from '../assets/wallet.png';
 import video_sharing from '../assets/video_sharing.png';
+import tradingg from '../assets/tradingg.png';
+import social_media from '../assets/social_media.png';
 
 const Projects = () => {
     return (
@@ -233,12 +235,9 @@ const Projects = () => {
                 <div className="projects__card">
 
                     <h3>Crypto Trading Platform</h3>
-                    <img src={video_sharing} alt="Video Sharing" />
+                    <img src={tradingg} alt="Trading" />
                     <p>
-                        A global cryptocurrency trading platform.
-                    </p>
-                    <p>
-                        A decentralised crypto trading platform which has a user-friendly interface.
+                        A decentralised crypto trading platform which won't steal your crypto.
                     </p>
                     
                     <a href="" target="_blank" className="button">Website going live soon</a>
@@ -249,9 +248,12 @@ const Projects = () => {
                 <div className="projects__card">
 
                     <h3>Decentralised Social Media</h3>
-                    <img src={video_sharing} alt="Video Sharing" />
+                    <img src={social_media} alt="Video Sharing" />
                     <p>
                         A global decentralised social media platform.
+                    </p>
+                    <p>
+                        Unlike Facebook, this platform will allow users to connect with their friends without collecting their data.
                     </p>
                     
                     <a href="" target="_blank" className="button">Website going live soon</a>
