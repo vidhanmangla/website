@@ -248,13 +248,10 @@ const Projects = () => {
 
                 <div className="projects__card">
 
-                    <h3>Decentralised Tube</h3>
+                    <h3>Decentralised Social Media</h3>
                     <img src={video_sharing} alt="Video Sharing" />
                     <p>
-                        A global online video sharing social media platform.
-                    </p>
-                    <p>
-                        A decentralised video sharing platform which, unlike Google, does not steal user data.
+                        A global decentralised social media platform.
                     </p>
                     
                     <a href="" target="_blank" className="button">Website going live soon</a>
