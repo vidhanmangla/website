@@ -209,11 +209,43 @@ const Projects = () => {
                         This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a href="" target="_blank" className="button">Wallet going live soon</a>
 
                 </div>
 
                 
+                <div className="projects__card">
+
+                    <h3>Decentralised Tube</h3>
+                    <img src={video_sharing} alt="Video Sharing" />
+                    <p>
+                        A global online video sharing social media platform.
+                    </p>
+                    <p>
+                        A decentralised video sharing platform which, unlike Google, does not steal user data.
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Website going live soon</a>
+
+                </div>
+
+
+                <div className="projects__card">
+
+                    <h3>Crypto Trading Platform</h3>
+                    <img src={video_sharing} alt="Video Sharing" />
+                    <p>
+                        A global cryptocurrency trading platform.
+                    </p>
+                    <p>
+                        A decentralised crypto trading platform which has a user-friendly interface.
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Website going live soon</a>
+
+                </div>
+
+
                 <div className="projects__card">
 
                     <h3>Decentralised Tube</h3>
