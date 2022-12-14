@@ -10,6 +10,7 @@ import keys from '../assets/keys.png';
 import asset_tokenisation from '../assets/asset_tokenisation.png';
 import block_explorer from '../assets/block_explorer.png';
 import wallet from '../assets/wallet.png';
+import video_sharing from '../assets/video_sharing.png';
 
 const Projects = () => {
     return (
@@ -206,6 +207,22 @@ const Projects = () => {
                     </p>
                     <p>
                         This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
+                    </p>
+                    
+                    <a href="" target="_blank" className="button">Website going live soon</a>
+
+                </div>
+
+                
+                <div className="projects__card">
+
+                    <h3>Decentralised Tube</h3>
+                    <img src={video_sharing} alt="Video Sharing" />
+                    <p>
+                        A global online video sharing social media platform.
+                    </p>
+                    <p>
+                        A decentralised video sharing platform which, unlike Google, does not steal user data.
                     </p>
                     
                     <a href="" target="_blank" className="button">Website going live soon</a>
