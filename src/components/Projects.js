@@ -224,7 +224,7 @@ const Projects = () => {
                         A global online video sharing social media platform.
                     </p>
                     <p>
-                        A decentralised video sharing platform which, unlike Google, does not steal user data.
+                        A decentralised video sharing platform which, unlike YouTube, does not steal user data.
                     </p>
                     
                     <a href="" target="_blank" className="button">Website going live soon</a>
