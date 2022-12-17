@@ -89,7 +89,7 @@ const Projects = () => {
                         Live on the Rinkeby and Goerli testnet.
                     </p>
 
-                    <a href="https://celadon-banoffee-0eef4e.netlify.app/" target="_blank" className="button">Go to website</a>
+                    <a href="https://master.dg3yk9d636vq.amplifyapp.com/" target="_blank" className="button">Go to website</a>
              
                 </div>
 
