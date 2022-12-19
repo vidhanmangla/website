@@ -19,7 +19,7 @@ const Projects = () => {
 
         <section className="projects">
             
-            <h2>Personal Projects</h2>
+            <h2 align="center">Technical Projects</h2>
 
             <div className="projects__cards">
 
