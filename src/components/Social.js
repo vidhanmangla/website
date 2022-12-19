@@ -3,7 +3,7 @@ const Social = () => {
 
         <div className="social">
 
-            <h2>Socials</h2>
+            <h2 align="center">Socials</h2>
 
             <a href="https://www.linkedin.com/in/vidhanmangla" className="button">LinkedIn</a>
             <a href="https://discord.gg/q5XtpBGWvb" className="button">Discord</a>
