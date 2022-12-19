@@ -4,14 +4,17 @@ const Services = () => {
         <section className='services'>
 
             <h2 align="center">Services I Provide</h2>
+
             <p>
-                        <li align="center">Blockchain game development. • Smart contract development & audit. • Blockchain training for tech & business insiders.</li>
+
+                        <p align="center">NFT consulting & development. • DApp development. • DeFi solutions engineering.</p>
                 <br></br>
-                        <li align="center">NFT consulting & development. • DApp development. • DeFi solutions engineering.</li>
+                        <p align="center">Cryptocurrency wallet development. • Hyperledger solutions development. • Cryptocurrency exchange engineering.</p>
                 <br></br>
-                        <li align="center">Cryptocurrency wallet development. • Hyperledger solutions development. • Cryptocurrency exchange engineering.</li>
+                        <p align="center">Custom blockchain development & integration. • Enterprise blockchain development. • Blockchain consulting & advisory.</p>
                 <br></br>
-                        <li align="center">Custom blockchain development & integration. • Enterprise blockchain development. • Blockchain consulting & advisory.</li>
+                        <p align="center">Blockchain game development. • Smart contract development & audit. • Blockchain training for tech & business insiders.</p>
+            
             </p>
 
         </section>
