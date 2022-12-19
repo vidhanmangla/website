@@ -5,8 +5,8 @@ const About = () => {
 
             <h2>About Me</h2>
             <p>
-                Smart Contract, Blockchain & Web3 Developer with 1+ year of expertise, skilled at writing, testing,
-                deploying and auditing Smart Contracts by taking care of gas optimisation and security.
+                A crypto enthusiast with experience developing dApps on EVM based blockchains with 1+ year of expertise, skilled
+                at writing, testing, deploying and auditing Smart Contracts by taking care of gas optimisation and security.
             </p>
                 <br></br>
                 <br></br>
