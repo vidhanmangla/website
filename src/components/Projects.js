@@ -36,10 +36,10 @@ const Projects = () => {
                         A basic visual introduction to the concepts behind a blockchain using an interactive web demo.
                     </p>
 
-                    <a href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn PoW Blockchain</a>
+                    <a align="center" href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn PoW Blockchain</a>
 
                 </div>
-
+                
 
                 <div className="projects__card">
 
@@ -53,7 +53,7 @@ const Projects = () => {
                         signing and their use.
                     </p>
 
-                    <a href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn Crypto Signature</a>
+                    <a align="center" href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn Crypto Signature</a>
 
                 </div>
 
@@ -70,7 +70,7 @@ const Projects = () => {
                         Similar to Bitcoin, decrease mining speed by changing the difficulty.
                     </p>
 
-                    <a href="" target="_blank" className="button">Code is private</a>
+                    <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code is private</a>
 
                 </div>
 
@@ -89,7 +89,7 @@ const Projects = () => {
                         Live on the Rinkeby and Goerli testnet.
                     </p>
 
-                    <a href="https://master.dg3yk9d636vq.amplifyapp.com/" target="_blank" className="button">Go to website</a>
+                    <a align="center" href="https://master.dg3yk9d636vq.amplifyapp.com/" target="_blank" className="button">Go to website</a>
              
                 </div>
 
@@ -104,7 +104,7 @@ const Projects = () => {
                         Live on the Goerli testnet.
                     </p>
 
-                    <a href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Go to website</a>
+                    <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Go to website</a>
               
                 </div>
 
@@ -119,7 +119,7 @@ const Projects = () => {
                         Participate and win prizes.
                     </p>
 
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a align="center" href="https://github.com/vidhanmangla/decentralised_lottery" target="_blank" className="button">Website going live soon</a>
                
                 </div>
 
@@ -134,8 +134,8 @@ const Projects = () => {
                         Deployed on the Rinkeby testnet.
                     </p>
 
-                    <a href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Block Explorer</a>
-                    <a href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
+                    <a align="center" href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Block Explorer</a>
+                    <a align="center" href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
                 
                 </div>
 
@@ -150,7 +150,7 @@ const Projects = () => {
                         Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a align="center" href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -163,7 +163,7 @@ const Projects = () => {
                         A decentralised autonomous organisation inspired by Compound which has a 100% on-chain voting and governance. 
                     </p>
                     
-                    <a href="" target="_blank" className="button">Code is private</a>
+                    <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code is private</a>
 
                 </div>
 
@@ -179,7 +179,7 @@ const Projects = () => {
                         Users can trade these asset-backed tokens.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a align="center" href="https://github.com/vidhanmangla/mbrick" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -195,7 +195,7 @@ const Projects = () => {
                         
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a align="center" href="" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -211,7 +211,7 @@ const Projects = () => {
                         This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Wallet going live soon</a>
+                    <a align="center" href="" target="_blank" className="button">Wallet going live soon</a>
 
                 </div>
 
@@ -227,7 +227,7 @@ const Projects = () => {
                         A decentralised video sharing platform which, unlike YouTube, does not steal user data.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a align="center" href="https://github.com/vidhanmangla/decentralised-video-sharing-platform" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -240,7 +240,7 @@ const Projects = () => {
                         A decentralised crypto trading platform which won't steal your crypto.
                     </p>
                     
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+                    <a align="center" href="https://github.com/vidhanmangla/binance_clone" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 
@@ -255,8 +255,8 @@ const Projects = () => {
                     <p>
                         Unlike Facebook, this platform will allow users to connect with their friends without collecting their data.
                     </p>
-                    
-                    <a href="" target="_blank" className="button">Website going live soon</a>
+
+                    <a align="center" href="" target="_blank" className="button">Website going live soon</a>
 
                 </div>
 

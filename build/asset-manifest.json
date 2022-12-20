@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a026535c.css",
-    "main.js": "/static/js/main.0413d58e.js",
+    "main.js": "/static/js/main.e88897f2.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/profile.png": "/static/media/profile.6b07af0b18d36b97d1de.png",
     "static/media/dao.png": "/static/media/dao.df6e98057b2153f07696.png",
@@ -21,11 +21,11 @@
     "static/media/DeFi_Bank.png": "/static/media/DeFi_Bank.9c6a5b3cb4c82f0f0dc7.png",
     "index.html": "/index.html",
     "main.a026535c.css.map": "/static/css/main.a026535c.css.map",
-    "main.0413d58e.js.map": "/static/js/main.0413d58e.js.map",
+    "main.e88897f2.js.map": "/static/js/main.e88897f2.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a026535c.css",
-    "static/js/main.0413d58e.js"
+    "static/js/main.e88897f2.js"
   ]
 }
