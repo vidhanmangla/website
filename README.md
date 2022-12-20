@@ -1,7 +1,7 @@
 # Web3-Portfolio-Website
 
 # Project
-- Frontend (React)
+- Website (React)
 - Hosting (IPFS)
 
 ## Website link
