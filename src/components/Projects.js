@@ -70,7 +70,7 @@ const Projects = () => {
                         Similar to Bitcoin, decrease mining speed by changing the difficulty.
                     </p>
 
-                    <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code is private</a>
+                    <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
 
                 </div>
 
@@ -163,7 +163,7 @@ const Projects = () => {
                         A decentralised autonomous organisation inspired by Compound which has a 100% on-chain voting and governance. 
                     </p>
                     
-                    <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code is private</a>
+                    <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
 
                 </div>
 
