@@ -1,4 +1,5 @@
 const University = () => {
+        
     return (
 
         <div className="university">

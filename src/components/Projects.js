@@ -14,7 +14,9 @@ import video_sharing from '../assets/video_sharing.png';
 import tradingg from '../assets/tradingg.png';
 import social_media from '../assets/social_media.png';
 
+
 const Projects = () => {
+    
     return (
 
         <section className="projects">
