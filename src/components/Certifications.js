@@ -13,6 +13,7 @@ const Certifications = () => {
             <p>
 
                         <p align="center">Bloomberg Market Concepts | Certified Blockchain Developer</p>
+                <br></br>
                         <img align="center" src={BMC} alt="Bloomberg Market Concepts" width="500" height="400"></img>
                 
                         <img align="center" src={Blockchain_Council} alt="Blockchain_Council" width="500" height="400"></img>
