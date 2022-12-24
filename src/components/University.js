@@ -2,7 +2,7 @@ const University = () => {
         
     return (
 
-        <div className="university">
+        <div align="center" className="university">
 
             <h2 align="center">University Projects</h2>
 

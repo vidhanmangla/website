@@ -19,7 +19,7 @@ const Projects = () => {
     
     return (
 
-        <section className="projects">
+        <section align="center" className="projects">
             
             <h2 align="center">Technical Projects</h2>
 

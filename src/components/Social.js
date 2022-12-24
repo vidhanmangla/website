@@ -2,7 +2,7 @@ const Social = () => {
     
     return (
 
-        <div className="social">
+        <div align="center" className="social">
 
             <h2 align="center">Socials</h2>
 
