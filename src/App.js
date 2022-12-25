@@ -8,9 +8,13 @@ import Certifications from './components/Certifications';
 import Social from './components/Social';
 import Footer from './components/Footer';
 
+
 function App() {
+
 	return (
+		
 		<div className="App">
+		
 			<Header />
 			<About />
 			<Services />
@@ -19,8 +23,11 @@ function App() {
 			<Certifications />
 			<Social />
 			<Footer />
+		
 		</div>
+	
 	);
+
 }
 
 export default App;

@@ -23,252 +23,281 @@ const Projects = () => {
             
             <h2 align="center">Technical Projects</h2>
 
-            <div className="projects__cards">
+                <div className="projects__cards">
 
 
 
-                <div className="projects__card">
+                    <div className="projects__card">
 
-                    <h3>Blockchain Demo</h3>
-                    <img src={learn_blockchain} alt="Learn_Blockchain" />
-                    <p>
-                        A web-based demonstration of blockchain concepts.
-                    </p>
-                    <p>
-                        A basic visual introduction to the concepts behind a blockchain using an interactive web demo.
-                    </p>
-
-                    <a align="center" href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn PoW Blockchain</a>
-
-                </div>
-                
-
-                <div className="projects__card">
-
-                    <h3>Public / Private Keys</h3>
-                    <img src={keys} alt="Keys" />
-                    <p>
-                        A web-based demonstration of public/private key pair concepts.
-                    </p>
-                    <p>
-                        A basic visual introduction to the concepts behind a public/private key pair,
-                        signing and their use.
-                    </p>
-
-                    <a align="center" href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn Crypto Signature</a>
-
-                </div>
-
-                
-                <div className="projects__card">
-
-                    <h3>PoW Blockchain</h3>
-                    <img src={blockchain} alt="Blockchain" />
-                    <p>
-                        A simple blockchain based on Bitcoin.
-                    </p>
-                    <p>
-                        A blockchain with proof-of-work consensus to verify it's integrity.
-                        Similar to Bitcoin, decrease mining speed by changing the difficulty.
-                    </p>
-
-                    <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
-
-                </div>
-
-
-                <div className="projects__card">
-
-                    <h3>Crypto Exchange</h3>
-                    <img src={jizzyswap} alt="Jizzy Swap Page" />
-                    <p>
-                        An instant cryptocurrency exchange powered by the Ethereum Blockchain.
-                    </p>
-                    <p>
-                        Users can buy and sell ERC-20 tokens at a fixed price against Ether.
-                    </p>
-                    <p>
-                        Live on the Rinkeby and Goerli testnet.
-                    </p>
-
-                    <a align="center" href="https://master.dg3yk9d636vq.amplifyapp.com/" target="_blank" className="button">Go to website</a>
-             
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>Liquidity Farming</h3>
-                    <img src={DeFi_Bank} alt="DeFi Bank" />
-                    <p>
-                        Users can earn staking rewards by staking their mDAI stablecoin tokens for a certain period of time.
-                    </p>
-                    <p>
-                        Live on the Goerli testnet.
-                    </p>
-
-                    <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Go to website</a>
-              
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>Decentralised Lottery</h3>
-                    <img src={raffle} alt="Raffle Page" />
-                    <p>
-                        A decentralised lottery powered by the Ethereum blockchain and Chainlink's oracle.
-                    </p>
-                    <p>
-                        Participate and win prizes.
-                    </p>
-
-                    <a align="center" href="https://github.com/vidhanmangla/decentralised_lottery" target="_blank" className="button">Website going live soon</a>
-               
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>Non Fungible Tokens</h3>
-                    <img src={nfts} alt="NFTs" />
-                    <p>
-                        A collection of ERC-721, 721A and 1155 non-fungible tokens (NFTs).
-                    </p>
-                    <p>
-                        Deployed on the Rinkeby testnet.
-                    </p>
-
-                    <a align="center" href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Block Explorer</a>
-                    <a align="center" href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
-                
-                </div>
-
-                <div className="projects__card">
-
-                    <h3>NFT Marketplace</h3>
-                    <img src={nft_marketplace} alt="NFT Page" />
-                    <p>
-                        An NFT Marketplace like OpenSea.
-                    </p>
-                    <p>
-                        Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
-                    </p>
-                    
-                    <a align="center" href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Website going live soon</a>
-
-                </div>
-
-
-                <div className="projects__card">
-
-                    <h3>DAO Project</h3>
-                    <img src={dao} alt="DAO" />
-                    <p>
-                        A decentralised autonomous organisation inspired by Compound which has a 100% on-chain voting and governance. 
-                    </p>
-                    
-                    <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
-
-                </div>
-
-                
-                <div className="projects__card">
-
-                    <h3>Asset Tokenisation</h3>
-                    <img src={asset_tokenisation} alt="Asset Tokenisation" />
-                    <p>
-                        A platform enabling individuals and organisations to create a digital proof of ownership for real-world assets.
-                    </p>
-                    <p>
-                        Users can trade these asset-backed tokens.
-                    </p>
-                    
-                    <a align="center" href="https://github.com/vidhanmangla/mbrick" target="_blank" className="button">Website going live soon</a>
-
-                </div>
-
-
-                <div className="projects__card">
-
-                    <h3>Block Explorer</h3>
-                    <img src={block_explorer} alt="Block Explorer" />
-                    <p>
-                        A software based on Etherscan used for visualising blocks, transactions, and blockchain network metrics (e.g., average transaction fees, hashrates, block size, block difficulty).
-                    </p>
-                    <p>
+                        <h3>Blockchain Demo</h3>
                         
-                    </p>
+                            <img src={learn_blockchain} alt="Learn_Blockchain" />
+                        
+                                <p>
+                                    A web-based demonstration of blockchain concepts.
+                                </p>
+                                <p>
+                                    A basic visual introduction to the concepts behind a blockchain using an interactive web demo.
+                                </p>
+
+                            <a align="center" href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn PoW Blockchain</a>
+
+                    </div>
                     
-                    <a align="center" href="" target="_blank" className="button">Website going live soon</a>
 
-                </div>
+                    <div className="projects__card">
 
+                        <h3>Public / Private Keys</h3>
+                        
+                            <img src={keys} alt="Keys" />
+                                <p>
+                                    A web-based demonstration of public/private key pair concepts.
+                                </p>
+                                <p>
+                                    A basic visual introduction to the concepts behind a public/private key pair,
+                                    signing and their use.
+                                </p>
 
-                <div className="projects__card">
+                            <a align="center" href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn Crypto Signature</a>
 
-                    <h3>Crypto Wallet</h3>
-                    <img src={wallet} alt="Crypto Wallet" />
-                    <p>
-                        A crypto wallet like MetaMask.
-                    </p>
-                    <p>
-                        This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
-                    </p>
+                    </div>
+
                     
-                    <a align="center" href="" target="_blank" className="button">Wallet going live soon</a>
+                    <div className="projects__card">
 
-                </div>
+                        <h3>PoW Blockchain</h3>
+                        
+                            <img src={blockchain} alt="Blockchain" />
+                        
+                                <p>
+                                    A simple blockchain based on Bitcoin.
+                                </p>
+                                <p>
+                                    A blockchain with proof-of-work consensus to verify it's integrity.
+                                    Similar to Bitcoin, decrease mining speed by changing the difficulty.
+                                </p>
 
+                            <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
+
+                    </div>
+
+
+                    <div className="projects__card">
+
+                        <h3>Crypto Exchange</h3>
+                        
+                            <img src={jizzyswap} alt="Jizzy Swap Page" />
+                        
+                                <p>
+                                    An instant cryptocurrency exchange powered by the Ethereum Blockchain.
+                                </p>
+                                <p>
+                                    Users can buy and sell ERC-20 tokens at a fixed price against Ether.
+                                </p>
+                                <p>
+                                    Live on the Rinkeby and Goerli testnet.
+                                </p>
+
+                            <a align="center" href="https://master.dg3yk9d636vq.amplifyapp.com/" target="_blank" className="button">Go to website</a>
                 
-                <div className="projects__card">
+                    </div>
 
-                    <h3>Decentralised Tube</h3>
-                    <img src={video_sharing} alt="Video Sharing" />
-                    <p>
-                        A global online video sharing social media platform.
-                    </p>
-                    <p>
-                        A decentralised video sharing platform which, unlike YouTube, does not steal user data.
-                    </p>
+                    <div className="projects__card">
+
+                        <h3>Liquidity Farming</h3>
+                            
+                            <img src={DeFi_Bank} alt="DeFi Bank" />
+                                
+                                <p>
+                                    Users can earn staking rewards by staking their mDAI stablecoin tokens for a certain period of time.
+                                </p>
+                                <p>
+                                    Live on the Goerli testnet.
+                                </p>
+
+                            <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Go to website</a>
+                
+                    </div>
+
+                    <div className="projects__card">
+
+                        <h3>Decentralised Lottery</h3>
+                        
+                            <img src={raffle} alt="Raffle Page" />
+                        
+                                <p>
+                                    A decentralised lottery powered by the Ethereum blockchain and Chainlink's oracle.
+                                </p>
+                                <p>
+                                    Participate and win prizes.
+                                </p>
+
+                            <a align="center" href="https://github.com/vidhanmangla/decentralised_lottery" target="_blank" className="button">Website going live soon</a>
+                
+                    </div>
+
+                    <div className="projects__card">
+
+                        <h3>Non Fungible Tokens</h3>
+                        
+                            <img src={nfts} alt="NFTs" />
+                        
+                                <p>
+                                    A collection of ERC-721, 721A and 1155 non-fungible tokens (NFTs).
+                                </p>
+                                <p>
+                                    Deployed on the Rinkeby testnet.
+                                </p>
+
+                            <a align="center" href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Block Explorer</a>
+                            <a align="center" href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
                     
-                    <a align="center" href="https://github.com/vidhanmangla/decentralised-video-sharing-platform" target="_blank" className="button">Website going live soon</a>
+                    </div>
 
-                </div>
+                    <div className="projects__card">
+
+                        <h3>NFT Marketplace</h3>
+                        
+                            <img src={nft_marketplace} alt="NFT Page" />
+                        
+                                <p>
+                                    An NFT Marketplace like OpenSea.
+                                </p>
+                                <p>
+                                    Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
+                                </p>
+                        
+                            <a align="center" href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Website going live soon</a>
+
+                    </div>
 
 
-                <div className="projects__card">
+                    <div className="projects__card">
 
-                    <h3>Crypto Trading Platform</h3>
-                    <img src={tradingg} alt="Trading" />
-                    <p>
-                        A decentralised crypto trading platform which won't steal your crypto.
-                    </p>
+                        <h3>DAO Project</h3>
+                        
+                            <img src={dao} alt="DAO" />
+                        
+                                <p>
+                                    A decentralised autonomous organisation inspired by Compound which has a 100% on-chain voting and governance. 
+                                </p>
+                        
+                            <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
+
+                    </div>
+
                     
-                    <a align="center" href="https://github.com/vidhanmangla/binance_clone" target="_blank" className="button">Website going live soon</a>
+                    <div className="projects__card">
+
+                        <h3>Asset Tokenisation</h3>
+                        
+                            <img src={asset_tokenisation} alt="Asset Tokenisation" />
+                         
+                                <p>
+                                    A platform enabling individuals and organisations to create a digital proof of ownership for real-world assets.
+                                </p>
+                                <p>
+                                    Users can trade these asset-backed tokens.
+                                </p>
+                        
+                           <a align="center" href="https://github.com/vidhanmangla/mbrick" target="_blank" className="button">Website going live soon</a>
+
+                    </div>
+
+
+                    <div className="projects__card">
+
+                        <h3>Block Explorer</h3>
+                        
+                            <img src={block_explorer} alt="Block Explorer" />
+                                <p>
+                                    A software based on Etherscan used for visualising blocks, transactions, and blockchain network metrics (e.g., average transaction fees, hashrates, block size, block difficulty).
+                                </p>
+                                <p>
+                                    
+                                </p>
+                        
+                            <a align="center" href="" target="_blank" className="button">Website going live soon</a>
+
+                    </div>
+
+
+                    <div className="projects__card">
+
+                        <h3>Crypto Wallet</h3>
+                        
+                            <img src={wallet} alt="Crypto Wallet" />
+                        
+                                <p>
+                                    A crypto wallet like MetaMask.
+                                </p>
+                                <p>
+                                    This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
+                                </p>
+                        
+                            <a align="center" href="" target="_blank" className="button">Wallet going live soon</a>
+
+                    </div>
+
+                    
+                    <div className="projects__card">
+
+                        <h3>Decentralised Tube</h3>
+                        
+                            <img src={video_sharing} alt="Video Sharing" />
+                        
+                                <p>
+                                    A global online video sharing social media platform.
+                                </p>
+                                <p>
+                                    A decentralised video sharing platform which, unlike YouTube, does not steal user data.
+                                </p>
+                        
+                            <a align="center" href="https://github.com/vidhanmangla/decentralised-video-sharing-platform" target="_blank" className="button">Website going live soon</a>
+
+                    </div>
+
+
+                    <div className="projects__card">
+
+                        <h3>Crypto Trading Platform</h3>
+                        
+                            <img src={tradingg} alt="Trading" />
+                        
+                                <p>
+                                    A decentralised crypto trading platform which won't steal your crypto.
+                                </p>
+                        
+                            <a align="center" href="https://github.com/vidhanmangla/binance_clone" target="_blank" className="button">Website going live soon</a>
+
+                    </div>
+
+
+                    <div className="projects__card">
+
+                        <h3>Decentralised Social Media</h3>
+                        
+                            <img src={social_media} alt="Video Sharing" />
+                        
+                                <p>
+                                    A global decentralised social media platform.
+                                </p>
+                                <p>
+                                    Unlike Facebook, this platform will allow users to connect with their friends without collecting their data.
+                                </p>
+
+                            <a align="center" href="" target="_blank" className="button">Website going live soon</a>
+
+                    </div>
+
+
 
                 </div>
-
-
-                <div className="projects__card">
-
-                    <h3>Decentralised Social Media</h3>
-                    <img src={social_media} alt="Video Sharing" />
-                    <p>
-                        A global decentralised social media platform.
-                    </p>
-                    <p>
-                        Unlike Facebook, this platform will allow users to connect with their friends without collecting their data.
-                    </p>
-
-                    <a align="center" href="" target="_blank" className="button">Website going live soon</a>
-
-                </div>
-
-
-
-            </div>  
 
         </section>
-        
+
     );
+
 }
 
 export default Projects;
