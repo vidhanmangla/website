@@ -16,9 +16,9 @@ const Certifications = () => {
 
                     <br></br>
                     
-                            <img align="center" src={BMC} alt="Bloomberg Market Concepts" width="500" height="400"></img>
-                    
-                            <img align="center" src={Blockchain_Council} alt="Blockchain_Council" width="500" height="400"></img>
+                            <img align="center" src={BMC} alt="Bloomberg Market Concepts" width="548.6" height="400"></img>
+
+                            <img align="center" src={Blockchain_Council} alt="Blockchain_Council" width="548.6" height="400"></img>
                 
                 </p>
 

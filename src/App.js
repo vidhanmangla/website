@@ -2,9 +2,9 @@
 import Header from './components/Header';
 import About from './components/About';
 import Services from './components/Services';
+import Certifications from './components/Certifications';
 import University from './components/University';
 import Projects from './components/Projects';
-import Certifications from './components/Certifications';
 import Social from './components/Social';
 import Footer from './components/Footer';
 
@@ -18,9 +18,9 @@ function App() {
 			<Header />
 			<About />
 			<Services />
+			<Certifications />
 			<University />
 			<Projects />
-			<Certifications />
 			<Social />
 			<Footer />
 		

@@ -7,12 +7,6 @@ import DeFi_Bank from '../assets/DeFi_Bank.png';
 import blockchain from '../assets/blockchain.png';
 import learn_blockchain from '../assets/learn_blockchain.png';
 import keys from '../assets/keys.png';
-import asset_tokenisation from '../assets/asset_tokenisation.png';
-import block_explorer from '../assets/block_explorer.png';
-import wallet from '../assets/wallet.png';
-import video_sharing from '../assets/video_sharing.png';
-import tradingg from '../assets/tradingg.png';
-import social_media from '../assets/social_media.png';
 
 
 const Projects = () => {
@@ -24,7 +18,6 @@ const Projects = () => {
             <h2 align="center">Technical Projects</h2>
 
                 <div className="projects__cards">
-
 
 
                     <div className="projects__card">
@@ -84,7 +77,7 @@ const Projects = () => {
 
                     <div className="projects__card">
 
-                        <h3>Crypto Exchange</h3>
+                        <h3>Swapping Exchange</h3>
                         
                             <img src={jizzyswap} alt="Jizzy Swap Page" />
                         
@@ -185,111 +178,6 @@ const Projects = () => {
                             <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
 
                     </div>
-
-                    
-                    <div className="projects__card">
-
-                        <h3>Asset Tokenisation</h3>
-                        
-                            <img src={asset_tokenisation} alt="Asset Tokenisation" />
-                         
-                                <p>
-                                    A platform enabling individuals and organisations to create a digital proof of ownership for real-world assets.
-                                </p>
-                                <p>
-                                    Users can trade these asset-backed tokens.
-                                </p>
-                        
-                           <a align="center" href="https://github.com/vidhanmangla/mbrick" target="_blank" className="button">Website going live soon</a>
-
-                    </div>
-
-
-                    <div className="projects__card">
-
-                        <h3>Block Explorer</h3>
-                        
-                            <img src={block_explorer} alt="Block Explorer" />
-                                <p>
-                                    A software based on Etherscan used for visualising blocks, transactions, and blockchain network metrics (e.g., average transaction fees, hashrates, block size, block difficulty).
-                                </p>
-                                <p>
-                                    
-                                </p>
-                        
-                            <a align="center" href="" target="_blank" className="button">Website going live soon</a>
-
-                    </div>
-
-
-                    <div className="projects__card">
-
-                        <h3>Crypto Wallet</h3>
-                        
-                            <img src={wallet} alt="Crypto Wallet" />
-                        
-                                <p>
-                                    A crypto wallet like MetaMask.
-                                </p>
-                                <p>
-                                    This wallet will store users’ public and private keys while providing an easy-to-use interface to manage crypto balances.
-                                </p>
-                        
-                            <a align="center" href="" target="_blank" className="button">Wallet going live soon</a>
-
-                    </div>
-
-                    
-                    <div className="projects__card">
-
-                        <h3>Decentralised Tube</h3>
-                        
-                            <img src={video_sharing} alt="Video Sharing" />
-                        
-                                <p>
-                                    A global online video sharing social media platform.
-                                </p>
-                                <p>
-                                    A decentralised video sharing platform which, unlike YouTube, does not steal user data.
-                                </p>
-                        
-                            <a align="center" href="https://github.com/vidhanmangla/decentralised-video-sharing-platform" target="_blank" className="button">Website going live soon</a>
-
-                    </div>
-
-
-                    <div className="projects__card">
-
-                        <h3>Crypto Trading Platform</h3>
-                        
-                            <img src={tradingg} alt="Trading" />
-                        
-                                <p>
-                                    A decentralised crypto trading platform which won't steal your crypto.
-                                </p>
-                        
-                            <a align="center" href="https://github.com/vidhanmangla/binance_clone" target="_blank" className="button">Website going live soon</a>
-
-                    </div>
-
-
-                    <div className="projects__card">
-
-                        <h3>Decentralised Social Media</h3>
-                        
-                            <img src={social_media} alt="Video Sharing" />
-                        
-                                <p>
-                                    A global decentralised social media platform.
-                                </p>
-                                <p>
-                                    Unlike Facebook, this platform will allow users to connect with their friends without collecting their data.
-                                </p>
-
-                            <a align="center" href="" target="_blank" className="button">Website going live soon</a>
-
-                    </div>
-
 
 
                 </div>

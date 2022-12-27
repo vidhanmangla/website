@@ -29,13 +29,14 @@ code {
 .header,
 .about,
 .services,
+.certifications,
 .projects,
 .university,
-.certifications,
 .social,
 .footer {
   padding: 50px 25px 25px;
 }
+
 
 /* ------------------------------------------------------ */
 /* -- Header -- */
@@ -78,6 +79,7 @@ code {
   margin: 0 15px;
 }
 
+
 /* ------------------------------------------------------ */
 /* -- About -- */
 
@@ -91,6 +93,7 @@ code {
   line-height: 130%;
   max-width: 98ch;
 }
+
 
 /* ------------------------------------------------------ */
 /* -- Services -- */
@@ -106,6 +109,22 @@ code {
   max-width: 98ch;
 }
 
+
+/* ------------------------------------------------------ */
+/* -- Certifications -- */
+
+.certifications h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.certifications p {
+  font-size: 18px;
+  line-height: 130%;
+  max-width: 98ch;
+}
+
+
 /* ------------------------------------------------------ */
 /* -- University -- */
 
@@ -119,6 +138,7 @@ code {
   line-height: 130%;
   max-width: 98ch;
 }
+
 
 /* ------------------------------------------------------ */
 /* -- Projects -- */
@@ -174,19 +194,6 @@ code {
   margin: 10px 5px 0;
 }
 
-/* ------------------------------------------------------ */
-/* -- Certifications -- */
-
-.certifications h2 {
-  font-size: 42px;
-  margin: 25px auto;
-}
-
-.certifications p {
-  font-size: 18px;
-  line-height: 130%;
-  max-width: 98ch;
-}
 
 /* ------------------------------------------------------ */
 /* -- Social Media -- */
@@ -200,6 +207,7 @@ code {
   margin: 0 17.39px;
 }
 
+
 /* ------------------------------------------------------ */
 /* -- Footer -- */
 
@@ -207,6 +215,7 @@ code {
   margin: 0 auto;
   text-align: center;
 }
+
 
 /* ------------------------------------------------------ */
 /* -- HTML COMPONENTS: BUTTON -- */
