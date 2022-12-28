@@ -15,7 +15,7 @@ const About = () => {
                     <br></br>
             
                 <p align="center">
-                    Motor-racing driver and guitarist.
+                    Guitarist and motor-racing driver.
                 </p>
             
                     <br></br>
