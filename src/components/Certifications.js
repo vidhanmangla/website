@@ -12,7 +12,7 @@ const Certifications = () => {
 
                 <p>
 
-                            <p align="center">Bloomberg Market Concepts | Certified Blockchain Developer™</p>
+                            <p align="center">Certified Blockchain Developer™ | Bloomberg Market Concepts</p>
 
                     <br></br>
 
