@@ -1,5 +1,5 @@
 import BMC from '../assets/BMC.png';
-import Blockchain_Council from '../assets/Blockchain_Council.png';
+import Certified from '../assets/Certified.png';
 
 
 const Certifications = () => {
@@ -12,13 +12,13 @@ const Certifications = () => {
 
                 <p>
 
-                            <p align="center">Bloomberg Market Concepts | Certified Blockchain Developer</p>
+                            <p align="center">Bloomberg Market Concepts | Certified Blockchain Developer™</p>
 
                     <br></br>
                     
                             <img align="center" src={BMC} alt="Bloomberg Market Concepts" width="548.6" height="400"></img>
 
-                            <img align="center" src={Blockchain_Council} alt="Blockchain_Council" width="548.6" height="400"></img>
+                            <img align="center" src={Certified} alt="Certified Blockchain Developer™" width="548.6" height="400"></img>
                 
                 </p>
 
