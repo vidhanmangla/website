@@ -6,12 +6,12 @@ const Social = () => {
 
             <h2 align="center">Socials</h2>
 
-                <a href="https://www.linkedin.com/in/vidhanmangla" className="button">LinkedIn</a>
-                <a href="https://discord.gg/q5XtpBGWvb" className="button">Discord</a>
-                <a href="https://twitter.com/vidhanmangla" className="button">Twitter</a>
-                <a href="https://github.com/vidhanmangla" className="button">GitHub</a>
-                <a href="https://www.instagram.com/_jizzy_b_" className="button">Racing</a>
-                <a href="https://www.instagram.com/fireside.on.an.island" className="button">Music</a>
+                <a href="https://www.linkedin.com/in/vidhanmangla" target="_blank" className="button">LinkedIn</a>
+                <a href="https://discord.gg/q5XtpBGWvb" target="_blank" className="button">Discord</a>
+                <a href="https://twitter.com/vidhanmangla" target="_blank" className="button">Twitter</a>
+                <a href="https://github.com/vidhanmangla" target="_blank" className="button">GitHub</a>
+                <a href="https://www.instagram.com/_jizzy_b_" target="_blank" className="button">Racing</a>
+                <a href="https://www.instagram.com/fireside.on.an.island" target="_blank" className="button">Music</a>
             
         </div>
         

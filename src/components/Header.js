@@ -19,17 +19,17 @@ const Header = () => {
                     
                             <br></br>
 
-                                <a href='mailto:vidhanmangla@gmail.com' className='button'>Email</a>
-                                <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' className='button'>Meeting</a>
+                                <a href='mailto:vidhanmangla@gmail.com' target="_blank" className='button'>Email</a>
+                                <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' target="_blank" className='button'>Meeting</a>
                             
                             <br></br>
                             <br></br>
                             
-                                <small><a href ="https://link.storjshare.io/juw4aphkjmevt2yyqwerqkenz5aa/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
+                                <small><a href ="https://link.storjshare.io/juw4aphkjmevt2yyqwerqkenz5aa/jobs-material%2FResume.pdf" target="_blank" attributes-list>Resume</a></small>
                             
                             <br></br>   
                             
-                                <small><a href ="https://link.storjshare.io/jxvderozlil4gzibashilkuwduwa/jobs-material%2FCover%20Letter.pdf" attributes-list>Covering Letter</a></small>
+                                <small><a href ="https://link.storjshare.io/jxvderozlil4gzibashilkuwduwa/jobs-material%2FCover%20Letter.pdf" target="_blank" attributes-list>Covering Letter</a></small>
                             
                             <br></br>
                             <br></br>
