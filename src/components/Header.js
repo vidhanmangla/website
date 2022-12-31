@@ -25,7 +25,7 @@ const Header = () => {
                             <br></br>
                             <br></br>
                             
-                                <small><a href ="https://link.storjshare.io/jugkxcliubszkl6dg3kk7rvrk7ya/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
+                                <small><a href ="https://link.storjshare.io/juw4aphkjmevt2yyqwerqkenz5aa/jobs-material%2FResume.pdf" attributes-list>Resume</a></small>
                             
                             <br></br>   
                             
@@ -34,7 +34,7 @@ const Header = () => {
                             <br></br>
                             <br></br>
                             
-                                <small>📍 Guildford, England, United Kingdom</small>
+                                <small>📍 London, England, United Kingdom</small>
                                 
                 </div>
 
