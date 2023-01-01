@@ -8,7 +8,7 @@ const Footer = () => {
                 
                 <br></br>
 
-                        <p><small>© 2022 Vidhan Mangla. All rights reserved.</small></p>
+                        <p><small>© 2023 Vidhan Mangla. All rights reserved.</small></p>
             
         </footer>
         
