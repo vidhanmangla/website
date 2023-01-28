@@ -34,7 +34,7 @@ const Header = () => {
                             <br></br>
                             <br></br>
                             
-                                <small>📍 Guildford, England, United Kingdom</small>
+                                <small>📍 London, England, United Kingdom</small>
                                 
                 </div>
 
