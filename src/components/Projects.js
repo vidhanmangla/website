@@ -91,7 +91,7 @@ const Projects = () => {
                                     Live on the Rinkeby and Goerli testnet.
                                 </p>
 
-                            <a align="center" href="https://master.dg3yk9d636vq.amplifyapp.com/" target="_blank" className="button">Go to website</a>
+                            <a align="center" href="https://luminous-sunflower-a18391.netlify.app/" target="_blank" className="button">Go to website</a>
                 
                     </div>
 
@@ -125,7 +125,7 @@ const Projects = () => {
                                     Participate and win prizes.
                                 </p>
 
-                            <a align="center" href="https://github.com/vidhanmangla/decentralised_lottery" target="_blank" className="button">Website going live soon</a>
+                            <a align="center" href="https://spiffy-kitsune-dff7a0.netlify.app/" target="_blank" className="button">Go to website</a>
                 
                     </div>
 
