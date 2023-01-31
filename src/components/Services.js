@@ -6,23 +6,30 @@ const Services = () => {
 
             <h2 align="center">Services I Provide</h2>
 
-            <p>
+                <p>
 
-                        <p align="center">NFT consulting & development • DApp development • DeFi solutions engineering</p>
-                
-                <br></br>
+                                <p align="center">
+                                                NFT Consulting & Development • Crypto Wallet Development • DApp Development</p>
+                    
+                    <br></br>
 
-                        <p align="center">Cryptocurrency wallet development • Hyperledger solutions development • Cryptocurrency exchange engineering</p>
+                                <p align="center">
+                                                DeFi Solutions Engineering • Hyperledger & R3 Corda Solutions Engineering
+                                                • Cryptocurrency Exchange Engineering</p>
+                    
+                    <br></br>
+                    
+                                <p align="center">
+                                                Custom Blockchain Development & Integration • Enterprise Blockchain Development
+                                                • Blockchain Consulting & Advisory</p>
+                    
+                    <br></br>
+                    
+                                <p align="center">
+                                                Blockchain Game Development • Smart Contract Development & Audit
+                                                • Blockchain Training For Tech & Business Insiders</p>
                 
-                <br></br>
-                
-                        <p align="center">Custom blockchain development & integration • Enterprise blockchain development • Blockchain consulting & advisory</p>
-                
-                <br></br>
-                
-                        <p align="center">Blockchain game development • Smart contract development & audit • Blockchain training for tech & business insiders</p>
-            
-            </p>
+                </p>
 
         </section>
         

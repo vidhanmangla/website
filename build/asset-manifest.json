@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.10447328.css",
-    "main.js": "/static/js/main.b0c8966f.js",
-    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "main.css": "/static/css/main.6cd89636.css",
+    "main.js": "/static/js/main.875347f4.js",
+    "static/js/27.0ce90960.chunk.js": "/static/js/27.0ce90960.chunk.js",
     "static/media/profile.png": "/static/media/profile.6b07af0b18d36b97d1de.png",
     "static/media/dao.png": "/static/media/dao.df6e98057b2153f07696.png",
     "static/media/nft_marketplace.png": "/static/media/nft_marketplace.e87e5316666f673d8967.png",
@@ -15,13 +15,10 @@
     "static/media/learn_blockchain.png": "/static/media/learn_blockchain.86552cbe7add92a381ad.png",
     "static/media/keys.png": "/static/media/keys.acaa9bba9beb6f107cd7.png",
     "static/media/DeFi_Bank.png": "/static/media/DeFi_Bank.9c6a5b3cb4c82f0f0dc7.png",
-    "index.html": "/index.html",
-    "main.10447328.css.map": "/static/css/main.10447328.css.map",
-    "main.b0c8966f.js.map": "/static/js/main.b0c8966f.js.map",
-    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.10447328.css",
-    "static/js/main.b0c8966f.js"
+    "static/css/main.6cd89636.css",
+    "static/js/main.875347f4.js"
   ]
 }
