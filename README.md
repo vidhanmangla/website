@@ -5,4 +5,4 @@
 - Hosting (IPFS)
 
 ## Website link
-`http://vidhanmangla.com` or `https://vidhanmangla.on.fleek.co/`
+`http://vidhanmangla.com` || `https://vidhanmangla.on.fleek.co/`
