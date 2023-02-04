@@ -31,7 +31,9 @@ const Header = () => {
                             
                             <br></br>
                             <br></br>
-                            
+
+                                    <small>"New kid in town"</small>
+                            <br></br>
                                     <small>📍 London, England, United Kingdom</small>
                                 
                 </div>
