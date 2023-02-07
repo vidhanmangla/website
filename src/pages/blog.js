@@ -1,5 +1,4 @@
-import learn_blockchain from '../assets/learn_blockchain.png'
-
+import React from 'react'
 
 const Blog = () => {
     
@@ -7,22 +6,20 @@ const Blog = () => {
 
         <section align="center" className="blog">
             
-            <h2 align="center">Blog</h2>
+            <h2 align="center">Welcome to my blog!</h2>
 
                     <div className="projects__cards">
 
 
                         <div className="projects__card">
 
-                            <h3>123</h3>
-                            
-                                <img src={learn_blockchain} alt="Learn_Blockchain" />
+                            <h3>Wait for projects</h3>
                             
                                     <p>
-                                        12345.
+                                        Vidhan Mangla.
                                     </p>
                                     <p>
-                                        12345678910.
+                                        Vidhan Mangla
                                     </p>
 
                                 <a align="center" href="" target="_blank" className="button">Blog</a>
