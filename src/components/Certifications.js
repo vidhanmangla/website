@@ -1,5 +1,5 @@
-import Certified from '../assets/Certified.png';
-import BMC from '../assets/BMC.png';
+import Certified from '../assets/Certified.png'
+import BMC from '../assets/BMC.png'
 
 
 const Certifications = () => {
@@ -23,8 +23,8 @@ const Certifications = () => {
 
         </section>
         
-    );
+    )
     
 }
 
-export default Certifications;
+export default Certifications

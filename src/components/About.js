@@ -27,8 +27,8 @@ const About = () => {
             
         </section>
         
-    );
+    )
     
 }
 
-export default About;
+export default About

@@ -15,8 +15,8 @@ const Social = () => {
             
         </div>
         
-    );
+    )
 
 }
 
-export default Social;
+export default Social

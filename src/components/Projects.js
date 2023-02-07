@@ -1,12 +1,12 @@
-import jizzyswap from '../assets/jizzyswap.png';
-import nft_marketplace from '../assets/nft_marketplace.png';
-import raffle from '../assets/raffle.png';
-import nfts from '../assets/nfts.png';
-import dao from '../assets/dao.png';
-import DeFi_Bank from '../assets/DeFi_Bank.png';
-import blockchain from '../assets/blockchain.png';
-import learn_blockchain from '../assets/learn_blockchain.png';
-import keys from '../assets/keys.png';
+import jizzyswap from '../assets/jizzyswap.png'
+import nft_marketplace from '../assets/nft_marketplace.png'
+import raffle from '../assets/raffle.png'
+import nfts from '../assets/nfts.png'
+import dao from '../assets/dao.png'
+import DeFi_Bank from '../assets/DeFi_Bank.png'
+import blockchain from '../assets/blockchain.png'
+import learn_blockchain from '../assets/learn_blockchain.png'
+import keys from '../assets/keys.png'
 
 
 const Projects = () => {
@@ -182,8 +182,8 @@ const Projects = () => {
 
         </section>
 
-    );
+    )
 
 }
 
-export default Projects;
+export default Projects

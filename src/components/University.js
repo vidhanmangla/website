@@ -22,8 +22,8 @@ const University = () => {
             
         </div>
         
-    );
+    )
     
 }
 
-export default University;
+export default University

@@ -1,4 +1,4 @@
-import profile from '../assets/profile.png';
+import profile from '../assets/profile.png'
 
 
 const Header = () => {
@@ -38,8 +38,8 @@ const Header = () => {
 
         </section>
         
-    );
+    )
     
 }
 
-export default Header;
+export default Header

@@ -1,4 +1,4 @@
-import learn_blockchain from '../assets/learn_blockchain.png';
+import learn_blockchain from '../assets/learn_blockchain.png'
 
 
 const Blog = () => {
@@ -33,8 +33,8 @@ const Blog = () => {
 
         </section>
 
-    );
+    )
 
 }
 
-export default Blog;
+export default Blog
