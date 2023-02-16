@@ -1,6 +1,9 @@
 import React from 'react'
+
+
 import Gas from '../assets/gas.png'
 import Self_destruct from '../assets/self_destruct.png'
+
 
 const Blog = () => {
     
@@ -10,43 +13,46 @@ const Blog = () => {
 
             <br></br>
             
-                <h2 align="center">Welcome to my blog!</h2>
+                <h2 align="center">Welcome To My Blog!</h2>
 
                     <br></br>
                     <br></br>
+                    <br></br>
+                    <br></br>
 
-                        <a align="center"><li>Using Custom Errors Instead of Revert Strings (Save Huge Deployment Gas Costs)</li></a>
+                            <a align="center"><li><u>Using Custom Errors Instead of Revert Strings (Save Huge Deployment Gas Costs)</u></li></a>
                         <br></br>
                         <br></br>
-                        <a>A lot of solidity developers don't put this into their practice and it's very underrated. Solidity 0.8.4 introduced custom errors, a convenient and gas-efficient way to display errors. Before Solidity 0.8.4 solidity developers could only use revert strings to display errors, which was expensive in terms of smart contract deployment cost and run-time cost when the require condition is met.</a>
+                            <a>A lot of solidity developers don't put this into their practice and it's very underrated. Solidity 0.8.4 introduced custom errors, a convenient and gas-efficient way to display errors. Before Solidity 0.8.4 solidity developers could only use revert strings to display errors, which was expensive in terms of smart contract deployment cost and run-time cost when the require condition is met.</a>
                         <br></br>
                         <br></br>
-                        <a>You can define errors with the error keyword, the type of errors you can define are:</a>
+                            <a>You can define errors with the error keyword, the type of errors you can define are:</a>
                         <br></br>
-                        <a>- Errors</a>
+                            <a>- Errors</a>
                         <br></br>
-                        <a>- Errors with parameters</a>
+                            <a>- Errors with parameters</a>
                         <br></br>
-                        <a>- Errors in depth</a>
-                        <br></br>
-                        <br></br>
-                        <a>You can place the error condition in an if condition and reverting the transaction, errors can be declared inside or outside the smart contract scope.</a>
+                            <a>- Errors in depth</a>
                         <br></br>
                         <br></br>
-                        <a>The following code shows how to use custom errors in solidity and what's the gas difference in both of them.</a>
-                        <br></br>
-                            <img src={Gas} alt="Gas" />
-                        <br></br>
-                        <a>Deployment Gas Costs:</a>
-                        <br></br>
-                        <a>Contract RequireErrors: 230288 gas</a>
-                        <br></br>
-                        <a>Contract CustomError: 201559 gas</a>
+                            <a>You can place the error condition in an if condition and reverting the transaction, errors can be declared inside or outside the smart contract scope.</a>
                         <br></br>
                         <br></br>
-                        <a>Error Gas Cost When Condition is Met:</a>
+                            <a>The following code shows how to use custom errors in solidity and what's the gas difference in both of them.</a>
                         <br></br>
-                        <a>function requireError(): 23642</a>
+                        <br></br>
+                            <img src={Gas} alt="Gas" width={500} height={500} />
+                        <br></br>
+                            <a>Deployment Gas Costs:</a>
+                        <br></br>
+                            <a>Contract RequireErrors: 230288 gas</a>
+                        <br></br>
+                            <a>Contract CustomError: 201559 gas</a>
+                        <br></br>
+                        <br></br>
+                            <a>Error Gas Cost When Condition is Met:</a>
+                        <br></br>
+                            <a>function requireError(): 23642</a>
                         <br></br>
                         <a>function customError(): 23388</a>
                         <br></br>
@@ -54,35 +60,33 @@ const Blog = () => {
                         <a>Custom Errors will save huge deployment gas costs for you and you'll be able to write much more lines of code.</a>
                         <br></br>
                         <br></br>
-                        <a>#web3 #ethereum #solidity #blockchain #smartcontracts</a>
-                        <br></br>
-                        <br></br>
 
                     <br></br>
                     <br></br>
 
-                        <a align="center"><li>What exactly happens when you destruct a Solidity smart contract? 🔥</li></a>
+                            <a align="center"><li><u>What exactly happens when you destruct a Solidity smart contract? 🔥</u></li></a>
                         <br></br>
                         <br></br>
-                        <a>The contract stops execution in its current scope (number++ is not executed after the selfdestruct was initiated), and flags the contract for deletion. It doesn’t get deleted right away, so you can still call its functions (in this case the autogenerated number() function).</a>
+                            <a>The contract stops execution in its current scope (number++ is not executed after the selfdestruct was initiated), and flags the contract for deletion. It doesn’t get deleted right away, so you can still call its functions (in this case the autogenerated number() function).</a>
                         <br></br>
                         <br></br>
-                        <a>The native selfdestruct() function takes one argument of type “address payable” to which it’s going to send all native tokens (ETH on Ethereum, BNB on Binance Smart Chain, MATIC on Polygon, …) that the contract holds.</a>
-                        <br></br>
-                        <a>Since this is not a regular transfer, it does not invoke the receive() nor fallback() functions on the recipient contract. So you effectively can force send ETH to a contract this way. But more on this in a separate post. 💡</a>
-                        <br></br>
-                        <a>Non-native tokens (ERC-20, NFTs, …) are not transferred. Token balances are stored in respective token contracts - so your contract doesn’t know which non-native tokens it owns. There’s no known private key to the contract address, and all non-native tokens held by this address are going to be inaccessible once the contract is destroyed. Just something to keep in mind if you’re planning to implement the destruct feature in your contracts.</a>
-                        <br></br>
-                        <a>The selfdestruct() function was deprecated in the latest Solidity version 0.8.18, and is planned to be replaced by SENDALL opcode - so the new Solidity function replacing selfdestruct() will possibly be called sendall(). The new feature will send all native tokens to the specified address but will not remove the contract bytecode anymore. More info in the currently unfinished EIP: https://lnkd.in/evC7zYnch</a>
-                        <br></br>
-                            <img src={Self_destruct} alt="Gas" />
+                            <a>The native selfdestruct() function takes one argument of type “address payable” to which it’s going to send all native tokens (ETH on Ethereum, BNB on Binance Smart Chain, MATIC on Polygon, …) that the contract holds.</a>
                         <br></br>
                         <br></br>
-                        <a>#web3 #ethereum #solidity #blockchain #smartcontracts</a>
+                            <a>Since this is not a regular transfer, it does not invoke the receive() nor fallback() functions on the recipient contract. So you effectively can force send ETH to a contract this way.</a>
+                        <br></br>
+                        <br></br>
+                            <a>Non-native tokens (ERC-20, NFTs, …) are not transferred. Token balances are stored in respective token contracts - so your contract doesn’t know which non-native tokens it owns. There’s no known private key to the contract address, and all non-native tokens held by this address are going to be inaccessible once the contract is destroyed. Just something to keep in mind if you’re planning to implement the destruct feature in your contracts.</a>
+                        <br></br>
+                        <br></br>
+                            <a>The selfdestruct() function was deprecated in the latest Solidity version 0.8.18, and is planned to be replaced by SENDALL opcode - so the new Solidity function replacing selfdestruct() will possibly be called sendall(). The new feature will send all native tokens to the specified address but will not remove the contract bytecode anymore. More info in the currently unfinished EIP: https://lnkd.in/evC7zYnch.</a>
+                        <br></br>
+                        <br></br>
+                            <img src={Self_destruct} alt="Gas" width={500} height={500} />
                         <br></br>
                         <br></br>
 
-                    <br></br>
+                    <br></br    >
                     <br></br>
 
                     <footer align="center" className="footer">
