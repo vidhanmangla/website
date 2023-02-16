@@ -1,5 +1,5 @@
 import jizzyswap from '../assets/jizzyswap.png'
-import nft_marketplace from '../assets/nft_marketplace.png'
+import marketplace from '../assets/marketplace.png'
 import raffle from '../assets/raffle.png'
 import nfts from '../assets/nfts.png'
 import dao from '../assets/dao.png'
@@ -15,7 +15,7 @@ const Projects = () => {
 
         <section align="center" className="projects">
             
-            <h2 align="center">Technical Projects</h2>
+            <h2>Technical Projects</h2>
 
                     <div className="projects__cards">
 
@@ -148,18 +148,19 @@ const Projects = () => {
 
                         <div className="projects__card">
 
-                            <h3>NFT Marketplace</h3>
+                            <h3>Marketplace</h3>
                             
-                                <img src={nft_marketplace} alt="NFT Page" />
+                                <img src={marketplace} alt="Marketplace" />
                             
                                     <p>
-                                        An NFT Marketplace like OpenSea.
+                                        Marketplace for digital products. Website going live soon.
                                     </p>
                                     <p>
-                                        Users can buy and sell NFTs with Ether and view the ones they’ve purchased or listed on the marketplace.
+                                        Live on Ethereum and Polygon mainnet.
                                     </p>
-                            
-                                <a align="center" href="https://github.com/vidhanmangla/nft-marketplace" target="_blank" className="button">Website going live soon</a>
+
+                                <a href="https://etherscan.io/address/0xD905b3f1BFe13B3ACAcB66A345668cF66E2d8072" target="_blank" className="button">Ethereum</a>
+                                <a href="https://polygonscan.com/address/0x3BC8Fbf27fbC47d05100f16E71677A308625585a" target="_blank" className="button">Polygon</a>
 
                         </div>
 
