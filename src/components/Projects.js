@@ -33,7 +33,7 @@ const Projects = () => {
                                         This is a forked project. It is very informative.
                                     </p>
 
-                                <a align="center" href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" className="button">Learn PoW Blockchain</a>
+                                <a align="center" href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" rel="noreferrer" className="button">Learn PoW Blockchain</a>
 
                         </div>
                         
@@ -50,7 +50,7 @@ const Projects = () => {
                                         This is a forked project. It is very informative.
                                     </p>
 
-                                <a align="center" href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" className="button">Learn Crypto Signature</a>
+                                <a align="center" href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" rel="noreferrer" className="button">Learn Crypto Signature</a>
 
                         </div>
 
@@ -69,7 +69,7 @@ const Projects = () => {
                                         Decrease mining speed by increasing the difficulty.
                                     </p>
 
-                                <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" className="button">Code</a>
+                                <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" rel="noreferrer" className="button">Code</a>
 
                         </div>
 
@@ -90,7 +90,7 @@ const Projects = () => {
                                         Live on the Goerli testnet.
                                     </p>
 
-                                <a align="center" href="https://luminous-sunflower-a18391.netlify.app/" target="_blank" className="button">Go to website</a>
+                                <a align="center" href="https://luminous-sunflower-a18391.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
                     
                         </div>
 
@@ -107,7 +107,7 @@ const Projects = () => {
                                         Live on the Goerli testnet.
                                     </p>
 
-                                <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" className="button">Go to website</a>
+                                <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
                     
                         </div>
 
@@ -124,7 +124,7 @@ const Projects = () => {
                                         Live on the Goerli testnet.
                                     </p>
 
-                                <a align="center" href="https://spiffy-kitsune-dff7a0.netlify.app/" target="_blank" className="button">Go to website</a>
+                                <a align="center" href="https://spiffy-kitsune-dff7a0.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
                     
                         </div>
 
@@ -141,8 +141,8 @@ const Projects = () => {
                                         Deployed on the Rinkeby testnet.
                                     </p>
 
-                                <a align="center" href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" className="button">Block Explorer</a>
-                                <a align="center" href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" className="button">OpenSea</a>
+                                <a align="center" href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" rel="noreferrer" className="button">Block Explorer</a>
+                                <a align="center" href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" rel="noreferrer" className="button">OpenSea</a>
                         
                         </div>
 
@@ -159,8 +159,8 @@ const Projects = () => {
                                         Live on Ethereum and Polygon mainnet.
                                     </p>
 
-                                <a href="https://etherscan.io/address/0xD905b3f1BFe13B3ACAcB66A345668cF66E2d8072" target="_blank" className="button">Ethereum</a>
-                                <a href="https://polygonscan.com/address/0x3BC8Fbf27fbC47d05100f16E71677A308625585a" target="_blank" className="button">Polygon</a>
+                                <a href="https://etherscan.io/address/0xD905b3f1BFe13B3ACAcB66A345668cF66E2d8072" target="_blank" rel="noreferrer" className="button">Ethereum</a>
+                                <a href="https://polygonscan.com/address/0x3BC8Fbf27fbC47d05100f16E71677A308625585a" target="_blank" rel="noreferrer" className="button">Polygon</a>
 
                         </div>
 
@@ -175,7 +175,7 @@ const Projects = () => {
                                         A decentralised autonomous organisation inspired by Compound which has 100% on-chain voting and governance. 
                                     </p>
                             
-                                <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" className="button">Code</a>
+                                <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" rel="noreferrer" className="button">Code</a>
 
                         </div>
 
