@@ -11,6 +11,7 @@ padding: 0.2rem calc((134vw - 1000px) / 2);
 z-index: 12;
 `
 
+
 export const NavLink = styled(Link)`
 color: #000000;
 display: flex;
@@ -23,6 +24,7 @@ cursor: pointer;
 	color: #808080;
 }
 `
+
 
 export const NavMenu = styled.div`
 display: flex;

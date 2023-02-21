@@ -29,9 +29,6 @@ const Projects = () => {
                                     <p>
                                         A web-based demonstration of blockchain concepts.
                                     </p>
-                                    <p>
-                                        This is a forked project. It is very informative.
-                                    </p>
 
                                 <a align="center" href="https://github.com/vidhanmangla/blockchain-demo" target="_blank" rel="noreferrer" className="button">Learn PoW Blockchain</a>
 
@@ -46,9 +43,6 @@ const Projects = () => {
                                     <p>
                                         A web-based demonstration of public/private key pair concepts.
                                     </p>
-                                    <p>
-                                        This is a forked project. It is very informative.
-                                    </p>
 
                                 <a align="center" href="https://github.com/vidhanmangla/public-private-key-demo" target="_blank" rel="noreferrer" className="button">Learn Crypto Signature</a>
 
@@ -62,14 +56,28 @@ const Projects = () => {
                                 <img src={blockchain} alt="Blockchain" />
                             
                                     <p>
-                                        A simple blockchain based on Bitcoin.
-                                    </p>
-                                    <p>
-                                        A blockchain with proof-of-work consensus algorithm.
-                                        Decrease mining speed by increasing the difficulty.
+                                        A minimalistic blockchain using proof-of-work consensus based on Bitcoin.
                                     </p>
 
                                 <a align="center" href="https://github.com/vidhanmangla/Jizzy_Blockchain" target="_blank" rel="noreferrer" className="button">Code</a>
+
+                        </div>
+
+
+                        <div className="projects__card">
+
+                            <h3>Liquidity Farming</h3>
+    
+                                <img src={DeFi_Bank} alt="DeFi Bank" />
+        
+                                    <p>
+                                        Users can earn rewards by staking their stablecoin tokens.
+                                    </p>
+                                    <p>
+                                        Live on the Goerli testnet.
+                                    </p>
+
+                                <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
 
                         </div>
 
@@ -84,9 +92,6 @@ const Projects = () => {
                                         An instant cryptocurrency exchange powered by the Ethereum blockchain.
                                     </p>
                                     <p>
-                                        Users can buy and sell ERC-20 tokens at a fixed price against Ether.
-                                    </p>
-                                    <p>
                                         Live on the Goerli testnet.
                                     </p>
 
@@ -94,31 +99,15 @@ const Projects = () => {
                     
                         </div>
 
-                        <div className="projects__card">
-
-                            <h3>Liquidity Farming</h3>
-                                
-                                <img src={DeFi_Bank} alt="DeFi Bank" />
-                                    
-                                    <p>
-                                        Users can earn rewards by staking their stablecoin tokens for a certain period of time.
-                                    </p>
-                                    <p>
-                                        Live on the Goerli testnet.
-                                    </p>
-
-                                <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
-                    
-                        </div>
 
                         <div className="projects__card">
 
-                            <h3>Decentralised Lottery</h3>
+                            <h3>Lottery!</h3>
                             
                                 <img src={raffle} alt="Raffle Page" />
                             
                                     <p>
-                                        A lottery powered by the Ethereum blockchain and Chainlink's oracle.
+                                        Lottery powered by the Ethereum blockchain and Chainlink oracle.
                                     </p>
                                     <p>
                                         Live on the Goerli testnet.
@@ -128,6 +117,7 @@ const Projects = () => {
                     
                         </div>
 
+
                         <div className="projects__card">
 
                             <h3>Non Fungible Tokens</h3>
@@ -135,16 +125,17 @@ const Projects = () => {
                                 <img src={nfts} alt="NFTs" />
                             
                                     <p>
-                                        A collection of ERC-721, 721A and 1155 non-fungible tokens (NFTs).
+                                        A collection of NFT products created by Vidhan.
                                     </p>
                                     <p>
-                                        Deployed on the Rinkeby testnet.
+                                        Available on the marketplace soon.
                                     </p>
 
-                                <a align="center" href="https://rinkeby.etherscan.io/address/0xd40D39Da6E9331F29A8E4a40425339F11E39FA06" target="_blank" rel="noreferrer" className="button">Block Explorer</a>
-                                <a align="center" href="https://testnets.opensea.io/0x430560948700B45adaC86Af5F4430631D48f1cf7" target="_blank" rel="noreferrer" className="button">OpenSea</a>
+                                <a align="center" href="" target="_blank" rel="noreferrer" className="button">Block Explorer (Soon)</a>
+                                <a align="center" href="" target="_blank" rel="noreferrer" className="button">Marketplace (Soon)</a>
                         
                         </div>
+
 
                         <div className="projects__card">
 
@@ -153,10 +144,10 @@ const Projects = () => {
                                 <img src={marketplace} alt="Marketplace" />
                             
                                     <p>
-                                        Marketplace for digital products. Website going live soon.
+                                        Website going live soon.
                                     </p>
                                     <p>
-                                        Live on Ethereum and Polygon mainnet.
+                                        Smart Contracts live on Ethereum and Polygon mainnet.
                                     </p>
 
                                 <a href="https://etherscan.io/address/0xD905b3f1BFe13B3ACAcB66A345668cF66E2d8072" target="_blank" rel="noreferrer" className="button">Ethereum</a>
@@ -167,7 +158,7 @@ const Projects = () => {
 
                         <div className="projects__card">
 
-                            <h3>DAO Project</h3>
+                            <h3>Revolutionary DAO</h3>
                             
                                 <img src={dao} alt="DAO" />
                             
@@ -176,8 +167,10 @@ const Projects = () => {
                                     </p>
                             
                                 <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" rel="noreferrer" className="button">Code</a>
+                                <a align="center" href="" target="_blank" rel="noreferrer" className="button">Live soon</a>
 
                         </div>
+
 
                     </div>
 

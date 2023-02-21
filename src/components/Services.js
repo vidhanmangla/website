@@ -9,7 +9,7 @@ const Services = () => {
                 <p>
 
                                 <p align="center">
-                                                NFT Consulting & Development • Crypto Wallet Development • DApp Development</p>
+                                                NFT Consulting & Development • Crypto Wallet Development • dApp Development</p>
                     
                     <br></br>
 

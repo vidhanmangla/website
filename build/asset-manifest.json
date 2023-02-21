@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.6cd89636.css",
-    "main.js": "/static/js/main.e0cd3ee3.js",
+    "main.js": "/static/js/main.5644459a.js",
     "static/js/27.0ce90960.chunk.js": "/static/js/27.0ce90960.chunk.js",
     "static/media/profile.png": "/static/media/profile.6b07af0b18d36b97d1de.png",
-    "static/media/dao.png": "/static/media/dao.df6e98057b2153f07696.png",
     "static/media/BMC.png": "/static/media/BMC.7644c1409c81dd6cae26.png",
     "static/media/self_destruct.png": "/static/media/self_destruct.6830f0f2d56611cc0bd8.png",
     "static/media/nfts.png": "/static/media/nfts.5f3adac805e741c44438.png",
     "static/media/Certified.png": "/static/media/Certified.121668b60c50ef64a955.png",
     "static/media/jizzyswap.png": "/static/media/jizzyswap.5c29bede9a15607a740b.png",
-    "static/media/marketplace.png": "/static/media/marketplace.b0da0ac3d0ace2a384e4.png",
+    "static/media/dao.png": "/static/media/dao.b7827d56748e065e11c3.png",
     "static/media/blockchain.png": "/static/media/blockchain.15555a292a5716d64405.png",
     "static/media/gas.png": "/static/media/gas.29a4b60a911828140b13.png",
-    "static/media/raffle.png": "/static/media/raffle.51c9557af00bcff4f21c.png",
+    "static/media/raffle.png": "/static/media/raffle.45281383eeae84731891.png",
+    "static/media/marketplace.png": "/static/media/marketplace.1e07184003673e5e9fa8.png",
     "static/media/learn_blockchain.png": "/static/media/learn_blockchain.86552cbe7add92a381ad.png",
+    "static/media/DeFi_Bank.png": "/static/media/DeFi_Bank.45b5c8e8870195056509.png",
     "static/media/keys.png": "/static/media/keys.acaa9bba9beb6f107cd7.png",
-    "static/media/DeFi_Bank.png": "/static/media/DeFi_Bank.9c6a5b3cb4c82f0f0dc7.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.6cd89636.css",
-    "static/js/main.e0cd3ee3.js"
+    "static/js/main.5644459a.js"
   ]
 }
