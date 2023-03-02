@@ -25,14 +25,14 @@ const Header = () => {
                             <br></br>
                             <br></br>
                             
-                                    <small><a href ="https://link.storjshare.io/jvbeyvi46w7ldjapfpundj4ncooq/jobs-material%2FResume.pdf" target="_blank" rel="noreferrer" attributes-list>Resume</a></small>
+                                    <small><a href ="https://link.storjshare.io/jvqq3rtfjekuufrhrrfern5nwgna/jobs-material%2FResume.pdf" target="_blank" rel="noreferrer" attributes-list>Resume</a></small>
                             <br></br>
                                     <small><a href ="https://link.storjshare.io/jubldrbfwsz3zo5uzchoxtfocqbq/jobs-material%2FCover%20Letter.pdf" target="_blank" rel="noreferrer" attributes-list>Covering Letter</a></small>
                             
                             <br></br>
                             <br></br>
 
-                                    <small>📍 London, England, United Kingdom</small>
+                                    <small>📍 Guildford, England, United Kingdom</small>
                                 
                 </div>
 
