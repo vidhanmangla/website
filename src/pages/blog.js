@@ -51,7 +51,7 @@ const Blog = () => {
                             <p><u>USING CUSTOM ERRORS INSTEAD OF REVERT STRINGS (SAVE HUGE DEPLOYMENT GAS COSTS)</u></p>
                         <br></br>
                         <br></br>
-                            <p>A lot of solidity developers don't put this into their practice and it's very underrated. Solidity 0.8.4 introduced custom errors, a convenient and gas-efficient way to display errors. Before Solidity 0.8.4 solidity developers could only use revert strings to display errors, which was expensive in terms of smart contract deployment cost and run-time cost when the require condition is met.</p>
+                            <p>Solidity developers often neglect custom errors, despite their usefulness. Solidity 0.8.4 introduced them as a cost-effective way to display errors, replacing the expensive revert strings used before.</p>
                         <br></br>
                         <br></br>
                             <p>You can define errors with the error keyword, the type of errors you can define are:</p>
@@ -104,10 +104,10 @@ const Blog = () => {
                             <p>Since this is not a regular transfer, it does not invoke the receive() nor fallback() functions on the recipient contract. So you effectively can force send ETH to a contract this way.</p>
                         <br></br>
                         <br></br>
-                            <p>Non-native tokens (ERC-20, NFTs, …) are not transferred. Token balances are stored in respective token contracts - so your contract doesn’t know which non-native tokens it owns. There’s no known private key to the contract address, and all non-native tokens held by this address are going to be inaccessible once the contract is destroyed. Just something to keep in mind if you’re planning to implement the destruct feature in your contracts.</p>
+                            <p>Non-native tokens (ERC-20, NFTs, etc.) are stored in their respective contracts, making it impossible for a contract to know which tokens it owns. If a contract is destroyed, all non-native tokens held by the contract address become inaccessible due to the absence of a private key. This is crucial to consider before implementing the destruct feature in your contracts.</p>
                         <br></br>
                         <br></br>
-                            <p>The selfdestruct() function was deprecated in the latest Solidity version 0.8.18, and is planned to be replaced by SENDALL opcode - so the new Solidity function replacing selfdestruct() will possibly be called sendall(). The new feature will send all native tokens to the specified address but will not remove the contract bytecode anymore. More info in the currently unfinished EIP: https://lnkd.in/evC7zYnch.</p>
+                            <p>Solidity version 0.8.18 has deprecated the selfdestruct() function, which is intended to be replaced by SENDALL opcode. The new function, likely to be called sendall(), will send all native tokens to a designated address, but will not remove the contract bytecode. Additional details are available in the unfinished EIP found here: https://lnkd.in/evC7zYnch.</p>
                         <br></br>
                         <br></br>
                             <img src={Self_destruct} alt="Gas" width={500} height={500} />
