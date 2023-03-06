@@ -107,10 +107,10 @@ const Blog = () => {
                             <p>Non-native tokens (ERC-20, NFTs, etc.) are stored in their respective contracts, making it impossible for a contract to know which tokens it owns. If a contract is destroyed, all non-native tokens held by the contract address become inaccessible due to the absence of a private key. This is crucial to consider before implementing the destruct feature in your contracts.</p>
                         <br></br>
                         <br></br>
-                            <p>Solidity version 0.8.18 has deprecated the selfdestruct() function, which is intended to be replaced by SENDALL opcode. The new function, likely to be called sendall(), will send all native tokens to a designated address, but will not remove the contract bytecode. Additional details are available in the unfinished EIP found here: https://lnkd.in/evC7zYnch.</p>
-                        <br></br>
-                        <br></br>
                             <img src={Self_destruct} alt="Gas" width={500} height={500} />
+                        <br></br>
+                        <br></br>
+                            <p>Solidity version 0.8.18 has deprecated the selfdestruct() function, which is intended to be replaced by SENDALL opcode. The new function, likely to be called sendall(), will send all native tokens to a designated address, but will not remove the contract bytecode. Additional details are available in the unfinished EIP found here: https://lnkd.in/evC7zYnch.</p>
                         <br></br>
                         <br></br>
 
