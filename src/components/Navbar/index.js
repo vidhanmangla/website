@@ -21,9 +21,13 @@ const Navbar = () => {
 					</NavLink>
 
 				</NavMenu>
+
 			</Nav>
+
 		</>
+
 	)
+	
 }
 
 export default Navbar

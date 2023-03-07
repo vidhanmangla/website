@@ -23,6 +23,18 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
+                            <p><u>FUN FACT</u></p>
+                        <br></br>
+                        <br></br>
+                            <p>YouTube used over 175 times more energy watching Gangnam Style in 2019 than Ethereum uses per year.</p>
+                        <br></br>
+                        <br></br>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+
                             <p><u>ERC-4337 CRYPTO WALLETS WILL ONBOARD THE NEXT 1 BILLION USERS TO WEB3</u></p>
                         <br></br>
                         <br></br>
