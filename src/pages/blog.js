@@ -3,6 +3,7 @@ import React from 'react'
 
 import Gas from '../assets/gas.png'
 import Self_destruct from '../assets/self_destruct.png'
+import Annual_Energy_Consumption from '../assets/Annual_Energy_Consumption.png'
 
 
 const Blog = () => {
@@ -27,6 +28,12 @@ const Blog = () => {
                         <br></br>
                         <br></br>
                             <p>YouTube used over 175 times more energy watching Gangnam Style in 2019 than Ethereum uses per year.</p>
+                        <br></br>
+                        <br></br>
+                            <img src={Annual_Energy_Consumption} alt="Annual Energy Consumption" width={500} height={500} />
+                        <br></br>
+                        <br></br>
+                            <p>The chart above shows the estimated annual energy consumption in TWh/yr for various industries (retrieved in June 2022).</p>
                         <br></br>
                         <br></br>
 
