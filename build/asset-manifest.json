@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.10447328.css",
-    "main.js": "/static/js/main.1b7e8e36.js",
+    "main.js": "/static/js/main.3f2553b5.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/profile.png": "/static/media/profile.6b07af0b18d36b97d1de.png",
-    "static/media/BMC.png": "/static/media/BMC.7644c1409c81dd6cae26.png",
+    "static/media/certificates.png": "/static/media/certificates.d9e257c14e45b8070ff0.png",
     "static/media/self_destruct.png": "/static/media/self_destruct.6830f0f2d56611cc0bd8.png",
     "static/media/nfts.png": "/static/media/nfts.5f3adac805e741c44438.png",
-    "static/media/Certified.png": "/static/media/Certified.121668b60c50ef64a955.png",
     "static/media/jizzyswap.png": "/static/media/jizzyswap.5c29bede9a15607a740b.png",
     "static/media/dao.png": "/static/media/dao.b7827d56748e065e11c3.png",
     "static/media/blockchain.png": "/static/media/blockchain.15555a292a5716d64405.png",
@@ -20,11 +19,11 @@
     "static/media/Annual_Energy_Consumption.png": "/static/media/Annual_Energy_Consumption.d38b9ab6275f2395ee9e.png",
     "index.html": "/index.html",
     "main.10447328.css.map": "/static/css/main.10447328.css.map",
-    "main.1b7e8e36.js.map": "/static/js/main.1b7e8e36.js.map",
+    "main.3f2553b5.js.map": "/static/js/main.3f2553b5.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10447328.css",
-    "static/js/main.1b7e8e36.js"
+    "static/js/main.3f2553b5.js"
   ]
 }
