@@ -113,7 +113,7 @@ const Projects = () => {
                                         Live on the Goerli testnet.
                                     </p>
 
-                                <a align="center" href="https://master.d5615dcxchqd7.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
+                                <a align="center" href="https://master.d13r93vvjico63.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
                     
                         </div>
 
