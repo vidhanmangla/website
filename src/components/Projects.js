@@ -151,7 +151,7 @@ const Projects = () => {
                                     </p>
 
                                 <a href="https://etherscan.io/address/0xD905b3f1BFe13B3ACAcB66A345668cF66E2d8072" target="_blank" rel="noreferrer" className="button">Ethereum</a>
-                                <a href="https://polygonscan.com/address/0x3BC8Fbf27fbC47d05100f16E71677A308625585a" target="_blank" rel="noreferrer" className="button">Polygon</a>
+                                <a href="https://6408c4fc66f09a6c66e81cd6--subtle-begonia-8690cc.netlify.app/" target="_blank" rel="noreferrer" className="button">Polygon</a>
 
                         </div>
 
