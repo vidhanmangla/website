@@ -150,7 +150,7 @@ const Projects = () => {
                                         Live on Ethereum mainnet.
                                     </p>
 
-                                <a href="https://6408c4fc66f09a6c66e81cd6--subtle-begonia-8690cc.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
+                                <a href="https://graceful-dieffenbachia-cd4165.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
 
                         </div>
 
