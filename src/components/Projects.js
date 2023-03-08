@@ -144,14 +144,13 @@ const Projects = () => {
                                 <img src={marketplace} alt="Marketplace" />
                             
                                     <p>
-                                        Website going live soon.
+                                        A web3 marketplace to buy, sell and trade digital products.
                                     </p>
                                     <p>
-                                        Smart Contracts live on Ethereum and Polygon mainnet.
+                                        Live on Ethereum mainnet.
                                     </p>
 
-                                <a href="https://etherscan.io/address/0xD905b3f1BFe13B3ACAcB66A345668cF66E2d8072" target="_blank" rel="noreferrer" className="button">Ethereum</a>
-                                <a href="https://6408c4fc66f09a6c66e81cd6--subtle-begonia-8690cc.netlify.app/" target="_blank" rel="noreferrer" className="button">Polygon</a>
+                                <a href="https://6408c4fc66f09a6c66e81cd6--subtle-begonia-8690cc.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
 
                         </div>
 
