@@ -131,8 +131,7 @@ const Projects = () => {
                                         Available on the marketplace soon.
                                     </p>
 
-                                <a align="center" href="" target="_blank" rel="noreferrer" className="button">Block Explorer (Soon)</a>
-                                <a align="center" href="" target="_blank" rel="noreferrer" className="button">Marketplace (Soon)</a>
+                                <a align="center" href="https://summer-snow-0700.on.fleek.co/" target="_blank" rel="noreferrer" className="button">Marketplace (Soon)</a>
                         
                         </div>
 
@@ -166,7 +165,6 @@ const Projects = () => {
                                     </p>
                             
                                 <a align="center" href="https://github.com/vidhanmangla/decentralised-autonomous-organisation" target="_blank" rel="noreferrer" className="button">Code</a>
-                                <a align="center" href="" target="_blank" rel="noreferrer" className="button">Live soon</a>
 
                         </div>
 
