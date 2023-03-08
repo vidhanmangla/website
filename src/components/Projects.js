@@ -150,7 +150,7 @@ const Projects = () => {
                                         Live on Ethereum mainnet.
                                     </p>
 
-                                <a href="https://main.dimwf2v42my8e.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
+                                <a href="https://summer-snow-0700.on.fleek.co/" target="_blank" rel="noreferrer" className="button">Go to website</a>
 
                         </div>
 
