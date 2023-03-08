@@ -8,7 +8,7 @@ const About = () => {
 
                 <p align="center">
                                 A crypto enthusiast with experience developing production grade dApps on EVM-compatible
-                                blockchains with 1+ year of expertise, skilled at writing, testing,
+                                blockchains with 2+ years of expertise, skilled at writing, testing,
                                 deploying and auditing Smart Contracts by taking care of gas optimisation and security.
                 </p>
             
