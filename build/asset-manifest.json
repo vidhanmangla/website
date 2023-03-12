@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.10447328.css",
-    "main.js": "/static/js/main.b51e93c3.js",
+    "main.js": "/static/js/main.f8c38824.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/profile.png": "/static/media/profile.6b07af0b18d36b97d1de.png",
     "static/media/certificates.png": "/static/media/certificates.d9e257c14e45b8070ff0.png",
@@ -13,17 +13,18 @@
     "static/media/gas.png": "/static/media/gas.29a4b60a911828140b13.png",
     "static/media/raffle.png": "/static/media/raffle.45281383eeae84731891.png",
     "static/media/marketplace.png": "/static/media/marketplace.1e07184003673e5e9fa8.png",
+    "static/media/languages.png": "/static/media/languages.7c2f6ee4c747e27f1198.png",
     "static/media/learn_blockchain.png": "/static/media/learn_blockchain.86552cbe7add92a381ad.png",
     "static/media/DeFi_Bank.png": "/static/media/DeFi_Bank.45b5c8e8870195056509.png",
     "static/media/keys.png": "/static/media/keys.acaa9bba9beb6f107cd7.png",
     "static/media/Annual_Energy_Consumption.png": "/static/media/Annual_Energy_Consumption.d38b9ab6275f2395ee9e.png",
     "index.html": "/index.html",
     "main.10447328.css.map": "/static/css/main.10447328.css.map",
-    "main.b51e93c3.js.map": "/static/js/main.b51e93c3.js.map",
+    "main.f8c38824.js.map": "/static/js/main.f8c38824.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10447328.css",
-    "static/js/main.b51e93c3.js"
+    "static/js/main.f8c38824.js"
   ]
 }
