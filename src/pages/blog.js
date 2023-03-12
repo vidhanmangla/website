@@ -1,9 +1,8 @@
 import React from 'react'
-
-
 import Gas from '../assets/gas.png'
 import Self_destruct from '../assets/self_destruct.png'
 import Annual_Energy_Consumption from '../assets/Annual_Energy_Consumption.png'
+import languages from '../assets/languages.png'
 
 
 const Blog = () => {
@@ -18,6 +17,24 @@ const Blog = () => {
             <br></br>
             
                 <h2 align="center">Welcome to Vidhan's Blog!</h2>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+
+                            <p><u>MOST USED PROGRAMMING LANGUAGES</u></p>
+                        <br></br>
+                        <br></br>
+                            <p>The Solidity Developer Survey 2022 results are out with some interesting statistics. Solidity marks the most used programming language for the survey audience (28.6%), closely followed by JavaScript (25.6%) and TypeScript (20.5%). </p>
+                        <br></br>
+                        <br></br>
+                            <img src={languages} alt="Annual Energy Consumption" width={700} height={400} />
+                        <br></br>
+                        <br></br>
+                            <p>More info here https://blog.soliditylang.org/2023/03/10/solidity-developer-survey-2022-results/.</p>
+                        <br></br>
+                        <br></br>
 
                     <br></br>
                     <br></br>
