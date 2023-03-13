@@ -32,7 +32,7 @@ const Blog = () => {
                             <img src={languages} alt="Annual Energy Consumption" width={700} height={400} />
                         <br></br>
                         <br></br>
-                            <p>More info here https://blog.soliditylang.org/2023/03/10/solidity-developer-survey-2022-results/.</p>
+                            <p>More details and statistics here https://blog.soliditylang.org/2023/03/10/solidity-developer-survey-2022-results/.</p>
                         <br></br>
                         <br></br>
 
