@@ -3,6 +3,7 @@ import Gas from '../assets/gas.png'
 import Self_destruct from '../assets/self_destruct.png'
 import Annual_Energy_Consumption from '../assets/Annual_Energy_Consumption.png'
 import languages from '../assets/languages.png'
+import testnets from '../assets/testnets.png'
 
 
 const Blog = () => {
@@ -23,6 +24,24 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
+                            <p><u>WHICH TESTNET SHOULD I USE?</u></p>
+                        <br></br>
+                        <br></br>
+                            <p>The two public testnets that client developers are currently maintaining are Sepolia and Goerli. Sepolia is a network for contract and application developers to test their applications. The Goerli network lets protocol developers test network upgrades, and lets stakers test running validators.</p>
+                        <br></br>
+                        <br></br>
+                            <img src={testnets} alt="Test Networks" width={700} height={400} />
+                        <br></br>
+                        <br></br>
+                            <p>Meet --holesky, the first long-standing, merged-from-genesis, public Ethereum testnet. Holešky will replace Goerli as a staking, infrastructure and protocol-developer testnet in 2023. For testing decentralized applications, smart contracts, and other EVM functionality, please use Sepolia!</p>
+                        <br></br>
+                        <br></br>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+        
                             <p><u>MOST USED PROGRAMMING LANGUAGES</u></p>
                         <br></br>
                         <br></br>
