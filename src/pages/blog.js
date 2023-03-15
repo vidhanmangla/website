@@ -30,7 +30,7 @@ const Blog = () => {
                             <p>The two public testnets that client developers are currently maintaining are Sepolia and Goerli. Sepolia is a network for contract and application developers to test their applications. The Goerli network lets protocol developers test network upgrades, and lets stakers test running validators.</p>
                         <br></br>
                         <br></br>
-                            <img src={testnets} alt="Test Networks" width={700} height={400} />
+                            <img src={testnets} alt="Test Networks" width={800} height={150} />
                         <br></br>
                         <br></br>
                             <p>Meet --holesky, the first long-standing, merged-from-genesis, public Ethereum testnet. Holešky will replace Goerli as a staking, infrastructure and protocol-developer testnet in 2023. For testing decentralized applications, smart contracts, and other EVM functionality, please use Sepolia!</p>

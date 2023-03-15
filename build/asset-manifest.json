@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da9ba009.css",
-    "main.js": "/static/js/main.a072e547.js",
+    "main.css": "/static/css/main.2c4d0fbd.css",
+    "main.js": "/static/js/main.5e1ba44b.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/profile.png": "/static/media/profile.6b07af0b18d36b97d1de.png",
     "static/media/certificates.png": "/static/media/certificates.d9e257c14e45b8070ff0.png",
@@ -16,15 +16,16 @@
     "static/media/languages.png": "/static/media/languages.7c2f6ee4c747e27f1198.png",
     "static/media/learn_blockchain.png": "/static/media/learn_blockchain.86552cbe7add92a381ad.png",
     "static/media/DeFi_Bank.png": "/static/media/DeFi_Bank.45b5c8e8870195056509.png",
+    "static/media/testnets.png": "/static/media/testnets.d5b4d1da8307c8371f78.png",
     "static/media/keys.png": "/static/media/keys.acaa9bba9beb6f107cd7.png",
     "static/media/Annual_Energy_Consumption.png": "/static/media/Annual_Energy_Consumption.d38b9ab6275f2395ee9e.png",
     "index.html": "/index.html",
-    "main.da9ba009.css.map": "/static/css/main.da9ba009.css.map",
-    "main.a072e547.js.map": "/static/js/main.a072e547.js.map",
+    "main.2c4d0fbd.css.map": "/static/css/main.2c4d0fbd.css.map",
+    "main.5e1ba44b.js.map": "/static/js/main.5e1ba44b.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da9ba009.css",
-    "static/js/main.a072e547.js"
+    "static/css/main.2c4d0fbd.css",
+    "static/js/main.5e1ba44b.js"
   ]
 }
