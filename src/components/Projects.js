@@ -74,7 +74,7 @@ const Projects = () => {
                                         Users can earn rewards by staking their stablecoin tokens.
                                     </p>
                                     <p>
-                                        Live on the Goerli testnet.
+                                        Available on the Goerli testnet.
                                     </p>
 
                                 <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
@@ -92,7 +92,7 @@ const Projects = () => {
                                         An instant cryptocurrency exchange powered by the Ethereum blockchain.
                                     </p>
                                     <p>
-                                        Live on the Goerli testnet.
+                                        Available on the Goerli testnet.
                                     </p>
 
                                 <a align="center" href="https://luminous-sunflower-a18391.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
@@ -110,7 +110,7 @@ const Projects = () => {
                                         Lottery powered by the Ethereum blockchain and Chainlink oracle.
                                     </p>
                                     <p>
-                                        Live on the Goerli testnet.
+                                        Available on the Goerli testnet.
                                     </p>
 
                                 <a align="center" href="https://master.d13r93vvjico63.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
@@ -146,7 +146,7 @@ const Projects = () => {
                                         A web3 marketplace to buy, sell and trade digital products.
                                     </p>
                                     <p>
-                                        Live on Ethereum mainnet.
+                                        Available on Ethereum mainnet.
                                     </p>
 
                                 <a href="https://main.d2bivn1wue16sy.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
