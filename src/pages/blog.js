@@ -24,7 +24,27 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>WHICH TESTNET SHOULD I USE?</u></p>
+                            <p><u>SVB AND USDC</u> (March 13, 2023)</p>
+                        <br></br>
+                        <br></br>
+                            <p>USDC is a form of cryptocurrency that is tethered to the value of the US dollar. This means that one USDC is always equivalent to one US dollar. The token is an ERC-20 variety that is constructed on the Ethereum blockchain, and it is issued by CENTRE, a cooperative effort between Circle and Coinbase.</p>
+                        <br></br>
+                            <p>When an individual desires to purchase USDC, they must first deposit US dollars into a CENTRE bank account. They will then receive the equivalent amount of USDC tokens in exchange, or they can acquire them from an exchange.</p>
+                        <br></br>
+                            <p>The US dollars that are deposited into the CENTRE bank account are kept in reserve and are subjected to frequent third-party audits to guarantee that there are always enough funds available to back the USDC tokens that are in circulation.</p>
+                        <br></br>
+                            <p>USDC tokens can be exchanged for US dollars at any moment by sending them back to the CENTRE, which will then transfer the equivalent sum of US dollars to the user's bank account.</p>
+                        <br></br>
+                            <p>Turning our attention now to Silvergate, it is widely recognized as being one of the most cryptocurrency-friendly banks, as well as the largest bank for technology startups. It has recently announced its intention to terminate its operations and liquidate its bank.</p>
+                        <br></br>
+                            <p>CENTRE has approximately $3.3 billion invested with Silicon Valley Bank, but it is unclear how much it will receive in return. As a result, the value of USDC has been de-pegged from the US dollar.</p>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+
+                            <p><u>WHICH TESTNET SHOULD I USE?</u> (March 6, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>The two public testnets that client developers are currently maintaining are Sepolia and Goerli. Sepolia is a network for contract and application developers to test their applications. The Goerli network lets protocol developers test network upgrades, and lets stakers test running validators.</p>
@@ -42,7 +62,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
         
-                            <p><u>MOST USED PROGRAMMING LANGUAGES</u></p>
+                            <p><u>MOST USED PROGRAMMING LANGUAGES</u> (February 27, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>The Solidity Developer Survey 2022 results are out with some interesting statistics. Solidity marks the most used programming language for the survey audience (28.6%), closely followed by JavaScript (25.6%) and TypeScript (20.5%). </p>
@@ -60,7 +80,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>FUN FACT</u></p>
+                            <p><u>FUN FACT</u> (February 20, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>YouTube used over 175 times more energy watching Gangnam Style in 2019 than Ethereum uses per year.</p>
@@ -78,7 +98,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>ERC-4337 CRYPTO WALLETS WILL ONBOARD THE NEXT 1 BILLION USERS TO WEB3</u></p>
+                            <p><u>ERC-4337 CRYPTO WALLETS WILL ONBOARD THE NEXT 1 BILLION USERS TO WEB3</u> (February 13, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>This is a new type of crypto wallet that gives you "the same features a bank would, without having to trust a bank."</p>
@@ -103,7 +123,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>USING CUSTOM ERRORS INSTEAD OF REVERT STRINGS (SAVE HUGE DEPLOYMENT GAS COSTS)</u></p>
+                            <p><u>USING CUSTOM ERRORS INSTEAD OF REVERT STRINGS (SAVE HUGE DEPLOYMENT GAS COSTS)</u> (February 6, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>Solidity developers often neglect custom errors, despite their usefulness. Solidity 0.8.4 introduced them as a cost-effective way to display errors, replacing the expensive revert strings used before.</p>
@@ -147,7 +167,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>WHAT EXACTLY HAPPENS WHEN YOU DESTRUCT A SOLIDITY SMART CONTRACT?🔥</u></p>
+                            <p><u>WHAT EXACTLY HAPPENS WHEN YOU DESTRUCT A SOLIDITY SMART CONTRACT?🔥</u> (February 1, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>The contract stops execution in its current scope (number++ is not executed after the selfdestruct was initiated), and flags the contract for deletion. It doesn’t get deleted right away, so you can still call its functions (in this case the autogenerated number() function).</p>
