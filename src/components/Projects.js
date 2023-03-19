@@ -74,7 +74,7 @@ const Projects = () => {
                                         Users can earn rewards by staking their stablecoin tokens.
                                     </p>
                                     <p>
-                                        Available on the Goerli testnet.
+                                        Available on the Sepolia testnet.
                                     </p>
 
                                 <a align="center" href="https://jocular-dolphin-7b0f16.netlify.app/" target="_blank" rel="noreferrer" className="button">Go to website</a>
