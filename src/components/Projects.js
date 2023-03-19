@@ -110,7 +110,7 @@ const Projects = () => {
                                         Lottery powered by the Ethereum blockchain and Chainlink oracle.
                                     </p>
                                     <p>
-                                        Available on the Goerli testnet.
+                                        Available on Goerli and Sepolia testnet.
                                     </p>
 
                                 <a align="center" href="https://master.d13r93vvjico63.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
