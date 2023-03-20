@@ -131,7 +131,7 @@ const Projects = () => {
                                         Available on the marketplace soon.
                                     </p>
 
-                                <a align="center" href="https://summer-snow-0700.on.fleek.co/" target="_blank" rel="noreferrer" className="button">Marketplace (Soon)</a>
+                                <a align="center" href="https://main.d2bivn1wue16sy.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Marketplace (Soon)</a>
                         
                         </div>
 
