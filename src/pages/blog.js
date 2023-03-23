@@ -17,7 +17,7 @@ const Blog = () => {
             <br></br>
             <br></br>
             
-                <h2 align="center">Welcome to Vidhan's Blog!</h2>
+                <h2 align="center">Welcome to Vidhan's BitcoinLand!</h2>
 
                     <br></br>
                     <br></br>
