@@ -60,7 +60,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p align="center">With love, fellow Bitcoiners!</p>
+                            <p align="center">With ♥ fellow Bitcoiners!</p>
 
                     <footer align="center" className="footer">
 
