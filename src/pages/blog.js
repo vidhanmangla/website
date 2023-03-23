@@ -64,7 +64,7 @@ const Blog = () => {
 
                     <footer align="center" className="footer">
 
-                            <p><small>This Web 3.0 portfolio website is proudly hosted on IPFS</small></p>
+                            <p><small>This Web 3.0 website is proudly hosted on IPFS</small></p>
 
                         <br></br>
 
