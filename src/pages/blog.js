@@ -27,7 +27,7 @@ const Blog = () => {
                             <p><u>BITCOIN, THE ENEMY!</u> (March 23, 2023)</p>
                         <br></br>
                         <br></br>
-                            <p>We create inflation by printing money like newspaper, we take money out of pocket of the poor and all we’ve got left to do is give out a public statement,</p>
+                            <p>We create inflation by printing money like newspaper, we take money out of the pocket of poor and middle-class, and all we’ve got left to do is give out a public statement,</p>
                         <br></br>
                             <p>“Bank of England in a desperate attempt to save the economy raises interest rates to fight inflation.”</p>
                         <br></br>
