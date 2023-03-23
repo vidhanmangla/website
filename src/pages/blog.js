@@ -24,7 +24,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>BITCOIN, THE ENEMY!</u> (March 23, 2023)</p>
+                            <p><u>Bitcoin, the enemy!</u> (March 23, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>We create inflation by printing money like newspaper, we take money out of pocket of the poor and the middle-class, and all we’ve got left to do is give out a public statement,</p>
@@ -41,7 +41,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
         
-                            <p><u>SVB AND USDC</u> (March 13, 2023)</p>
+                            <p><u>Silicon Valley Bank and USDC</u> (March 13, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>USDC is a form of cryptocurrency that is tethered to the value of the US dollar. This means that one USDC is always equivalent to one US dollar. The token is an ERC-20 variety that is constructed on the Ethereum blockchain, and it is issued by CENTRE, a cooperative effort between Circle and Coinbase.</p>
