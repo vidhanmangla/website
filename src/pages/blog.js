@@ -24,7 +24,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>WHAT ARE BLOCK CONFIRMATIONS?</u> (March 22, 2023)</p>
+                            <p><u>WHAT ARE BLOCK CONFIRMATIONS?</u> (March 20, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>When deploying a smart contract, why is it always a good practise to have at least 3 block confirmations?</p>
