@@ -24,6 +24,18 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
+                            <p><u>WHAT ARE BLOCK CONFIRMATIONS?</u> (March 22, 2023)</p>
+                        <br></br>
+                        <br></br>
+                            <p>When deploying a smart contract, why is it always a good practise to have at least 3 block confirmations?</p>
+                        <br></br>
+                            <p>As part of the “order selection mechanism” (which is called “mining”) it may happen that blocks are reverted from time to time, but only at the “tip” of the chain. The more blocks are added on top of a particular block, the less likely this block will be reverted. So it might be that your transactions are reverted and even removed from the blockchain, but the longer you wait, the less likely it will be.</p>
+
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+        
                             <p><u>SVB AND USDC</u> (March 13, 2023)</p>
                         <br></br>
                         <br></br>
