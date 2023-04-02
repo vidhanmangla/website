@@ -91,7 +91,7 @@ code {
 .about p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 98ch;
+  max-width: 100ch;
 }
 
 
@@ -106,7 +106,7 @@ code {
 .services p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 98ch;
+  max-width: 100ch;
 }
 
 
@@ -121,7 +121,7 @@ code {
 .certifications p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 98ch;
+  max-width: 100ch;
 }
 
 
@@ -136,7 +136,7 @@ code {
 .university p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 98ch;
+  max-width: 100ch;
 }
 
 
@@ -151,7 +151,7 @@ code {
 .projects p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 50ch;
+  max-width: 100ch;
 }
 
 .projects__cards {
