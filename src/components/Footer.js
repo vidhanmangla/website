@@ -9,7 +9,7 @@ const Footer = () => {
                 <br></br>
 
                         <p><small>Copyright © 2023 Vidhan Mangla.</small></p>
-                        <small><a href ="" target="_blank" rel="noreferrer" attributes-list>Bitcoin Whitepaper</a></small>
+                        <small><a href ="https://link.storjshare.io/jxyw3i564fhyvewk5xr33i7hxvzq/jobs-material%2FBitcoin%20Whitepaper.pdf" target="_blank" rel="noreferrer" attributes-list>Bitcoin Whitepaper</a></small>
             
         </footer>
         
