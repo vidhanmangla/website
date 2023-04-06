@@ -1,9 +1,4 @@
 import React from 'react'
-import Gas from '../assets/gas.png'
-import Self_destruct from '../assets/self_destruct.png'
-import Annual_Energy_Consumption from '../assets/Annual_Energy_Consumption.png'
-import languages from '../assets/languages.png'
-import testnets from '../assets/testnets.png'
 
 
 const Blog = () => {
@@ -62,6 +57,7 @@ const Blog = () => {
                             <p><small>This Web 3.0 website is proudly hosted on IPFS</small></p>
                         <br></br>
                             <p><small>Copyright © 2023 Vidhan Mangla.</small></p>
+                            <small><a href ="" target="_blank" rel="noreferrer" attributes-list>Bitcoin Whitepaper</a></small>
 
                     </footer>
 
