@@ -31,7 +31,6 @@ const Projects = () => {
                     
                         </div>
 
-
                         <div className="projects__card">
 
                             <h3>Non Fungible Tokens</h3>
@@ -48,7 +47,6 @@ const Projects = () => {
                                 <a align="center" href="https://main.d2bivn1wue16sy.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Marketplace (Soon)</a>
                         
                         </div>
-
 
                         <div className="projects__card">
 
