@@ -19,7 +19,7 @@ const Blog = () => {
                     <br></br>
                     <br></br>
 
-                            <p><u>Bitcoin, the enemy!</u> (March 23, 2023)</p>
+                            <p><u>Bitcoin, The Enemy!</u> (March 23, 2023)</p>
                         <br></br>
                         <br></br>
                             <p>We create inflation by printing money like newspaper, we take money out of pocket of the poor and the middle-class, and all we’ve got left to do is give out a public statement,</p>
