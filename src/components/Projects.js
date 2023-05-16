@@ -52,10 +52,10 @@ const Projects = () => {
                             <h3>Lottery!</h3>
                                 <img src={raffle} alt="Raffle Page" />
                                     <p>
-                                        Lottery powered by the Ethereum blockchain and Chainlink oracles.
+                                        Lottery powered by the Ethereum blockchain and Chainlink's decentralised network of oracles.
                                     </p>
                                     <p>
-                                        Available on Goerli and Sepolia testnet.
+                                        Available on the Sepolia testnet.
                                     </p>
                                 <a align="center" href="https://master.d13r93vvjico63.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go to website</a>
                         </div>
