@@ -17,10 +17,10 @@ const Projects = () => {
 
 
                         <div className="projects__card">
-                            <h3>zk Documents</h3>
+                            <h3>Using ZK-SNARK</h3>
                                 <img src={zkp} alt="zk proof" />
                                     <p>
-                                        Verification of documents without revealing the information in it by using zero-knowledge cryptography (ZK-SNARK) on the Ethereum blockchain.
+                                        Stealth project.
                                     </p>
                                 <a align="center" href="mailto:vidhanmangla@gmail.com" target="_blank" rel="noreferrer" className="button">Contact To Enquire</a>
                         </div>
