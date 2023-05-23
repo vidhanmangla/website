@@ -17,7 +17,7 @@ const Projects = () => {
 
 
                         <div className="projects__card">
-                            <h3>Using ZK-SNARK</h3>
+                            <h3>ZK-SNARK and ZK-STARK</h3>
                                 <img src={zkp} alt="zk proof" />
                                     <p>
                                         Stealth project.
