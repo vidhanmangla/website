@@ -9,24 +9,15 @@ import Blog from './pages/blog'
 function App() {
 
 	return (
-		
 		<div className="App">
-
 			<Router>
-				
 				<Navbar />
-				
 					<Routes>
-				
 						<Route exact path='/' element={<Home />} />
 						<Route path='/blog' element={<Blog/>} />
-				
 					</Routes>
-			
 			</Router>
-		
 		</div>
-	
 	)
 
 }
