@@ -9,7 +9,15 @@ const Blog = () => {
             <br></br>
             <br></br>
             <br></br>
-                <h2 align="center">Welcome to Vidhan's BitcoinLand!</h2>
+                <h2 align="center">My Work Diary</h2>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                            <p><u>On-Chain Finance is Inevitable</u> (July 20, 2023)</p>
+                        <br></br>
+                        <br></br>
+                            <p>Cryptographic truth and hybrid smart contracts are reinventing how every agreement that needs to be trusted will work.</p>
                     <br></br>
                     <br></br>
                     <br></br>
