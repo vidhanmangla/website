@@ -17,9 +17,6 @@ const Header = () => {
                                     <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' target="_blank" rel="noreferrer" className='button'>Meeting</a>
                             <br></br>
                             <br></br>
-                                    <small><a href ="https://link.storjshare.io/jxcx2enektm6vzvbfia6wumgwbwq/jobs-material%2FResume.pdf" target="_blank" rel="noreferrer" attributes-list>Resume</a></small>
-                            <br></br>
-                            <br></br>
                                     <small>📍 Guildford, England, United Kingdom</small>
                 </div>
         </section>
