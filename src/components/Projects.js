@@ -10,14 +10,6 @@ const Projects = () => {
             <h2>Technical Projects</h2>
                     <div className="projects__cards">
                         <div className="projects__card">
-                            <h3>ZK-SNARK and ZK-STARK</h3>
-                                <img src={zkp} alt="zk proof" />
-                                    <p>
-                                        Stealth project.
-                                    </p>
-                                <a align="center" href="mailto:vidhanmangla@gmail.com" target="_blank" rel="noreferrer" className="button">Contact To Enquire</a>
-                        </div>
-                        <div className="projects__card">
                             <h3>Lottery!</h3>
                                 <img src={raffle} alt="Raffle Page" />
                                     <p>
@@ -28,6 +20,16 @@ const Projects = () => {
                                     </p>
                                 <a align="center" href="https://master.d13r93vvjico63.amplifyapp.com/" target="_blank" rel="noreferrer" className="button">Go To Website</a>
                         </div>
+
+                        <div className="projects__card">
+                            <h3>ZK-SNARK and ZK-STARK</h3>
+                                <img src={zkp} alt="zk proof" />
+                                    <p>
+                                        Stealth project.
+                                    </p>
+                                <a align="center" href="mailto:vidhanmangla@gmail.com" target="_blank" rel="noreferrer" className="button">Contact To Enquire</a>
+                        </div>
+
                         <div className="projects__card">
                             <h3>Marketplace</h3>
                                 <img src={marketplace} alt="Marketplace" />
