@@ -9,7 +9,7 @@ const Header = () => {
                 <div className='header__content'>
                     <h1>Hi, I'm Vidhan</h1>
                         <p>
-                            Smart Contract & Blockchain Engineer, Web3 Developer
+                            Smart Contract, Blockchain & Web3 Engineer
                         </p>
                             <br></br>
 
