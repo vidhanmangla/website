@@ -11,7 +11,6 @@ const Header = () => {
                         <p>
                             Smart Contract, Blockchain & Web3 Engineer
                         </p>
-                        <small>(Graduate Developer @ MQube)</small>
                             <br></br>
 
                                     <a href='mailto:vidhanmangla@gmail.com' target="_blank" rel="noreferrer" className='button'>Email</a>
