@@ -14,6 +14,14 @@ const Blog = () => {
                     <br></br>
                     <br></br>
                     <br></br>
+                            <p><u>Advocating for Clarity: Embracing 'Decentralized Finance' Over 'Crypto' in Blockchain Terminology</u> (October 1, 2023)</p>
+                        <br></br>
+                        <br></br>
+                            <p>We should consider using the term "Decentralised Finance" more often when referring to blockchain-based infrastructural cryptocurrency projects, rather than just "crypto", which might seem a bit "cryptic" to the general audience.</p>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
                             <p><u>On-Chain Finance is Inevitable</u> (July 20, 2023)</p>
                         <br></br>
                         <br></br>
