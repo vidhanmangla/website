@@ -13,7 +13,7 @@ const Projects = () => {
                             <h3>Lottery!</h3>
                                 <img src={raffle} alt="Raffle Page" />
                                     <p>
-                                        Powered by Ethereum and Chainlink.
+                                        Powered by Ethereum, Chainlink VRF and Chainlink Automation Upkeep.
                                     </p>
                                     <p>
                                         Available on the Sepolia testnet.
