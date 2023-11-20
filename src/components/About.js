@@ -17,7 +17,7 @@ const About = () => {
                     <br></br>
                     <br></br>
                 <p align="center">
-                                On the side, I research cryptography, specifically Elliptic-curve and Zero-knowledge
+                                On the side, I research cryptography, specifically Elliptic-curve, and Zero-knowledge
                                 proofs.
                 </p>
         </section>
