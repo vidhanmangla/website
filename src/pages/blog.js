@@ -55,13 +55,12 @@ const Blog = () => {
                     <br></br>
                     <br></br>
                     <br></br>
-                            <p align="center">With ♥ fellow Bitcoiners!</p>
-                    <footer align="center" className="footer">
-                            <p><small>This Web 3.0 website is hosted on IPFS using peer-to-peer networking</small></p>
-                        <br></br>
-                            <p><small>Copyright © 2022-2024 Vidhan Mangla.</small></p>
-                            <small><a href ="https://link.storjshare.io/jxwdhp75vxdnkx3zgeeovvobtbqq/jobs-material%2Fbitcoin.pdf" target="_blank" rel="noreferrer" attributes-list>Bitcoin Whitepaper</a> | <a href ="https://link.storjshare.io/jxjrs5eyhosfwty3widjvna22a4q/jobs-material%2Fethereum.pdf" target="_blank" rel="noreferrer" attributes-list>Ethereum Yellowpaper</a></small>
-                    </footer>
+                <footer align="center" className="footer">
+                        <p><small>This Web 3.0 website is hosted on IPFS using peer-to-peer networking</small></p>
+                    <br></br>
+                        <p><small>Copyright © 2022-2024 Vidhan Mangla.</small></p>
+                        <small><a href ="https://link.storjshare.io/jxwdhp75vxdnkx3zgeeovvobtbqq/jobs-material%2Fbitcoin.pdf" target="_blank" rel="noreferrer" attributes-list>Bitcoin Whitepaper</a> | <a href ="https://link.storjshare.io/jxjrs5eyhosfwty3widjvna22a4q/jobs-material%2Fethereum.pdf" target="_blank" rel="noreferrer" attributes-list>Ethereum Yellowpaper</a></small>
+                </footer>
         </section>
     )
 
