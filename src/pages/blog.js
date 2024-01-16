@@ -14,6 +14,14 @@ const Blog = () => {
                     <br></br>
                     <br></br>
                     <br></br>
+                            <p><u>Reflex Indexes</u> (January 16, 2024)</p>
+                        <br></br>
+                        <br></br>
+                            <p>Take a cryptocurrency, what's the current problem in it? High volatility. Remove the volatility and make it more stable than the collateral; that's reflex index. Currently researching the RAI reflex index, designed to be a non-anchored stablecoin, but what I'm most interested in is its ability to retain it's purchasing power (unlike traditional fiat currencies), which is what fascinates me.</p>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <br></br>
                             <p><u>Advocating for Clarity: Embracing 'Decentralized Finance' Over 'Crypto' in Blockchain Terminology</u> (October 1, 2023)</p>
                         <br></br>
                         <br></br>
