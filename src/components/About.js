@@ -4,20 +4,19 @@ const About = () => {
         <section align="center" className='about'>
             <h2 align="center">About Me</h2>
                 <p align="center">
-                                A Blockchain enthusiast with 3+ years of experience developing production grade
-                                decentralised applications on EVM-compatible blockchains, skilled in Smart Contracts,
-                                Web3 and Blockchain infrastructure development.
+                                A blockchain enthusiast with 3+ years of experience developing production grade
+                                decentralised applications on EVM-compatible blockchains, skilled in smart contracts,
+                                web3 and blockchain infrastructure development.
                 </p>
                     <br></br>
                     <br></br>
                 <p align="center">
-                                Guitarist and motor-racing driver. I am a passionate man, and passion drives me.
-                                Everything I do in life, it's my passion!
+                                Guitarist and motor-racing driver.
                 </p>
                     <br></br>
                     <br></br>
                 <p align="center">
-                                On the side, I research cryptography, specifically Elliptic-curve, and Zero-knowledge
+                                On the side, I research cryptography, specifically elliptic-curve, and zero-knowledge
                                 proofs.
                 </p>
         </section>
