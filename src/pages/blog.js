@@ -51,6 +51,7 @@ const Blog = () => {
             <footer align="center" className="footer">
                 <small>This Web 3.0 website is hosted on IPFS using peer-to-peer networking</small>
                 <br />
+                <br />
                 <small>Copyright © 2022-2024 Vidhan Mangla.</small>
                 <br />
                 <small><a href="https://link.storjshare.io/jxwdhp75vxdnkx3zgeeovvobtbqq/jobs-material%2Fbitcoin.pdf" target="_blank" rel="noreferrer">Bitcoin Whitepaper</a> | <a href="https://link.storjshare.io/jxjrs5eyhosfwty3widjvna22a4q/jobs-material%2Fethereum.pdf" target="_blank" rel="noreferrer">Ethereum Yellowpaper</a></small>
