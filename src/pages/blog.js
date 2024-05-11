@@ -7,7 +7,7 @@ import post4 from '../posts/post4';
 import post5 from '../posts/post5';
 
 
-const blogPosts = [post5, post4, post3, post2, post1];
+const blogPosts = [post5, post1, post2, post3, post4];
 
 
 const Blog = () => {
