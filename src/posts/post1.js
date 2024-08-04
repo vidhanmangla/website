@@ -1,7 +1,7 @@
 const post = {
-    date: "January 16, 2024",
-    title: "Reflex Indexes",
-    content: `Take a cryptocurrency, what's the current problem with it? High volatility. Remove the volatility and make it more stable than its collateral; that's a reflex index. Currently researching the RAI reflex index, designed to be a non-anchored stablecoin, but what I'm most interested in is its ability to retain its purchasing power, unlike traditional fiat currencies and anchored stablecoins.`
+    date: "March 23, 2023",
+    title: "Bitcoin, The Enemy!",
+    content: "We create inflation by printing money like newspaper, we take money out of pocket of the poor and the middle-class, and all we’ve got left to do is give out a public statement, “The Federal Bank of America in a desperate attempt to save the economy raises interest rates to fight inflation.” Inflation the enemy, who created it? Us! Give out a public statement, “Bitcoin is the enemy!”."
 };
 
 export default post;

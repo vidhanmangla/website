@@ -12,12 +12,11 @@ const Header = () => {
                             Smart Contract, Blockchain & Web3 Engineer
                         </p>
                             <br></br>
-
-                                    <a href='mailto:vidhanmangla@gmail.com' target="_blank" rel="noreferrer" className='button'>Email</a>
-                                    <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' target="_blank" rel="noreferrer" className='button'>Meeting</a>
+                                <a href='mailto:vidhanmangla@gmail.com' target="_blank" rel="noreferrer" className='button'>Email</a>
+                                <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' target="_blank" rel="noreferrer" className='button'>Meeting</a>
                             <br></br>
                             <br></br>
-                                    <small>📍 London, England, United Kingdom</small>
+                                <small>📍 London, England, United Kingdom</small>
                 </div>
         </section>
     )
