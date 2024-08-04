@@ -13,16 +13,16 @@ const Projects = () => {
                             <h3>Private Blockchain Networks</h3>
                                 <img src={blockchain} alt="Raffle Page" />
                                     <p>
-                                        Complete setup (Ethereum based).
+                                        Complete setup (EVM-compatible blockchains).
                                     </p>
                                 <a align="center" href="mailto:vidhanmangla@gmail.com" target="_blank" rel="noreferrer" className="button">Contact To Enquire</a>
                         </div>
 
                         <div className="projects__card">
-                            <h3>Network of Oracles</h3>
+                            <h3>Decentralized Network of Oracles</h3>
                                 <img src={oracle} alt="oracle" />
                                     <p>
-                                        Complete setup (Ethereum based).
+                                        Complete setup (EVM-compatible blockchains).
                                     </p>
                                 <a align="center" href="mailto:vidhanmangla@gmail.com" target="_blank" rel="noreferrer" className="button">Contact To Enquire</a>
                         </div>
