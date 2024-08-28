@@ -27,7 +27,7 @@ const Blog = () => {
             <br></br>
             <br></br>
             <br></br>
-            <h2 align="center">Vidhan Ka Page</h2>
+            <h2 align="center">My Web3 Journal</h2>
             <br></br>
             <br></br>
             <br></br>
