@@ -14,6 +14,7 @@ const Social = () => {
                 <a href="https://github.com/vidhanmangla" target="_blank" rel="noreferrer" className="ghbutton">GitHub</a>
                 <a href="https://discord.gg/q5XtpBGWvb" target="_blank" rel="noreferrer" className="dcbutton">Discord</a>
                 <a href="https://ethereum.stackexchange.com/users/104489/vidhan-mangla?tab=profile" target="_blank" rel="noreferrer" className="sebutton">Stack Exchange</a>
+                <a href="https://www.instagram.com/woooziezy/" target="_blank" rel="noreferrer" className="igbutton">Follow on Instagram</a>
             </div>
             
             <style>
@@ -27,7 +28,7 @@ const Social = () => {
                         flex-wrap: wrap;
                         gap: 10px;
                     }
-                    .libutton, .ghbutton, .sebutton, .dcbutton {
+                    .libutton, .ghbutton, .sebutton, .dcbutton, .igbutton {
                         display: inline-flex;
                         align-items: center;
                         justify-content: center;
@@ -54,10 +55,13 @@ const Social = () => {
                     .dcbutton {
                         background-color: #7289DA;
                     }
+                    .igbutton {
+                        background-color: #E1306C;
+                    }
                 `}
             </style>
         </div>
     );
 };
 
-export default Social
+export default Social;
