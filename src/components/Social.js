@@ -28,11 +28,7 @@ const Social = () => {
                         flex-wrap: wrap;
                         gap: 10px;
                     }
-<<<<<<< HEAD
                     .libutton, .ghbutton, .sebutton, .dcbutton, .igbutton {
-=======
-                    .libutton, .ghbutton, .sebutton, .dcbutton {
->>>>>>> my-web3-website/master
                         display: inline-flex;
                         align-items: center;
                         justify-content: center;
