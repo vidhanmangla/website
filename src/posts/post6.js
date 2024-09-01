@@ -1,6 +1,6 @@
 const post = {
     date: "September 1, 2024",
-    title: "The Underlying Philosophy of Value (Trust in a Government vs. Trust in a Decentralized Network)",
+    title: "The Underlying Philosophy of Value - Trust in a Government vs. Trust in a Decentralised Network",
     content: `Imagine we have a cryptocurrency that’s 100% collateralised by gold, and we operate a bank that’s open 24/7 to exchange our coin for gold stored in the vaults. People like the convenience of our coin, preferring it over lugging around physical gold. They treat our coin as if it were gold because they know they can exchange it for gold at the bank whenever they need to.
 
 This setup is an example of our coin being exogenously collateralised by gold, pegged to its price, and governed by us since we control its issuance and burning. Since people can exchange their coins for gold at any time, the coin retains its value.
