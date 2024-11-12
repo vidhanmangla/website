@@ -32,7 +32,9 @@ code {
 .certifications,
 .projects,
 .university,
+.projects,
 .social,
+.referral,
 .footer {
   padding: 50px 25px 25px;
 }
@@ -113,85 +115,209 @@ code {
 /* ------------------------------------------------------ */
 /* -- Certifications -- */
 
+.certifications {
+  text-align: center;
+  padding: 50px 25px;
+}
+
 .certifications h2 {
   font-size: 42px;
   margin: 25px auto;
 }
 
-.certifications p {
-  font-size: 18px;
-  line-height: 130%;
-  max-width: 100ch;
+.certifications__cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.certifications__card {
+  max-width: 250px;
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #fff;
+  text-align: center;
+}
+
+.certifications__card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.certifications__card h3 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.certifications__card .button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #002f93;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.certifications__card .button:hover {
+  background-color: #0056b3;
 }
 
 
 /* ------------------------------------------------------ */
 /* -- University -- */
 
+.university {
+  text-align: center;
+  padding: 50px 25px;
+}
+
 .university h2 {
   font-size: 42px;
   margin: 25px auto;
 }
 
-.university p {
-  font-size: 18px;
-  line-height: 130%;
-  max-width: 100ch;
+.university__cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.university__card {
+  max-width: 300px;
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: left;
+  background-color: #fff;
+}
+
+.university__card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.university__card h3 {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.university__card p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.university__card .button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #002f93;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.university__card .button:hover {
+  background-color: #0056b3;
 }
 
 
 /* ------------------------------------------------------ */
 /* -- Projects -- */
 
+.projects {
+  text-align: center;
+  padding: 50px 25px;
+}
+
 .projects h2 {
   font-size: 42px;
   margin: 25px auto;
 }
 
-.projects p {
-  font-size: 18px;
-  line-height: 130%;
-  max-width: 100ch;
-}
-
 .projects__cards {
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 20px;
+  margin-top: 20px;
 }
 
 .projects__card {
-  max-width: 350px;
-
+  max-width: 300px;
   padding: 20px;
-
   border: 1px solid #000000;
   border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: left;
+  background-color: #fff;
+}
+
+.projects__card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .projects__card h3 {
-  font-size: 32px;
-  font-weight: 300;
+  font-size: 24px;
+  font-weight: 500;
   margin-bottom: 10px;
 }
 
 .projects__card p {
   font-size: 16px;
-  margin: 20px 0;
+  line-height: 1.5;
+  margin-top: 10px;
+  color: #333;
 }
 
 .projects__card img {
   width: 100%;
   height: auto;
-  margin: 20px 0 10px;
-
+  margin: 20px 0;
   border-radius: 8px;
 }
 
 .projects__card .button {
-  margin: 10px 5px 0;
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #002f93;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.projects__card .button:hover {
+  background-color: #0056b3;
 }
 
 
@@ -204,6 +330,19 @@ code {
 }
 
 .social .button {
+  margin: 5px;
+}
+
+
+/* ------------------------------------------------------ */
+/* -- Referrals -- */
+
+.referral h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.referral .button {
   margin: 5px;
 }
 

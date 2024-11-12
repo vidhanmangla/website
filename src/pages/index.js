@@ -3,7 +3,9 @@ import Header from '../components/Header'
 import About from '../components/About'
 import Certifications from '../components/Certifications'
 import University from '../components/University'
+import Projects from '../components/Projects'
 import Social from '../components/Social'
+import Referral from '../components/Referrals'
 import Footer from '../components/Footer'
 
 
@@ -15,7 +17,9 @@ const Home = () => {
 			<About />
 			<Certifications />
 			<University />
+			<Projects />
 			<Social />
+			<Referral />
 			<Footer />
 		</div>
 	)
