@@ -5,7 +5,7 @@ const University = () => {
                 <div className="university__cards">
                     <div className="university__card">
                         <h3>Financial Regulation and FinTech Policy</h3>
-                        <p>Research conducted on financial regulation of digital assets.</p>
+                        <p>Research conducted on the financial regulation of digital assets.</p>
                         <a href="https://link.storjshare.io/juwky6nhpzrbauofnsovxjxciaia/jobs-material%2FFinancial%20Regulation%20%26%20FinTech%20Policy.pdf" target="_blank" rel="noreferrer" className="button">View Project</a>
                     </div>
                     

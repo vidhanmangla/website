@@ -4,7 +4,7 @@ const Projects = () => {
             <h2 align="center">Technical Projects</h2>
             <div className="projects__cards">
                 <div className="projects__card">
-                    <h3>Tokenised Mortgage-Backed Securities Platform</h3>
+                    <h3>Tokenised Mortgage-Backed Securities & Platform</h3>
                     <p>Developed a Proof of Concept to tokenise mortgage-backed securities, providing asset-backed security tokens on a secure platform.</p>
                 </div>
                 

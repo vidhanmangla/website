@@ -3,7 +3,7 @@ const Referrals = () => {
         <div align="center" className="referral">
             <h2 align="center">Referrals</h2>
             <div className="button-container">
-                <a href="https://www.digitalocean.com/?refcode=4a6de07d9967&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+                <a href="https://www.digitalocean.com/?refcode=4a6de07d9967&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" target="_blank"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
             </div>
             
             <style>
