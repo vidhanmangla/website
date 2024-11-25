@@ -5,7 +5,7 @@ import Certifications from '../components/Certifications'
 import University from '../components/University'
 import Projects from '../components/Projects'
 import Social from '../components/Social'
-import Referral from '../components/Referrals'
+import FunStuff from '../components/FunStuff'
 import Footer from '../components/Footer'
 
 
@@ -19,7 +19,7 @@ const Home = () => {
 			<University />
 			<Projects />
 			<Social />
-			<Referral />
+			<FunStuff />
 			<Footer />
 		</div>
 	)

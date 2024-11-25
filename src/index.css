@@ -34,7 +34,7 @@ code {
 .university,
 .projects,
 .social,
-.referral,
+.funStuff,
 .footer {
   padding: 50px 25px 25px;
 }
@@ -342,14 +342,14 @@ code {
 
 
 /* ------------------------------------------------------ */
-/* -- Referrals -- */
+/* -- FunStuff -- */
 
-.referral h2 {
+.funStuff h2 {
   font-size: 42px;
   margin: 25px auto;
 }
 
-.referral .button {
+.funStuff .button {
   margin: 5px;
 }
 
