@@ -16,7 +16,7 @@ const Header = () => {
                                 <a href='https://calendly.com/vidhanmangla/meeting-with-vidhan' target="_blank" rel="noreferrer" className='button'>Meeting</a>
                             <br></br>
                             <br></br>
-                                <small>📍 London, England, United Kingdom</small>
+                                <small>📍 New Delhi, Delhi, India</small>
                 </div>
         </section>
     )

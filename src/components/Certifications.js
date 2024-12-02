@@ -1,4 +1,5 @@
 const Certifications = () => {
+
     return (
         <section align="center" className="certifications">
             <h2 align="center">Certifications</h2>
@@ -15,6 +16,7 @@ const Certifications = () => {
             </div>
         </section>
     )
+    
 }
 
-export default Certifications;
+export default Certifications

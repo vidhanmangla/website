@@ -1,4 +1,5 @@
 const Social = () => {
+
     return (
         <div align="center" className="social">
             <h2 align="center">Socials</h2>
@@ -62,6 +63,7 @@ const Social = () => {
             </style>
         </div>
     );
-};
 
-export default Social;
+}
+
+export default Social

@@ -1,4 +1,5 @@
 const FunStuff = () => {
+
     const addNetworkToMetaMask = async () => {
         if (window.ethereum) {
             try {
@@ -106,6 +107,7 @@ const FunStuff = () => {
             </style>
         </div>
     );
-};
 
-export default FunStuff;
+}
+
+export default FunStuff

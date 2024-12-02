@@ -1,4 +1,5 @@
 const Projects = () => {
+
     return (
         <div align="center" className="projects">
             <h2 align="center">Technical Projects</h2>
@@ -25,6 +26,7 @@ const Projects = () => {
             </div>
         </div>
     )
+
 }
 
-export default Projects;
+export default Projects

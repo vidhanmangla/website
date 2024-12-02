@@ -13,6 +13,7 @@ const blogPosts = [post7, post6, post5, post4, post3, post2, post1];
 
 
 const Blog = () => {
+    
     const [showModal, setShowModal] = useState(false);
     const [modalContent, setModalContent] = useState('');
     const [modalTitle, setModalTitle] = useState('');
@@ -61,6 +62,7 @@ const Blog = () => {
             </footer>
         </section>
     );
-};
 
-export default Blog;
+}
+
+export default Blog

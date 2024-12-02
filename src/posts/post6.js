@@ -1,4 +1,5 @@
 const post = {
+
     date: "September 1, 2024",
     title: "The Underlying Philosophy of Value - Trust in a Government vs. Trust in a Decentralised Network",
     content: `Imagine we have a cryptocurrency that’s 100% collateralised by gold, and we operate a bank that’s open 24/7 to exchange our coin for gold stored in the vaults. People like the convenience of our coin, preferring it over lugging around physical gold. They treat our coin as if it were gold because they know they can exchange it for gold at the bank whenever they need to.
@@ -14,6 +15,7 @@ At this stage, the coin would have shifted from being exogenously backed to now 
 Fiat currencies are centralised, backed by governments and actively managed by central banks, with their value driven by trust in the government, foreign exchange markets and market demand. In contrast, Bitcoin and Ether are decentralised, backed by technology and network consensus, with their value driven by scarcity, utility, and market demand.
 
 So, how are Bitcoin and Ether fundamentally any different from the Dollar or the British Pound Sterling, other than their differences in governance, issuance, and the nature of their value?`
-};
 
-export default post;
+}
+
+export default post
